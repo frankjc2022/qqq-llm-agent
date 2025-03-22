@@ -1,0 +1,73 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 463.9.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and trends in the technology sector, particularly focusing on major tech companies and their financial performance. Key highlights include:
+
+1. **AI and Tech Boom**: The analysis compares the launch of ChatGPT and the subsequent AI boom to previous technological advancements, indicating a significant shift in market dynamics.
+
+2. **Market Trends**: Small-cap stocks have shown strong performance, while financial stocks are gaining momentum. The equal-weighted RSP index is also experiencing positive movement, suggesting a broader market rotation.
+
+3. **Stock Performance**: US equities faced declines for two consecutive weeks, with the S&P 500 Index reflecting this trend. However, there are indications that the tech sector's downturn may be stabilizing, with expectations of higher prices ahead.
+
+4. **Investment Insights**: Analysts are closely monitoring the earnings reports of major tech companies like Amazon and Microsoft, particularly regarding their investments in AI and cloud infrastructure. These sectors are anticipated to drive substantial revenue growth in the coming years.
+
+5. **Apple's AI Strategy**: Apple is rebranding its AI initiatives as "Apple Intelligence," utilizing its own chips instead of Nvidia's for AI model training. The company is set to release new AI features in its upcoming iOS update, although there are concerns about the timeline for these developments.
+
+6. **Market Sentiment**: Investors are cautious about the heavy spending on AI by tech giants, with some expressing concerns over potential overinvestment. However, analysts believe that these investments are crucial for long-term growth.
+
+Overall, the text reflects a complex landscape in the tech industry, characterized by evolving market conditions, strategic shifts in AI development, and the ongoing impact of economic factors on stock performance.
+        The text discusses recent developments and insights regarding major tech companies, particularly focusing on artificial intelligence (AI) and stock performance. 
+
+Apple has rebranded "artificial intelligence" as "Apple Intelligence," indicating a strategic shift in how it presents its AI initiatives. Meanwhile, Mark Zuckerberg and Jensen Huang, CEOs of Meta and Nvidia respectively, expressed optimism about the rapid advancements in AI, suggesting that significant product innovations are expected in the next five years based on current AI technologies.
+
+Nvidia's reliance on its own chips for AI development is contrasted with Apple's choice to use Google-designed chips, highlighting a competitive landscape in AI infrastructure. Nvidia's CEO emphasized the transformative potential of generative AI, which is enhancing human creativity and improving energy efficiency in computing.
+
+The text also touches on the financial performance of various companies, including Nvidia's stock fluctuations and the anticipated earnings reports from tech giants like Microsoft and Amazon. Analysts are particularly interested in how these companies' investments in AI and cloud infrastructure will impact their revenues. 
+
+Fluence Energy is noted for its position in the energy storage market, leveraging AI and renewable technologies for growth. Additionally, there are discussions about the potential for MongoDB to become a trillion-dollar company by 2050, reflecting the ongoing interest in tech stocks with growth potential.
+
+Overall, the content emphasizes the dynamic nature of the tech industry, particularly in AI advancements and the financial implications for leading companies as they navigate market challenges and opportunities.
+        The text discusses recent news and insights regarding major tech companies, particularly focusing on their earnings reports and market performance. 
+
+Fluence Energy is highlighted for its strong position in the energy storage market, leveraging innovative technology to capitalize on the growing demand for AI and renewable energy. Meta Platforms is preparing to release its quarterly earnings, with analysts expressing cautious optimism about its ad spending performance despite broader market concerns. RBC Capital Markets analyst Brad Erickson believes Meta's fundamentals remain strong, while also noting Amazon's performance.
+
+Amazon is featured prominently, with discussions around its stock performance and comparisons to other companies. Peconic Partners, a hedge fund, has identified Amazon as a potentially strong investment. The Fidelity Puritan Fund's Q2 2024 review indicates a balanced investment strategy, focusing on income and capital growth.
+
+Microsoft is also in the spotlight as it prepares to report its fiscal Q4 earnings, with a particular focus on its AI revenue and spending. Analysts expect strong growth in its cloud services, Azure, and Amazon Web Services, emphasizing the importance of AI investments for future revenue generation.
+
+The text further explores the current market dynamics, noting a rotation of investor interest from large-cap tech stocks to small-cap stocks. Liz Young from SoFi provides insights into this trend, suggesting that investors are taking profits from big tech names, which are easier to sell due to their liquidity.
+
+Overall, the content reflects a keen interest in the financial health and strategic directions of these tech giants, particularly in relation to AI and cloud computing, as they navigate a shifting investment landscape.
+        The text discusses recent developments and news regarding major tech companies, particularly focusing on Tesla, Meta Platforms, and the broader tech sector. 
+
+Tesla's Full Self-Driving technology has come under scrutiny after an analyst had to intervene during a test to prevent an accident, raising concerns about the reliability of the system. Despite this, Tesla's stock has shown resilience, with analysts debating its future profitability and performance amidst mixed earnings reports.
+
+Meta Platforms is highlighted for its advancements in artificial intelligence, particularly with a new video segmentation model that builds on its previous successes. CEO Mark Zuckerberg presented this innovation at SIGGRAPH, showcasing the rapid progress in AI technology. Investors are closely watching Meta's upcoming earnings report, with expectations that it will perform well despite concerns about advertising revenue.
+
+The overall tech sector is experiencing a rotation as investors shift focus from large-cap tech stocks to smaller companies, influenced by recent earnings reports and economic indicators. Analysts are optimistic about the potential for growth in cloud services and AI investments, which are expected to drive future revenues for companies like Amazon and Microsoft.
+
+Additionally, the text mentions the performance of other companies, including McDonald's, which reported disappointing earnings but saw its stock rise, and Guardant Health, which experienced a stock increase following FDA approval for a new cancer screening test. 
+
+In summary, the tech industry is navigating challenges and opportunities, with significant attention on earnings reports and technological advancements that could shape market dynamics in the near future.
+        The text discusses recent developments and news regarding major tech companies, particularly those in the QQQ index, focusing on their performance and innovations. 
+
+1. **Cloud Computing and AI**: Microsoft and Amazon's stock performance is closely tied to their cloud results, with upcoming earnings reports anticipated to reveal insights into their AI revenue and spending. Apple has rebranded "artificial intelligence" as "Apple Intelligence," showcasing its innovative approach in the AI sector. Notably, Apple has opted to use chips designed by Alphabet (Google) instead of Nvidia for its AI infrastructure.
+
+2. **Fluence Energy**: The company is highlighted for its strong position in the energy storage market, leveraging innovative technology to capitalize on the growing demand for AI and renewable energy solutions.
+
+3. **MongoDB's Growth Potential**: There is speculation about MongoDB potentially becoming a trillion-dollar company by 2050, indicating optimism about its future in the database management sector.
+
+4. **Alphabet's Financial Performance**: Alphabet (GOOGL) has recently reported its second-quarter results, with analysts updating their forecasts. The company is experiencing a shift towards integrating more AI technology into its search capabilities, although concerns about YouTube's performance and operating margins have affected its stock.
+
+5. **Market Trends**: The text notes a challenging period for major tech stocks, referred to as a "Cruel Summer," as key players like Microsoft, Meta, Amazon, and Apple prepare to report their earnings. 
+
+Overall, the content reflects a dynamic landscape in the tech industry, with a strong emphasis on AI advancements, cloud computing, and the financial health of leading companies.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,59 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 491.04.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and trends in the technology sector, particularly focusing on major tech companies and their stock performance. Key highlights include:
+
+1. **Economic Trends**: The global economic landscape is shifting, with signs of a cooling economy and a softening job market. Investors are increasingly concerned about market breadth and inflation, especially as equities reach all-time highs.
+
+2. **Investment Insights**: Reports indicate that equity ETFs have seen significant inflows, with a notable $20.9 billion in the largest weekly intake of 2024. Analysts are advising a diversified portfolio approach, suggesting caution with large-cap stocks while still recognizing the potential of tech giants like Google, Meta, and Amazon.
+
+3. **AI and Technology**: The competition in the AI smartphone market is heating up, with companies like Samsung, Apple, and Alphabet planning significant AI upgrades to their devices. Analysts believe that features such as satellite connectivity could drive consumer upgrades, particularly for Apple’s iPhone.
+
+4. **Market Performance**: The S&P 500 and Nasdaq Composite have reached new record highs, with discussions around the sustainability of this growth. Experts express cautious optimism for the second half of 2024, highlighting sectors like energy, healthcare, and industrials as promising for investment.
+
+5. **Company-Specific News**: Notable mentions include Apple’s stock performance following AI announcements and its potential partnership with Meta on generative AI. The text also references the importance of understanding the implications of technological advancements on market dynamics.
+
+Overall, the content reflects a complex interplay of economic indicators, investment strategies, and technological advancements shaping the current landscape of the tech industry.
+        The text discusses recent developments and performance of major tech companies, particularly focusing on Nvidia and Microsoft, as of July 2024. 
+
+Nvidia has shown remarkable growth, with its stock increasing by 148% in the first half of 2024. Analysts, including Frank Cappelleri, suggest that Nvidia's stock may continue to rise, despite a recent sell-off. The company is highlighted as a leader in artificial intelligence (AI) and is compared to other stocks in the IBD 50, such as Vital Farms and Hims & Hers, which have also performed well. The text notes that Nvidia's stock has experienced significant volatility, with discussions around when investors should consider selling.
+
+Market sentiment is mixed as the S&P 500 reaches record highs, but experts like Tyler Ellegard express caution about the second half of the year, predicting a "choppy" market. Ellegard advises a diversified investment strategy, suggesting that while large tech stocks like Nvidia, Microsoft, and Apple remain attractive, investors should also consider sectors like energy, healthcare, and industrials.
+
+Microsoft is also in the spotlight due to a $14.4 million settlement related to allegations of discrimination against employees who took protected leave. This settlement follows a multi-year investigation by the California Civil Rights Department, which found that employees who took leave were penalized with lower bonuses and performance reviews.
+
+Overall, the text emphasizes the strong performance of Nvidia and the cautious outlook for the tech sector, while also addressing significant legal challenges faced by Microsoft.
+        The text discusses recent developments in the tech industry, particularly focusing on Amazon and its strategic moves in the luxury retail sector. Hudson's Bay Company (HBC) is set to acquire Neiman Marcus for $2.65 billion, with Amazon playing a significant role in this deal, which aims to enhance HBC's competitive position in luxury retail. This acquisition is seen as a way for Amazon to strengthen its foothold in the luxury fashion market.
+
+Additionally, Jeff Bezos is selling $5 billion worth of Amazon stock following a record high in share prices. The company is also winding down its Astro for Business security robot initiative, indicating a shift in focus towards enhancing its core offerings. 
+
+The text highlights the performance of the S&P 500 Total Return Index, which has seen a remarkable increase of 15% in the first half of 2024. It also notes the trend of stock splits among major companies, including Broadcom, which is set to split its stock 10-for-1, a move that often signals anticipated growth and profitability.
+
+Nvidia is mentioned as a key player in the AI sector, with analysts suggesting it remains a strong investment for the future. The semiconductor industry is also discussed, with insights into its performance and the potential risks and opportunities for investors in the second half of 2024.
+
+Overall, the text provides a snapshot of significant financial movements and strategic decisions within major tech companies, reflecting broader trends in the market and investment opportunities.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Tesla and Meta Platforms. 
+
+As of July 3, 2024, the S&P 500 Total Return Index has shown a remarkable increase of 15% in the first half of the year. Tesla has been a significant player in this growth, with its stock experiencing a notable rise, nearly erasing its losses for 2024. Analysts have raised price targets for Tesla following strong second-quarter delivery numbers, which exceeded expectations. The company has also seen a surge in its stock value, contributing to Elon Musk reclaiming his status as the world's richest person.
+
+In the automotive sector, Ford and GM reported substantial increases in electric vehicle (EV) sales, with Ford securing the second position in the EV market behind Tesla. The overall stock market has been buoyant, with the S&P 500 and Nasdaq reaching new highs, driven by strong performances from Tesla and Nvidia.
+
+Meta Platforms has also made headlines, with CEO Mark Zuckerberg announcing that the Threads social media platform has surpassed 175 million monthly active users. This growth comes as Meta prepares to introduce advertising on Threads, intensifying competition with other social media platforms. Analysts are optimistic about Meta's position in the AI landscape, suggesting it has a competitive edge over Google in this domain.
+
+Overall, the technology sector is witnessing significant advancements and competitive dynamics, with companies like Tesla and Meta leading the charge in innovation and market performance.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Alphabet (Google), Apple, and Samsung, as well as trends in the stock market. As of July 2024, the S&P 500 Total Return Index has shown significant growth, with the S&P 500 and Nasdaq Composite reaching new record highs. Analysts express cautious optimism about the market's performance in the second half of the year, suggesting a diversified investment approach, particularly in sectors like energy, healthcare, and industrials, while maintaining some exposure to tech giants.
+
+The competition in the AI smartphone market is heating up, with Samsung, Apple, and Alphabet planning AI upgrades to their devices. This race for dominance highlights the increasing importance of artificial intelligence in consumer technology. However, Google's rapid integration of AI has raised concerns about its environmental impact, particularly regarding greenhouse gas emissions.
+
+In the software sector, analysts are noting a potential upside for software stocks, despite earlier negative sentiment. Companies like Salesforce and Adobe are highlighted as strong performers, indicating a recovery in this space. Additionally, Alphabet is making strategic moves, including the closure of its agricultural startup, Mineral, as part of cost-cutting measures.
+
+Overall, the text reflects a dynamic landscape in the tech industry, characterized by competition, innovation, and evolving market strategies, with a focus on AI and sustainability as key themes.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

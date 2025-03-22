@@ -1,0 +1,67 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is .
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies and market trends, particularly focusing on the QQQ ETF and its holdings. 
+
+Key highlights include:
+
+1. **Starbucks Strike**: Starbucks may face a significant barista strike on Christmas Eve, indicating labor tensions within the company.
+
+2. **Job Market Insights**: A recent Census report suggests job growth, but warns of a tightening labor market, which could impact businesses reliant on consumer spending and hiring.
+
+3. **Interest Rate Predictions**: Analysts predict that the Federal Reserve may need to raise interest rates in 2025, as indicated by the positive spread between current and forward rates following the December Fed meeting.
+
+4. **Market Sentiment**: There are signs of market exhaustion, with discussions on whether the bull market is beginning to falter. Despite this, some analysts remain optimistic about market performance.
+
+5. **AI and Tech Investments**: Warren Buffett's portfolio includes three AI-related stocks, reflecting the growing importance of artificial intelligence in the tech sector. Nvidia, a leader in AI hardware, faces competition from Broadcom, which could affect its stock performance.
+
+6. **ETF Performance**: The Vanguard Mega Cap Growth ETF has a significant portion of its investments in major tech companies like Nvidia, Apple, and Microsoft, highlighting the trend of investors seeking exposure to these high-value stocks.
+
+7. **Regulatory Changes**: The tech industry is preparing for potential shifts in government policy under President-elect Donald Trump, particularly regarding AI, which may be viewed as an economic asset rather than a regulatory concern.
+
+Overall, the text encapsulates the dynamic landscape of the tech industry, emphasizing labor issues, market predictions, and the growing influence of AI on investment strategies.
+        The text discusses recent news and analyses regarding major tech companies, particularly NVIDIA Corporation (NVDA) and Microsoft Corporation (MSFT), as they are among the top holdings in the QQQ index. 
+
+NVIDIA is highlighted as a top pick by billionaire investor Chase Coleman, and despite concerns about short-term demand, Morgan Stanley has named it a "Top Pick." Analysts are optimistic about NVIDIA's potential, although there are predictions that its dominance may be challenged by other tech giants in the coming years. The stock has experienced fluctuations, including a recent decline, raising questions about its current valuation and future growth prospects.
+
+The text also examines Taiwan Semiconductor Manufacturing Company (TSMC), which has seen its stock double in 2024, prompting discussions about whether it remains a good investment. Comparisons are made between TSMC and ASML, another key player in the semiconductor industry, particularly in relation to artificial intelligence (AI) advancements.
+
+Microsoft is portrayed as a strong investment opportunity, especially under CEO Satya Nadella's leadership, as it positions itself to capitalize on the AI revolution. Analysts suggest that Microsoft is undervalued and is among the best stocks to hold for the long term. The text notes that several hedge fund managers are optimistic about Microsoft’s potential, indicating its strong standing in the tech sector.
+
+Overall, the content reflects a positive outlook on both NVIDIA and Microsoft, emphasizing their roles in the evolving tech landscape and the potential for significant returns on investment as they navigate market challenges and opportunities in AI and semiconductor production.
+        The text provides a comprehensive overview of recent news and analyses concerning major tech companies, particularly focusing on Amazon (AMZN) and Nvidia (NVDA). 
+
+Key highlights include a survey indicating that 45% of Amazon Japan's delivery drivers have been involved in accidents, raising concerns about the company's operational practices. Analysts are debating whether Amazon's stock is a worthwhile investment, given its strong performance in 2023, where shares surged by 81%. Despite this, economic uncertainties may pose risks for future growth.
+
+The text also discusses predictions about Nvidia's potential decline in dominance over the next five years, suggesting that other tech companies could surpass it. Additionally, it mentions that Amazon is in talks with IAG SA to provide Wi-Fi services for its airline fleet, indicating Amazon's expansion into new markets.
+
+Chase Coleman, a prominent tech billionaire, has included Amazon in his top stock picks, reflecting confidence in its long-term prospects. The article emphasizes the competitive advantages Amazon holds in e-commerce, suggesting that its stock may be undervalued based on its cash flow growth.
+
+Furthermore, the text touches on Warren Buffett's investment strategy, noting that a significant portion of his portfolio is invested in AI-related stocks, highlighting the growing importance of artificial intelligence in the tech sector. 
+
+Overall, the content underscores the dynamic nature of the tech industry, with Amazon and Nvidia at the forefront of discussions about investment opportunities and market trends, while also addressing the challenges and uncertainties that may affect their future performance.
+        The text discusses several key developments in the technology and automotive sectors, particularly focusing on Tesla and Meta Platforms. 
+
+Tesla has recently raised $6 billion in a Series C financing round, with significant contributions from various investment firms, including Kingdom Holdings, which invested approximately $400 million. The company is noted for its stock volatility, attracting both skeptics and supporters. Analysts are divided on Tesla's future, with some viewing it as a game-changing company while others express concerns about its high valuation and lack of immediate catalysts for growth. The discussion includes the potential impact of federal tax credits on electric vehicle purchases and the competitive landscape of the EV market, highlighting General Motors' recent revenue growth and market share gains.
+
+In the realm of Meta Platforms, the company is navigating challenges related to regulatory scrutiny and advertising performance. Despite these hurdles, Meta is recognized for its momentum in the stock market and is considered a top pick by some investors. The text also mentions Meta's initiatives in artificial intelligence and sustainability, including plans to seek new nuclear power sources to support its AI objectives.
+
+Overall, the content reflects a dynamic intersection of investment opportunities, market challenges, and technological advancements, particularly in the fields of electric vehicles and AI, as companies like Tesla and Meta adapt to evolving market conditions and investor expectations.
+        The text discusses recent news and insights regarding major tech companies, particularly Alphabet Inc. (GOOGL) and its position in the market. Key highlights include predictions about the future of Nvidia and potential competitors that may surpass it in the next five years. Chase Coleman, a prominent tech billionaire, has included Alphabet in his top stock picks, indicating confidence in its future performance.
+
+The intrinsic value of Alphabet is estimated at $242, based on a two-stage free cash flow model, while its current stock price is around $196. Analysts express mixed sentiments about Alphabet's prospects, with some hedge fund managers optimistic about its potential despite regulatory challenges. Wells Fargo notes that Google's proposed remedies in a Department of Justice case may limit settlement options, suggesting a prolonged legal battle.
+
+Adobe's recent financial performance is also highlighted, showcasing significant growth in its digital media segment, which has led to positive investor sentiment. Additionally, Citi analysts comment on Alphabet's narrower remedy proposal in response to regulatory scrutiny, indicating that while there are challenges, the company is poised to appeal and adapt.
+
+The text further explores the competitive landscape in artificial intelligence, suggesting that while Tesla has potential, established AI leaders may offer better investment opportunities. Nvidia's dominance in AI accelerators is noted, with a substantial market share that underscores its industry leadership.
+
+Overall, the content reflects a dynamic tech investment environment, with Alphabet and other companies navigating regulatory hurdles while striving for growth in a rapidly evolving market.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

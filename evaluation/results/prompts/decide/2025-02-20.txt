@@ -1,0 +1,82 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 537.23.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly those represented in the QQQ ETF. Key highlights include:
+
+1. **Federal Reserve Insights**: The Fed's recent minutes indicate concerns about inflation amidst economic uncertainty, with unemployment claims rising unexpectedly.
+
+2. **Stock Market Trends**: The QQQ ETF, known for its focus on technology, is noted for its strong performance, boasting a 421% return over the past decade, significantly outperforming the S&P 500.
+
+3. **Economic Forecasts**: Global growth forecasts for 2025-2026 have been slightly adjusted, reflecting mixed national economic conditions. Concerns about a potential recession are linked to policy changes under President Trump, including tariffs and layoffs.
+
+4. **Company-Specific News**:
+   - **Microsoft**: Recognized for its solid long-term growth potential, driven by trends in AI and cloud computing.
+   - **Apple**: The company is launching a new lower-cost iPhone model, which is expected to enhance its product lineup. Additionally, there are discussions about its streaming service facing significant financial losses.
+   - **Alibaba**: The company reported strong Q3 earnings, driven by recovery in commerce and cloud services, positioning it well for future growth.
+
+5. **Market Analysis**: Analysts are evaluating the implications of various tech companies' strategies, including Apple's focus on its own chip technology and the competitive landscape in the AI sector.
+
+Overall, the text encapsulates a dynamic landscape in the tech industry, highlighting both challenges and opportunities for major players as they navigate economic fluctuations and market demands.
+        The text provides a comprehensive overview of recent developments and trends in the technology sector, particularly focusing on major companies within the QQQ index. Key highlights include:
+
+1. **Bridgewater Associates' Portfolio**: The firm reported notable stake reductions in major tech stocks such as Google, Nvidia, Meta, Microsoft, and Amazon, indicating a strategic shift in their investment approach.
+
+2. **Madison Small Cap Fund**: The fund concluded a successful year, achieving solid returns in the fourth quarter and for the entire year, reflecting a positive trend in small-cap investments.
+
+3. **Semiconductor Industry Challenges**: The potential demise of the Chips Act poses significant challenges for semiconductor stocks, particularly for companies like AMD, which is navigating competition and market pressures in the AI sector.
+
+4. **Nvidia's Market Position**: Nvidia is facing scrutiny with analysts predicting a potential downturn in its stock due to high expectations and recent downgrades. The company is also adjusting its portfolio by divesting from certain investments while maintaining a focus on AI and quantum computing advancements.
+
+5. **Microsoft's Innovations**: Microsoft has made strides in quantum computing, which could have significant implications for the tech sector. The company is also involved in discussions about responsible innovation in AI, highlighting the ongoing arms race in this field.
+
+6. **Market Performance**: The S&P 500 has shown remarkable growth, with the "Mag 7" stocks contributing to a 25% return in 2024, marking a significant achievement not seen since the Dotcom Bubble.
+
+Overall, the text encapsulates a dynamic landscape in the tech industry, characterized by strategic investment shifts, emerging challenges, and significant advancements in technology.
+        The text provides a summary of recent news and updates regarding major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Hims & Hers**: The stock has been downgraded to a "Hold" after a significant gain of 205%, indicating potential for a short-term pullback.
+
+2. **Bridgewater Associates**: The Q4 2024 update reveals a rise in portfolio value, with notable stake reductions in major companies like Google, Nvidia, Meta, Microsoft, and Amazon.
+
+3. **Madison Funds**: The Madison Sustainable Equity Fund and Madison Small Cap Fund reported strong performance, with the S&P 500 achieving a 25% gain for the year, marking consecutive years of significant growth.
+
+4. **Walmart and Hasbro**: Walmart's stock has declined due to cautious future guidance, while Hasbro's stock has rallied despite tariff impacts on new product launches.
+
+5. **Amazon**: The company has gained creative control of the James Bond franchise and reported strong Q4 earnings, although its stock dipped due to a less favorable outlook for the first quarter. Analysts suggest that Amazon is poised for strong growth this year.
+
+6. **Broadcom and AMD**: Broadcom is seen as a strong player in the AI market, with analysts boosting revenue forecasts for both Broadcom and AMD. The company is also noted for its potential benefits from recent market selloffs.
+
+7. **Nvidia**: The stock has paused despite the debut of its new AI chip, Blackwell, indicating a need for further developments to maintain momentum.
+
+Overall, the tech sector is experiencing significant movements, with various companies showing strong performance and strategic shifts in response to market conditions.
+        The text discusses various developments in the automotive and technology sectors, particularly focusing on Rivian, Tesla, and Meta. Rivian has forecasted a modest gross profit for the year after achieving its first positive earnings margin in the fourth quarter, attributed to factory upgrades and supplier renegotiations. Meanwhile, Tesla faces scrutiny over workplace safety violations following a worker's death at its Austin plant, and its stock has seen significant short-selling activity.
+
+The automotive market is also impacted by Mercedes-Benz's disappointing earnings, which raise concerns about electric vehicle (EV) sales, particularly for competitors like Ford and Tesla. Tesla's sales have reportedly plummeted in early 2025, and analysts are expressing bearish sentiments regarding its stock, suggesting it may be time to trim investments.
+
+In the tech sector, Meta is rolling out AI tools in the EU despite facing regulatory challenges. The company has also been criticized for its handling of job cuts and the spread of harmful content on its platforms. Additionally, Meta's innovations, such as AI-powered Ray-Bans, aim to enhance accessibility for the visually impaired.
+
+Overall, the text highlights the challenges and opportunities faced by companies in the automotive and tech industries, with a particular focus on financial performance, regulatory scrutiny, and innovation efforts.
+        The text provides a comprehensive overview of recent developments and investment insights related to major tech companies, particularly focusing on Alphabet Inc. (GOOGL) and its stock performance. 
+
+Key highlights include:
+
+1. **Investment Strategies and Market Performance**: The S&P 500 experienced a significant 25% gain in 2024, marking its second consecutive year of such growth. The Madison Small Cap Fund also reported solid returns, contributing to a positive investment climate.
+
+2. **Alphabet Inc. Insights**: Alphabet's stock has been a focal point, with various analyses suggesting it remains a strong investment despite recent revenue misses. The company is increasing its capital expenditure to $75 billion, primarily to bolster its AI initiatives. Analysts are divided on its stock performance, with some viewing it as a buying opportunity while others note a recent slump.
+
+3. **Competitor Analysis**: The text discusses the competitive landscape, particularly highlighting Advanced Micro Devices (AMD) and Nvidia. AMD's advancements in AI technology are seen as a challenge to Nvidia's market dominance, indicating a shift in the tech sector's dynamics.
+
+4. **Market Trends**: The "Mag 7" stocks, which include major tech players, saw substantial growth, contributing to the overall market's performance. The text also mentions the potential for a bubble in AI investments, particularly concerning Nvidia.
+
+5. **Future Outlook**: The ongoing developments in AI and tech investments suggest a robust future for companies like Alphabet and AMD, with analysts recommending continued observation of these stocks for potential investment opportunities.
+
+Overall, the text encapsulates the current state of the tech market, emphasizing investment strategies, stock performance, and the competitive landscape among leading tech firms.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

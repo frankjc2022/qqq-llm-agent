@@ -1,0 +1,69 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 495.96.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The latest news regarding tech companies in the QQQ index highlights several significant developments. The Conference Board Leading Economic Index (LEI) has fallen to its lowest level since October 2016, indicating a potential slowdown in economic activity. Additionally, there are expectations that the 10-Year Treasury yield may rise above 6% due to strong economic data and persistent inflation.
+
+In the stock market, there has been a notable decline, with the S&P 500 and Nasdaq facing potential back-to-back losses. Prominent investor Paul Tudor Jones anticipates a Treasury selloff, predicting increased debt levels regardless of the political leadership. The market is also seeing volatility, with strategies being discussed for major stocks like SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.
+
+Apple Inc. is in the spotlight as CEO Tim Cook recently met with China's minister for industry, and the company is facing challenges with battery issues following the iOS 18 update. Analysts have mixed views on Apple's near-term outlook, with some maintaining a buy rating based on the company's revenue potential from AI integration and services.
+
+Moreover, Meta's smart glasses are gaining traction in retail, although they still lack certain AI features. The competitive landscape is intensifying, with aggressive pricing strategies being adopted by companies like Apple in response to domestic competitors and market conditions.
+
+Overall, the tech sector is navigating a complex environment marked by economic indicators, stock market fluctuations, and competitive pressures, particularly for major players like Apple and Meta.
+        The latest news highlights significant developments in the tech sector, particularly focusing on NVIDIA (NVDA) and Microsoft (MSFT). 
+
+NVIDIA has recently changed its risk rating for the Yield Shares Purpose ETF from "medium-to-high" to "high," reflecting a thorough review process mandated by Canadian regulations. The company's stock has reached all-time highs, with its market capitalization soaring from $1 trillion to over $3 trillion. Analysts have raised their price target for NVIDIA shares, indicating strong performance and investor confidence. CEO Jensen Huang emphasized the company's commitment to integrating AI into its operations, enhancing areas like chip design and supply chain management.
+
+In the competitive landscape, Advanced Micro Devices (AMD) faces challenges against NVIDIA and Intel, as the demand for AI-related technologies continues to grow. NVIDIA is also planning a significant investment in Thailand, which is expected to be announced during Huang's upcoming visit.
+
+On the broader tech front, Microsoft is actively involved in clean energy initiatives, particularly through partnerships for Small Modular Reactors (SMRs) to power data centers sustainably. U.S. Energy Secretary Jennifer Granholm discussed the importance of these technologies in transitioning to clean energy, highlighting the need for collaboration among tech companies to standardize specifications for SMRs.
+
+Additionally, OpenAI has appointed a former White House official as its chief economist to explore AI's economic impact, while Amazon is leveraging AI to boost revenue growth, particularly in its AWS segment. Overall, the tech industry is witnessing rapid advancements and strategic investments aimed at harnessing AI and sustainable energy solutions.
+        The latest news highlights significant developments among major tech companies, particularly focusing on Amazon (AMZN), Microsoft (MSFT), Google (GOOG), and Broadcom (AVGO). 
+
+Energy Secretary Jennifer Granholm discussed the push for clean nuclear energy through Small Modular Reactors (SMRs), emphasizing their potential to provide stable, clean power for data centers. She noted that while the adoption of SMRs is promising, tech companies face challenges in standardizing designs to facilitate widespread use. Granholm expressed excitement about the collaboration among tech firms to streamline the procurement of these reactors.
+
+Amazon is expanding its operations, including a new Whole Foods location in Phoenix and a pilot program for drone delivery. The company is also leveraging artificial intelligence (AI) to enhance its revenue growth, particularly within its Amazon Web Services (AWS) division. Analysts are optimistic about Amazon's stock, predicting a potential upside as it continues to innovate and adapt in a competitive market.
+
+Broadcom has experienced significant growth, driven by strong demand for AI infrastructure and semiconductor hardware. The company is set to host VMware Explore 2024, showcasing its commitment to advancing technology and industry collaboration. 
+
+Overall, the tech sector is witnessing a transformative phase, with companies investing in clean energy solutions and AI technologies to enhance operational efficiency and market competitiveness. The focus on sustainable energy and innovative technologies positions these firms for future growth, despite the challenges they face in implementation and market dynamics.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Tesla, Ford, General Motors, and Meta Platforms. 
+
+Tesla is set to report its third-quarter earnings, with analysts speculating that its discounting strategies in European and Chinese markets may negatively impact results. Investors are particularly interested in updates regarding Tesla's cheaper EV and robotaxi initiatives. Meanwhile, Ford is facing scrutiny as its pre-earnings stock performance raises concerns about its growth trajectory, especially in light of disappointing sales data.
+
+General Motors is making strides toward profitability in the electric vehicle (EV) sector, which could challenge Tesla's dominance. Analysts suggest that GM's progress may not significantly affect Tesla's market position in the near term, as Tesla continues to lead in customer traction. 
+
+Market strategist Kenny Polcari emphasizes the potential for a market pullback, suggesting that while technology remains a strong sector, investors should wait for more favorable entry points. He highlights the ongoing importance of artificial intelligence (AI) in driving market trends, predicting that the AI sector will expand beyond the current leading companies.
+
+In the realm of Meta Platforms, the company is poised to exceed third-quarter earnings expectations, driven by innovations in AI and monetization strategies. Recent legal challenges regarding child safety claims have been dismissed, allowing Meta to focus on its growth initiatives. The company is also reviving facial recognition technology to combat scams, indicating a proactive approach to user safety.
+
+Overall, the text reflects a dynamic landscape in the tech industry, with companies navigating challenges and opportunities in the evolving market.
+        The text provides a comprehensive overview of recent developments and news regarding major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Facebook's AI Success**: Facebook has outperformed Apple and Google in the AI sector, contributing to a remarkable 560% stock gain.
+
+2. **Yelp's Challenges**: Despite remaining profitable, Yelp is experiencing a downturn in its advertising business related to restaurants and retail, leading to a bearish outlook on its stock.
+
+3. **Google DeepMind's Innovations**: John Jumper, a Nobel Laureate, discusses advancements in AlphaFold, a drug discovery AI model, indicating significant progress in the field.
+
+4. **Amazon's Growth Prospects**: Amazon is expected to see a 25% upside in its stock, driven by AI enhancements, particularly in its AWS segment.
+
+5. **Qualcomm and Alphabet Collaboration**: Qualcomm is partnering with Alphabet to develop AI voice assistants for the automotive industry, showcasing a strategic move towards integrating AI in vehicles.
+
+6. **Nvidia's Global Expansion**: Nvidia is focusing on AI chip development in India and expanding operations in Thailand, indicating a strong growth trajectory.
+
+7. **Honeywell and Google Cloud Partnership**: This collaboration aims to enhance operational productivity in the industrial sector through AI integration, with solutions expected to be available in 2025.
+
+8. **Alphabet's Stock Performance**: Alphabet has faced stock declines due to concerns over its YouTube segment and broader AI sector challenges, yet analysts remain optimistic about its long-term growth potential.
+
+Overall, the text reflects a dynamic landscape in the tech industry, highlighting both challenges and opportunities for major players as they navigate advancements in AI and market fluctuations.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

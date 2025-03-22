@@ -1,0 +1,71 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 440.06.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and analyses concerning major tech companies, particularly focusing on stock market trends and specific companies like Apple and their performance. 
+
+Key highlights include:
+
+1. **Market Performance**: Despite a positive year-to-date performance for equities, many investors remain cautious, positioning themselves for potential risks. The S&P 500 experienced a brief dip, which disappointed both bearish and bullish investors. Analysts suggest that the market may be overbought, especially with interest rates expected to stay elevated.
+
+2. **Economic Indicators**: The jobs report has provided optimism for a possible Federal Reserve interest rate cut, while earnings forecasts for 2024 remain stagnant despite positive earnings season headlines, indicating potential market volatility ahead.
+
+3. **Apple's Developments**: Apple is facing scrutiny over its payment systems in iPhone apps, with a federal judge questioning whether the company is complying with a court order aimed at increasing payment options. Additionally, Apple’s recent earnings report showed a significant stock buyback plan of $110 billion, despite a 10% drop in iPhone sales. Analysts are optimistic about Apple's stock, with some predicting a rise to $210.
+
+4. **Industry Trends**: The text also touches on broader industry trends, such as the saturation of the streaming market, which may require consolidation for recovery. 
+
+Overall, the content reflects a cautious yet analytical perspective on the current state of the tech market, emphasizing the interplay between economic indicators, company performance, and investor sentiment.
+        The latest news highlights significant developments in the technology sector, particularly focusing on major companies like Nvidia, Microsoft, and Apple. 
+
+Nvidia continues to attract investor attention despite fluctuations in its stock price, with recent reports indicating a billion-dollar stake cut by a prominent investor. The company is also poised to release new AI chips, which could further influence its market position. Analysts remain optimistic about Nvidia's potential, with discussions around its stock performance and future earnings.
+
+Microsoft is making headlines with a substantial $3 billion investment in Wisconsin aimed at building an AI hub. This initiative is part of a broader strategy to enhance its cloud AI infrastructure and support local workforce training. The company is also closing its Africa Development Centre in Nigeria, which raises concerns about job losses but emphasizes its commitment to strategic growth in other areas.
+
+Apple's recent iPad event showcased its new M4 chip, which enhances AI capabilities and hints at future innovations expected at the upcoming WWDC conference. The automation sector is also experiencing growth, with industrial robots increasingly integrated with AI technologies, suggesting a promising future for the industry.
+
+Overall, the tech landscape is characterized by a mix of cautious optimism and strategic investments, as companies navigate market challenges while pushing forward with AI advancements and infrastructure development.
+        The text provides recent news updates about major technology companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon has been in the spotlight for several significant developments. On May 6, 2024, Keith Alexander, a director at Amazon, sold 1,000 shares of the company. The company has also launched an electrified drayage truck fleet at the Port of Los Angeles, marking its commitment to sustainability in logistics. Additionally, Amazon is expanding its pharmacy services, with plans for same-day delivery in multiple U.S. cities, aiming to enhance consumer health by making prescription pickups more convenient. Dr. Vin Gupta, Amazon's Pharmacy Chief Medical Officer, emphasized the importance of timely treatment for patients and highlighted the service's affordability and accessibility.
+
+In the tech sector, Apple is making strides with its new M4 chip, which enhances AI capabilities, hinting at future innovations to be unveiled at the upcoming WWDC conference. 
+
+Broadcom is also making headlines, particularly with its recent upgrade by analysts, indicating a positive outlook for the company. The firm has launched its Automic Automation solution as a Software as a Service (SaaS), which aims to streamline workload automation and orchestration.
+
+Overall, the updates reflect a dynamic landscape in the tech industry, with companies like Amazon and Broadcom pushing forward with innovative solutions and strategic expansions, while also addressing consumer needs and market demands.
+        The text discusses recent developments concerning major tech companies, particularly Tesla and Meta, highlighting various investigations, financial performance, and strategic moves.
+
+**Tesla Updates:**
+Tesla is currently under federal investigation for potential securities and wire fraud related to its self-driving technology claims. Despite this scrutiny, the company has become Luminar Technologies' largest lidar customer, contributing significantly to Luminar's revenue. Tesla's stock has shown volatility, with discussions around a potential dividend despite a reported decline in sales and profits. President Biden recently visited Wisconsin to promote AI investments, indirectly referencing Tesla's challenges. The company is also facing pressure from competitors and market conditions, leading to price cuts in major markets and a significant drop in profits.
+
+**Meta Developments:**
+Meta is facing legal challenges, including a recent undercover operation that resulted in arrests related to online predation on its platforms. The company has also been fined by Turkey's competition board for data-sharing practices. Despite these issues, Meta has reported strong revenue growth, although it fell short of investor expectations. The company is actively rolling out AI tools in the EU and has announced plans for a new data center in Montgomery, Alabama, indicating ongoing investments in infrastructure and technology.
+
+Overall, both Tesla and Meta are navigating complex regulatory environments while attempting to maintain growth and adapt to market demands. The focus on AI and technological advancements remains a key theme for both companies as they address challenges and opportunities in their respective sectors.
+        The text discusses recent developments and news related to major tech companies, particularly focusing on Alphabet (Google) and its performance in the stock market. Key highlights include:
+
+1. **William von Mueffling's Portfolio**: His Cantillon Capital Management portfolio saw a 6% increase in value, reflecting positive market trends.
+
+2. **Reddit's Earnings**: Reddit's first earnings report as a public company exceeded expectations, driven by a significant increase in daily active users. However, analysts express concerns about its long-term revenue growth strategies.
+
+3. **Tech Sector Performance**: The tech sector experienced a rise, with Apple showcasing its M4 chip at an event, hinting at future AI capabilities.
+
+4. **Impact of Google on Competitors**: Google’s changes to its search algorithms have adversely affected Tripadvisor, highlighting the competitive landscape in the tech industry.
+
+5. **Alphabet's Financial Health**: Alphabet reported strong Q1 earnings, leading to discussions about dividend buybacks and investments in AI, indicating robust growth potential.
+
+6. **Dividend Considerations**: While tech giants like Alphabet and Meta are now paying dividends, they are often viewed as less attractive to investors seeking steady income due to their growth-focused nature.
+
+7. **Historical Anecdote**: A notable incident from 2015 is mentioned where Google briefly lost ownership of its domain, illustrating the occasional missteps even large corporations can make.
+
+8. **Market Dynamics**: There are ongoing discussions about U.S. regulations potentially limiting Chinese access to AI software, reflecting geopolitical influences on the tech industry.
+
+Overall, the text provides insights into the financial performance, competitive challenges, and strategic moves of major tech companies, particularly in the context of evolving market conditions.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

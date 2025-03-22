@@ -1,0 +1,83 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is .
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses various financial and market-related topics, primarily focusing on the implications of trade policies and economic conditions as President Donald Trump returns to office. Key points include:
+
+1. **Dollar Correction**: The absence of trade policy in Trump's inauguration speech has led to a decline in the dollar's value, indicating market sensitivity to political rhetoric.
+
+2. **Market Outlook**: Analysts, including Brad Simpson from TD Wealth, highlight the potential risks and asset allocation strategies in light of Trump's trade policies. The market is currently experiencing a robust performance, driven by strong corporate earnings, particularly in the banking sector, and easing inflation concerns.
+
+3. **Economic Context**: The economy is reported to be in better shape than four years prior, with indicators suggesting a positive outlook as Trump resumes his presidency.
+
+4. **Investment Strategies**: There is a discussion on the implications of high cash balances at Berkshire Hathaway, signaling potential market overvaluation. Additionally, the performance of mid-cap growth stocks, Bitcoin, and gold is analyzed, suggesting a bullish sentiment among investors.
+
+5. **Sector Performance**: The text notes that the 10-year Treasury yield is rising, affecting the valuation of Real Estate Investment Trusts (REITs). Analysts recommend considering REITs for investment in 2025.
+
+6. **Technology Sector**: Companies like Taiwan Semiconductor are highlighted for their strong performance driven by AI chip demand, while Google is noted for its growth in search revenue, making it an attractive investment.
+
+Overall, the content reflects a cautious yet optimistic view of the market, emphasizing the importance of trade policies and economic indicators in shaping investment strategies.
+        The text provides a comprehensive overview of recent developments and insights regarding major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Intel's Earnings and Restructuring**: Intel is approaching a critical point with its Q4 earnings and restructuring efforts, focusing on the Gaudi®3 AI accelerator and its profitability outlook.
+
+2. **Carillon ClariVest Capital Appreciation Fund**: The fund's commentary indicates a strong performance in Q4 2024, particularly in the healthcare and financial sectors, outperforming the Russell 1000 Growth Index.
+
+3. **Taiwan Semiconductor Manufacturing Company (TSMC)**: TSMC is projected to maintain growth driven by AI chip demand and advancements in 3nm chip production, despite facing margin pressures in 2025.
+
+4. **Market Reactions to Federal Reserve Actions**: Recent volatility in the markets has been attributed to Federal Reserve rate cuts, resilient economic data, and ongoing inflation concerns.
+
+5. **AMD's Position in AI**: AMD is highlighted as a strong investment opportunity in the AI sector, particularly as Nvidia faces challenges with its CUDA ecosystem.
+
+6. **Microsoft's Growth and AI Leadership**: Microsoft is recognized for its exceptional growth, leadership in AI, and innovations in cloud computing, making it a compelling investment choice.
+
+7. **Investment Strategies**: The text discusses various investment strategies, including the potential of VOO over VTIP for superior performance and the attractiveness of FirstEnergy in the utility sector.
+
+Overall, the content emphasizes the dynamic landscape of tech investments, focusing on growth potential, market trends, and strategic insights into specific companies and sectors.
+        The text provides a summary of recent news and commentary regarding major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Tech CEOs at Inauguration**: Prominent tech leaders like Elon Musk, Jeff Bezos, and Mark Zuckerberg were noted for having better seating at the Trump inauguration than some cabinet members.
+
+2. **Market Commentary**: The Carillon ClariVest Capital Appreciation Fund's performance in Q4 2024 was discussed, highlighting its overweight positions in healthcare and financial sectors compared to the Russell 1000 Growth Index.
+
+3. **AMD's Market Position**: AMD is described as undervalued, but facing challenges from competition and macroeconomic risks that may hinder its stock rebound despite strong demand in AI.
+
+4. **Climate Activism**: Activists disrupted the World Economic Forum by painting Amazon's base green, indicating a growing intersection of technology and environmental activism.
+
+5. **Google's Growth**: Google is positioned as an attractive investment due to its strong growth in search and expanding revenue sources, alongside a low price-to-earnings ratio.
+
+6. **TikTok's Service Restoration**: TikTok restored its services following a pledge from Donald Trump, reflecting the ongoing political dynamics affecting tech companies.
+
+7. **Investment Strategies**: Discussions on dividend-paying stocks suggest that building a portfolio focused on dividends could outperform traditional investment rules, providing supplemental income over time.
+
+8. **Broadcom's Performance**: Broadcom is highlighted for its strong growth prospects in AI and semiconductor markets, with analysts predicting significant revenue growth and strategic partnerships.
+
+Overall, the text encapsulates the current landscape of tech companies, their market performance, and the broader economic and political factors influencing their trajectories.
+        The text provides a summary of recent news related to major tech companies and market trends, particularly focusing on developments involving Tesla, SpaceX, and other significant players in the tech sector.
+
+Key highlights include President Trump's executive order mandating federal workers to return to the office full-time, which reflects ongoing shifts in workplace policies. The Carillon ClariVest Capital Appreciation Fund and ClearBridge Appreciation ESG Strategy both reported their performance in Q4 2024, with the latter outperforming the S&P 500 Index.
+
+Market reactions to Federal Reserve rate cuts and inflation concerns have led to increased volatility, impacting investor sentiment. Notably, Tesla's plans for launching robotaxis in 2025 are met with skepticism, as analysts express bearish views on TSLA stock. Additionally, VinFast, a Vietnamese electric vehicle manufacturer, is set to enter the Indian market with premium electric SUVs, intensifying competition in the EV sector.
+
+The text also discusses the challenges faced by Tesla, including significant short-selling activity against its stock and ongoing issues with Cybertruck recalls. Elon Musk is reportedly under pressure from major investors regarding Tesla's performance.
+
+In the realm of space exploration, SpaceX continues to make headlines with successful missions, including the arrival of Crew-10 at the International Space Station and the return of Crew-9. The company is also involved in high-stakes launch attempts, showcasing its pivotal role in modern space travel.
+
+Overall, the content reflects a dynamic landscape in technology and finance, highlighting both opportunities and challenges for investors and companies alike.
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly Alphabet Inc. (GOOGL) and its competitive landscape. 
+
+Key highlights include Google's strategic moves to diversify into high-growth markets, emphasizing its robust market position bolstered by advanced algorithms and customer loyalty. The company is noted for its strong growth in search and expanding revenue sources, making it an attractive investment option. The Federal Trade Commission (FTC) has released a report detailing the dynamics of partnerships between major cloud service providers, including Google, Amazon, and Microsoft, with AI developers like Anthropic and OpenAI.
+
+Additionally, there are discussions around the potential of AMD in the AI sector, especially as it faces competition from Nvidia. The text also mentions various investment strategies, such as the ClearBridge Appreciation ESG Strategy, which outperformed the S&P 500 Index in Q4 2024, and the advantages of investing in VOO over VTIP for better performance and lower volatility.
+
+The narrative touches on Alphabet's stock performance, including its resilience amid market fluctuations and the implications of regulatory scrutiny regarding its Chrome browser. Analysts are optimistic about Alphabet's potential, suggesting it deserves a higher market multiple. 
+
+Overall, the content reflects a dynamic tech landscape where companies like Google are navigating challenges and opportunities in AI, cloud services, and investment strategies, while also addressing regulatory concerns and market performance.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

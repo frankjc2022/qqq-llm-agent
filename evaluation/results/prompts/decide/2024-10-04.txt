@@ -1,0 +1,59 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 487.32.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The September jobs report indicates that job growth has exceeded expectations, with non-farm payrolls rising significantly. Despite this positive news, concerns about stagflation remain due to the Federal Reserve's recent rate cut and ongoing economic instability. Investors are debating whether the labor market is cooling enough to prompt a larger interest rate cut in November.
+
+As the November 2024 election approaches, its outcome is expected to have a substantial impact on financial markets. Analysts are closely monitoring stock market trends, particularly in relation to the S&P 500 and the performance of major tech stocks. The Invesco QQQ Trust, which tracks the Nasdaq-100, is also under scrutiny as it faces volatility amid earnings reports from big tech companies.
+
+Apple Inc. is in the spotlight as it prepares to release new products, including a low-end iPhone SE and upgraded iPads. The company's stock has been performing well, nearing record highs, driven by optimism surrounding its product availability and AI integration. Analysts have varying opinions on Apple's future, with some maintaining a buy rating and others cautioning about potential corrections.
+
+Overall, the economic landscape is characterized by a mix of strong job growth and concerns about inflation and market stability, with significant attention on the upcoming election and its implications for investors. The tech sector, particularly companies like Apple, remains a focal point for market analysts as they assess growth potential and investment strategies.
+        The text provides a comprehensive overview of recent developments and news regarding major tech companies, particularly focusing on Nvidia (NVDA) and Microsoft (MSFT). 
+
+Nvidia is highlighted for its upcoming AI Summit on October 7, which is anticipated to be a significant event for the industry. Analysts suggest that Nvidia and other stocks like HOOD, BLK, and CME could see gains as the Bitcoin market rallies. Despite some mutual funds avoiding Nvidia, there is notable interest in other tech stocks, particularly Meta. The article discusses Nvidia's impressive growth trajectory, emphasizing CEO Jensen Huang's journey from skepticism about the company's potential to its current valuation, which has exceeded expectations by a substantial margin.
+
+The text also touches on the resurgence of interest in artificial intelligence investments, indicating that Wall Street is once again enthusiastic about AI technologies. Nvidia's recent confirmation of full production of its Blackwell AI chip amid high demand is noted, along with a positive outlook from analysts who maintain an overweight rating on the stock.
+
+In addition to Nvidia, Microsoft is mentioned for its significant investment in cloud and AI infrastructure in Brazil, aiming to upskill millions in the region. The company is also recognized for its strategic partnerships and stock buyback programs, which are seen as indicators of its strong market position and potential for long-term growth.
+
+Overall, the content reflects a dynamic landscape in the tech sector, with Nvidia and Microsoft at the forefront of innovation and investment, particularly in AI and cloud computing.
+        The text provides a summary of recent news related to major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO), as well as other significant market movements and trends.
+
+Amazon is highlighted for its strategic initiatives, including the launch of the game "New World: Aeternum," which is set to release globally on October 15, 2024. The company is also expanding its workforce, hiring 250,000 employees in the U.S. for the holiday season. Additionally, Amazon is leveraging generative AI to enhance product recommendations and descriptions, showcasing its commitment to innovation in e-commerce.
+
+Broadcom is noted for its recent acquisition of shares, indicating a strong investment strategy. The company is projected to sell $12 billion in AI parts and custom chips this year, reflecting its significant role in the AI sector. Analysts are optimistic about Broadcom's growth potential, particularly in the semiconductor market, as it navigates competition and market dynamics.
+
+The text also touches on broader market trends, including the impact of U.S. non-farm payrolls on Federal Reserve rate cut projections and the performance of AI stocks. The Trade Desk is mentioned as a key player in the connected TV (CTV) advertising space, capitalizing on shifts in advertising spend.
+
+Overall, the news reflects a dynamic landscape in the tech sector, with companies like Amazon and Broadcom at the forefront of innovation and market strategy, while also addressing the evolving needs of consumers and investors.
+        The text discusses recent developments in major tech companies, particularly focusing on OpenAI, Tesla, and Meta Platforms. 
+
+OpenAI has recently secured $6.6 billion in funding, raising its valuation to approximately $157 billion. Cathie Wood, CEO of Ark Invest, is optimistic about OpenAI's future, emphasizing the potential profitability of agentic AI. Despite concerns over executive turnover, she expresses confidence in the leadership of CEO Sam Altman and CFO Sarah Friar. Wood believes that competition among AI firms will enhance the industry's effectiveness and competitiveness.
+
+Tesla is highlighted for its upcoming robotaxi event, although the company has faced challenges, including a decline in stock value following disappointing Q3 delivery numbers. Despite these setbacks, Tesla is forging ahead with its robotaxi plans, and the stock remains a focal point for investors. The company has also experienced executive departures, including the resignation of its Chief Information Officer ahead of the robotaxi event.
+
+Meta Platforms has introduced a new AI feature called "Meta's Movie Gen," which allows users to create videos from text prompts, positioning itself as a competitor to OpenAI and Google. This innovation reflects Meta's ongoing efforts to enhance its technological offerings and attract younger audiences, as the platform seeks to remain relevant in a rapidly evolving digital landscape.
+
+Overall, the text underscores the dynamic nature of the tech industry, with significant investments, innovations, and competitive strategies shaping the future of these leading companies.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly Alphabet Inc. (GOOGL) and Amazon, as well as insights into the stock market and emerging trends in artificial intelligence (AI).
+
+Key highlights include:
+
+1. **Alphabet Inc. Developments**: Google is testing a feature that displays verified check marks next to certain companies in search results to help users identify trustworthy sources. Additionally, Google has announced it will cease linking to New Zealand news if a proposed law requiring payment for content is enacted. The company is also expanding its robotaxi fleet by incorporating Hyundai electric vehicles, with testing set to begin by late 2025.
+
+2. **Amazon's Performance**: Amazon's stock has shown significant growth, outperforming the S&P 500, largely due to its success in Amazon Web Services (AWS) and international markets. The company is also reassessing its technology strategy in retail, particularly in grocery stores.
+
+3. **AI Trends**: The text discusses the competitive landscape in AI, highlighting Meta's introduction of a new AI video generator that competes with offerings from Google and OpenAI. Oracle is noted as an emerging player in AI, with its stock performing well due to strong results in its AI-related business.
+
+4. **Market Insights**: Analysts predict a potential upside for Alphabet's stock, with discussions around its financial stability and AI expansion. The upcoming November 2024 election is expected to significantly impact financial markets.
+
+Overall, the text encapsulates the dynamic nature of the tech industry, focusing on strategic moves by major companies, stock performance, and the growing influence of AI technologies.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

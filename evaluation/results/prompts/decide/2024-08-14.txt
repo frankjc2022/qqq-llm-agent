@@ -1,0 +1,68 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 462.73.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments in the tech sector, particularly focusing on major companies within the QQQ ETF. Key highlights include:
+
+1. **Market Trends and Economic Indicators**: Recent reports indicate a slight easing in annual CPI inflation, suggesting potential Federal Reserve rate cuts in September. This has led to discussions about the implications for the stock market, with analysts suggesting that recent market corrections may have been overreactions.
+
+2. **Tech Company Updates**: 
+   - **Apple**: Berkshire Hathaway has reduced its stake in Apple, prompting discussions about the company's stock performance amidst broader market selloffs. Analysts remain optimistic about Apple's future, particularly in relation to artificial intelligence (AI) developments and new product launches.
+   - **Google**: The company is facing scrutiny over potential breakup concerns while simultaneously launching new Pixel smartphones that emphasize AI capabilities. Analysts have identified Alphabet as a strong investment in the consumer AI space following these announcements.
+   - **Foxconn**: Indian Prime Minister Narendra Modi's meeting with Foxconn's chairman highlights ongoing discussions about investment and hiring practices amid government investigations.
+
+3. **Investment Insights**: Analysts are increasingly bullish on tech stocks, with many believing that lower interest rates will benefit the sector. The sentiment is reflected in various reports suggesting that tech stocks, including those in the QQQ, are positioned for growth despite recent volatility.
+
+4. **Future Outlook**: The World Economic Forum predicts significant automation in the workforce by 2050, indicating a transformative shift in economic activities. This trend is expected to influence investment strategies and market dynamics moving forward.
+
+Overall, the text encapsulates a moment of cautious optimism in the tech sector, driven by economic indicators and strategic company developments.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Nvidia, Microsoft, and others. 
+
+David Tepper, a prominent investor, has maintained his investments in Chinese companies while reducing his stakes in Nvidia and Alibaba. Nvidia continues to attract attention, with analysts from Jefferies and Citi expressing optimism about its position in the data center market, driven by the surge in artificial intelligence interest. Despite some fluctuations, Nvidia's stock has shown resilience, recovering from earlier losses.
+
+In other news, Serve Robotics, backed by Nvidia, has partnered with Uber Eats to deliver Shake Shack in Los Angeles, highlighting the growing intersection of AI and delivery services. The stock market has seen mixed results, with Nvidia gaining for three consecutive days, while Alphabet's shares fell amid antitrust concerns.
+
+Former Google CEO Eric Schmidt has recommended Nvidia stock, suggesting it could be a valuable investment opportunity. Meanwhile, the tech landscape is also witnessing significant changes, such as the departure of key figures from OpenAI and the implications of potential regulatory actions against major tech firms.
+
+Microsoft is also making headlines, with its strong performance in the cloud sector and partnerships aimed at enhancing AI capabilities. The company is well-positioned to benefit from the ongoing AI boom, despite facing challenges in cloud growth.
+
+Overall, the technology sector is experiencing dynamic shifts, with companies like Nvidia and Microsoft at the forefront of innovation and investment opportunities, while also navigating regulatory scrutiny and market fluctuations.
+        The text provides a summary of recent news related to major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon is highlighted for its involvement in a UK trial using drones for deliveries and emergency services, as selected by the UK's Civil Aviation Authority. The company is also noted for its significant reduction in investments as part of strategic shifts in hedge fund portfolios. Additionally, Amazon's e-commerce demand has positively impacted Cargojet's growth, showcasing the company's influence on logistics and transportation.
+
+Jeff Bezos' parents made a notable donation of $186 million to the Aspen Institute, aimed at establishing a center for youth development. This philanthropic effort underscores the Bezos family's commitment to social causes.
+
+In the realm of technology, Amazon Web Services (AWS) has partnered with Iberdrola, a leading clean energy company, to utilize generative AI technologies for innovation and sustainability. This partnership reflects the growing trend of integrating AI into various sectors, including energy.
+
+The text also discusses Amazon's stock performance, indicating that it is viewed as a strong value stock amidst market fluctuations. Reports suggest that Amazon experienced record-breaking sales during its Prime Day event, although there are concerns about cautious consumer spending affecting future revenue forecasts.
+
+Broadcom is mentioned in the context of stock analysis, with discussions around its position in the automation sector and its recent stock split. The company is recognized for its dividend growth potential and its strategic initiatives to enhance customer relationships in cybersecurity.
+
+Overall, the news reflects significant developments in the tech industry, emphasizing the interplay between innovation, investment strategies, and market dynamics.
+        The latest news highlights several key developments in the electric vehicle (EV) market and the tech industry. Recent data indicates a slight decrease in inflation, which could lead to lower interest rates, potentially boosting car sales by making vehicles more affordable. However, the electric vehicle sector is facing challenges, with some automakers reducing investments due to declining demand.
+
+In a notable interview, Elon Musk and Donald Trump discussed various topics relevant to investors, although they did not touch on electric vehicles or cryptocurrency. Meanwhile, the National Highway Traffic Safety Administration concluded its investigation into Tesla suspension failures without calling for a recall, despite numerous reports of issues with certain Tesla models.
+
+Tesla's stock performance has been under scrutiny, with analysts debating whether it is a good time to invest, especially given the rising competition in the EV market. The company has reported a significant drop in auto revenue and earnings, raising concerns about its future growth.
+
+In the tech sector, Meta Platforms has made headlines by shutting down CrowdTangle, a tool used for tracking misinformation on its platforms, despite pushback from researchers and journalists. Additionally, Meta is facing legal challenges, including a substantial settlement related to facial recognition technology.
+
+Overall, the landscape for both the EV market and major tech companies like Tesla and Meta is marked by volatility and significant shifts, with investors closely monitoring these developments for potential impacts on future performance.
+        A federal judge is poised to mandate changes to Google’s Android app store following a jury's ruling that deemed it an illegal monopoly, impacting both consumers and app developers. Judge James Donato expressed frustration with Google's concerns regarding the implementation costs of proposed reforms from Epic Games, emphasizing the need for greater flexibility in app distribution outside the Play Store.
+
+In the stock market, Alphabet's shares fell amid ongoing antitrust scrutiny, while the Dow Jones Industrial Average showed gains due to easing inflation, raising hopes for a potential interest rate cut. Former Google CEO Eric Schmidt commented on the company's struggles in the AI sector, attributing it to a prioritization of work-life balance over competitive edge.
+
+Google's recent hardware releases, particularly the Pixel 9, are primarily aimed at showcasing its advancements in artificial intelligence rather than focusing solely on the devices themselves. Analysts have noted that despite the introduction of new products, concerns about Google's advertising dominance persist, with suggestions that breaking up the company may not enhance competition.
+
+Additionally, Google is reportedly facing cyber threats from an Iranian group targeting individuals associated with U.S. presidential campaigns. This highlights ongoing security challenges for the tech giant.
+
+Overall, the landscape for Google is marked by significant legal challenges, market fluctuations, and strategic shifts towards AI integration, as the company navigates its position in a competitive tech environment.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

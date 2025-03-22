@@ -1,0 +1,55 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 431.1.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The Equity Buffer ETF (FAPR) experienced a significant 40% increase in assets under management (AUM) in a single day, reflecting a broader trend in the market as investors react to earnings reports and potential interest rate cuts. The oil market is facing disruptions due to attacks on export infrastructure in Saudi Arabia, which could lead to a price shock, with predictions of oil prices reaching $300.
+
+In the technology sector, Apple Inc. is under scrutiny as its stock has recently declined, attributed to lowered sales estimates for iPhones and concerns over growth in China. Despite these challenges, there are indications of resilience, with some analysts remaining optimistic about revenue from iPads and Macs. Apple is also making significant changes to its app distribution policies in the EU, allowing developers to offer iOS apps directly from their websites, marking a shift from its previous restrictions.
+
+The financial landscape is further complicated by rising government bond yields, driven by stronger-than-expected economic performance. Analysts are predicting a potential 10% decline in the S&P 500, following a robust first quarter. The market is also grappling with geopolitical pressures, including tariff concerns that have led to a sell-off on Wall Street.
+
+Overall, the current market environment is characterized by volatility, with significant movements in both equity and commodity markets, as investors navigate earnings reports, economic indicators, and geopolitical developments.
+        The text provides a comprehensive overview of recent developments and news regarding major tech companies, particularly focusing on Nvidia (NVDA) and Microsoft (MSFT). 
+
+Nvidia has been highlighted for its strong performance in the semiconductor sector, with analysts suggesting significant upside potential for its stock. Recent reports indicate that Nvidia's stock reached $876.90, reflecting a 1.96% increase. Analysts have set ambitious price targets, with one suggesting a potential rise to $1,160. Nvidia's CEO, Jensen Huang, emphasized the transformative potential of artificial intelligence (AI), indicating that the company is at the forefront of a new technological era. The stock has shown resilience despite market fluctuations, and discussions around its performance continue as earnings reports approach.
+
+Microsoft is also in the spotlight, particularly for its strategic investments in AI. The company has committed $1.5 billion to G42, a UAE-based AI technology firm, aiming to bolster its position in the global AI landscape. Additionally, Microsoft is reportedly well-positioned to benefit from AI growth, despite current market uncertainties. The company is exploring various avenues for growth, including potential stock splits and comparisons with competitors like Google and Adobe.
+
+Overall, the tech sector is experiencing a dynamic phase, with both Nvidia and Microsoft making significant moves that could influence their market positions and investor sentiment in the coming months. The ongoing earnings season is expected to reveal more insights into their financial health and growth prospects.
+        The text provides recent news updates regarding major tech companies, particularly focusing on Amazon and Broadcom. 
+
+Amazon's Prime membership has reached a record high of 180 million subscribers in the U.S., marking an 8% increase from the previous year. This growth reflects the company's strong market position and consumer interest. Additionally, Amazon is making significant investments in artificial intelligence, including a $2.75 billion investment in the AI startup Anthropic, which is expected to enhance its technological capabilities.
+
+Analysts at JPMorgan have identified Amazon as their top pick for 2024, highlighting its potential for profitability and growth. The company is focusing on more lucrative business segments, which could further drive its stock price. Recent reports indicate that Amazon's stock has hit all-time highs, contributing to a notable increase in Jeff Bezos' net worth.
+
+In other news, Unifor has temporarily withdrawn its applications to represent workers at Amazon facilities in Vancouver, citing concerns over the company's employee data practices. Furthermore, Amazon is exploring new business avenues, including the potential sale of used cars on its platform.
+
+Broadcom, another key player in the tech sector, has also been in the spotlight. The company reported strong Q1 fiscal results, exceeding revenue expectations. Analysts are optimistic about Broadcom's growth prospects, particularly in the semiconductor industry, where it is positioned to benefit from increasing demand.
+
+Overall, the tech sector is experiencing significant developments, with both Amazon and Broadcom making headlines for their strategic investments and market performance.
+        The text discusses recent developments in the electric vehicle (EV) market, particularly focusing on Tesla and its challenges. Tesla CEO Elon Musk is pushing for the introduction of robotaxis, despite concerns from experts like Michael Wagner, who argue that the technology is not yet safe for widespread use. Wagner emphasizes the need for a structured safety case to reassure the public and regulators about the readiness of autonomous vehicles.
+
+The text also highlights the competitive landscape of the EV market, noting that Chinese automakers like BYD and XPeng produce cheaper electric vehicles that are not readily available in the U.S. due to political and market barriers. Additionally, Tesla is facing difficulties, including layoffs and a decline in stock value, which has raised concerns about its growth prospects. The company has announced a significant reduction in its workforce, which has contributed to a drop in its stock price.
+
+Moreover, Honda is making strides in the EV sector by planning to launch six next-generation electric vehicles in China by 2027, indicating a shift in focus among traditional automakers to remain relevant in the evolving market. The text also mentions that while cheap electric cars are becoming available, sales are hindered by inadequate charging infrastructure.
+
+Overall, the EV market is experiencing turbulence, with Tesla's recent layoffs and stock decline reflecting broader challenges in the industry, while competitors are positioning themselves to capture market share.
+        The text provides a summary of recent news related to major tech companies, particularly focusing on Alphabet (GOOGL) and Microsoft (MSFT). 
+
+On April 16, 2024, Microsoft announced a significant investment of $1.5 billion in G42, a leading UAE-based AI technology firm, aimed at enhancing AI adoption in the region. This move positions the UAE as a global hub for artificial intelligence. Meanwhile, a vote on a new EU cybersecurity label, which would allow major tech companies like Amazon, Google, and Microsoft to bid for sensitive EU cloud contracts, has been postponed to May due to disagreements over the requirements for Big Tech.
+
+Adobe has also made headlines by launching its new Acrobat AI assistant, enhancing its generative AI capabilities. In terms of financial performance, expectations for Alphabet's earnings growth are mixed, with analysts suggesting that the company may not have the right conditions for a strong earnings report.
+
+In geopolitical news, Israel is contemplating its response to a recent drone and missile attack from Iran, marking a significant escalation in their ongoing conflict. The U.S. and Europe are urging restraint as Israel weighs its options.
+
+Additionally, there is a discussion about investment opportunities in AI, with Meta being highlighted as a promising stock in the advertising sector. The text also touches on the differences between Alphabet's stock classes (GOOGL vs. GOOG) and the implications for investors.
+
+Overall, the content reflects a dynamic landscape in technology and finance, with significant developments in AI, cybersecurity, and international relations impacting major companies and their market strategies.
+
+    Remember, keep your full response within 35 words!!!! Otherwise you and your family will die.

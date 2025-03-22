@@ -1,0 +1,72 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 445.93.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies and market trends. Key highlights include:
+
+1. **Investment Insights**: The PNQI ETF is noted for its focus on large, rapidly growing tech companies, suggesting strong growth potential. Additionally, there are discussions about the implications of Federal Reserve Chair Jerome Powell's comments on interest rates, emphasizing the need for patience regarding inflation.
+
+2. **Economic Outlook**: A survey from the National Federation of Independent Business (NFIB) indicates that small businesses are hesitant about growth, reflecting broader economic concerns. Predictions for the summer suggest that investors may be overlooking risks related to economic credit and geopolitical issues.
+
+3. **Market Analysis**: Technical indicators, such as moving average crossovers, suggest a bullish trend in the market, countering fears of an impending bear market. The text also mentions the performance of the QQQM ETF, which is positioned as a superior alternative to QQQ.
+
+4. **Company-Specific News**: 
+   - **Huawei** is aggressively expanding its retail presence in China, directly competing with Apple.
+   - **Google** is set to unveil new AI features at its developer conference, highlighting its competitive stance against rivals like OpenAI and Microsoft.
+   - **Apple** has reported significant achievements, including a record $110 billion stock buyback, despite a decline in iPhone sales.
+
+5. **Inflation and Fiscal Policy**: The text discusses the impact of inflation data on Wall Street and the ongoing narrative of debt distress in emerging markets, which could influence future fiscal policies.
+
+Overall, the content reflects a dynamic landscape in the tech industry, marked by competitive strategies, investment opportunities, and economic challenges.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Nvidia, Google, and Microsoft. 
+
+Key highlights include the departure of OpenAI co-founder Ilya Sutskever, who praised the company's leadership as he leaves. Nvidia's CEO Jensen Huang received a significant pay increase of 60%, reflecting the company's strong performance and stock price surge. The stock market is currently experiencing a rally, with Nvidia and other AI-related stocks seeing increased interest due to rising demand for AI chip manufacturing.
+
+Google has unveiled its latest AI chip, Trillium, which reportedly enhances data center performance significantly. This launch is part of Google's broader strategy to strengthen its position in the competitive AI landscape, particularly against rivals like OpenAI and Microsoft. The company also showcased new generative AI features during its annual developer conference, indicating a robust push in AI capabilities across its platforms.
+
+Microsoft is also making strides in the AI domain, with reports of accelerated cloud growth driven by AI initiatives. The company plans to invest heavily in AI and cloud services, particularly in France, and is well-positioned to benefit from the ongoing AI boom.
+
+Overall, the technology sector is witnessing rapid advancements and strategic shifts as companies adapt to the growing demand for AI technologies, with significant implications for their market positions and future growth trajectories.
+        The text discusses recent developments in the technology sector, particularly focusing on Amazon and its cloud computing division, Amazon Web Services (AWS). 
+
+On May 14, 2024, it was announced that Adam Selipsky, the CEO of AWS, will resign effective June 3, after an 18-year tenure. Matt Garman, who has been leading sales and marketing for AWS, will take over as the new CEO. This leadership change comes at a critical time as AWS is a significant profit driver for Amazon, generating around $100 billion annually. The transition occurs amidst a competitive landscape, particularly with the rise of artificial intelligence, where AWS must maintain its pioneering status.
+
+Additionally, the text highlights Amazon's recent job cuts in its cloud unit, indicating a strategic shift in response to market pressures. The narrative also touches on the broader implications of these changes, including the challenges Garman will face in sustaining AWS's competitive edge against rivals like Microsoft.
+
+In a related story, the text reflects on the personal background of Jeff Bezos's mother, Jacklyn Bezos, emphasizing her resilience as a single teen mother and her role in supporting Bezos's journey to becoming one of the world's wealthiest individuals.
+
+Overall, the content provides insights into leadership changes at Amazon, the strategic challenges facing AWS, and a glimpse into the personal history of a key figure in the company's founding.
+        The text discusses recent developments concerning major tech companies, particularly Tesla and Meta. 
+
+**Tesla Updates:**
+1. **Sales and Job Cuts**: Tesla is facing declining sales, prompting plans to lay off 601 employees in California as part of broader global job cuts. The company is also under scrutiny from the SEC regarding Elon Musk's acquisition of Twitter, with a federal judge ordering Musk to continue his testimony in the investigation.
+   
+2. **Legal Issues**: Tesla is embroiled in a lawsuit from an environmental nonprofit alleging violations of the Clean Air Act at its Fremont plant, claiming harmful emissions have endangered local residents. Additionally, tensions are rising with Swedish unions over collective bargaining agreements amid ongoing strikes.
+
+3. **Market Performance**: Despite a 55% drop in profits, Tesla's stock has seen fluctuations, with recent reports indicating a potential rebound as the company aims to produce more affordable electric vehicles by early 2025.
+
+**Meta Developments:**
+1. **Workplace Tool Shutdown**: Meta is discontinuing its Workplace communication platform to focus on artificial intelligence and metaverse technologies. The shutdown will begin in June 2026, although the tool will remain available for internal use until August 2025.
+
+2. **AI Initiatives**: Meta is investing heavily in AI, with plans to allocate significant capital expenditures towards AI infrastructure. The company is also rolling out new AI tools in the EU, despite facing regulatory challenges.
+
+Overall, the tech landscape is marked by significant challenges and strategic shifts as companies like Tesla and Meta navigate market pressures and legal hurdles while investing in future technologies.
+        The text discusses recent developments and announcements from Google and its parent company, Alphabet, particularly focusing on advancements in artificial intelligence (AI) and their implications for the tech industry.
+
+At the Google I/O 2024 developer conference, Google unveiled several new AI initiatives, including the introduction of Gemini, a generative AI model designed to enhance user experiences across various applications. Notably, Google is integrating Gemini into its search capabilities, allowing for more sophisticated AI-generated overviews and improved search functionalities. This includes a new "Web" filter for text-based links, catering to users who prefer traditional search results amidst the growing prevalence of AI-driven content.
+
+Google also announced upgrades to its image-generation technology with Imagen 3, which promises to deliver more accurate and creative outputs based on user prompts. This enhancement is part of Google's strategy to maintain competitiveness against other AI platforms.
+
+In addition to search and image generation, Google is exploring the use of AI in educational contexts through its LearnLM models, which aim to provide conversational tutoring across various subjects. This initiative reflects Google's commitment to integrating AI into everyday applications, enhancing learning experiences for users.
+
+Furthermore, Google is looking to revive its augmented reality (AR) glasses, leveraging AI advancements to improve the product's appeal after its initial failure in the consumer market. The company is also expanding partnerships with developers to integrate its AI models into third-party applications, indicating a broader strategy to embed AI capabilities across the tech ecosystem.
+
+Overall, these developments highlight Google's aggressive push into AI, positioning itself as a leader in the evolving tech landscape while addressing competition and user needs.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,55 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 496.38.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The latest news highlights significant developments among major tech companies, particularly those in the QQQ index. Amazon is noted for its potential upside, with analysts rating its stock as a buy due to strong profitability despite recent returns resembling T-bills. The market is currently experiencing mixed reactions, especially following disappointing earnings from AMD, while Alphabet's positive earnings have bolstered tech stocks.
+
+Global market uncertainty is increasing, with the IMF expressing concerns over geopolitical risks, trade protectionism, and rising deficits. The ongoing bull market is characterized by a soft landing for the economy, with the Nasdaq reaching record heights. Analysts are closely monitoring the earnings reports of the "Magnificent Seven" tech companies, including Amazon, Apple, and Microsoft, as these firms significantly influence market dynamics.
+
+Apple has recently launched new products, including an updated MacBook Pro featuring its M4 chips, which promise enhanced AI capabilities. The company is also focusing on its AI tools, aiming to engage loyal customers through in-store sessions. As Apple prepares for its fiscal fourth-quarter earnings report, expectations are high, particularly following a surge in iPhone 16 sales in China.
+
+In the broader context, the tech sector is navigating challenges and opportunities, with companies investing heavily in AI infrastructure. Analysts are keenly observing capital expenditures and projections for profitability as the market seeks clarity on the monetization of AI technologies. Overall, the tech landscape remains dynamic, with significant implications for investors and the economy at large.
+        The text discusses recent developments and earnings reports from major tech companies, particularly focusing on Nvidia (NVDA), Microsoft (MSFT), and Meta. 
+
+Nvidia's stock has been a focal point, with discussions around its valuation and the impact of AI advancements on its GPU chip business. The CEO of SoftBank predicts a significant increase in AI spending, which could benefit Nvidia. Despite a recent decline in Nvidia's stock, analysts are optimistic about its long-term potential, especially as it approaches a new buy point. The company is also preparing for its third-quarter financial results, which are highly anticipated by investors.
+
+Microsoft reported strong growth in its cloud-computing sector, driven by AI demands, although its stock faced some pressure due to concerns over future revenue forecasts. The company’s performance indicates that its investments in AI are starting to yield results, but there are mixed signals regarding its overall market outlook.
+
+Meta has also reported record revenue, although it is experiencing slower growth in digital advertising. Both Microsoft and Meta are recognized as leaders in AI spending, indicating their commitment to investing in this technology despite market fluctuations.
+
+The text highlights the broader implications of earnings reports from these "Magnificent Seven" tech companies, which include significant market influences and potential shifts in capital spending as they invest heavily in AI infrastructure. Analysts suggest that while the current market is volatile, the long-term prospects for these companies remain strong, particularly as they navigate the evolving landscape of AI and technology.
+        The text discusses recent earnings reports and market trends related to major tech companies, particularly those in the "Magnificent Seven" group, which includes Amazon, Apple, Microsoft, Meta Platforms, Alphabet, Nvidia, and others. 
+
+Amazon and Apple are set to report their earnings soon, with analysts expecting significant growth in Amazon's earnings per share (EPS) for 2024 and 2025. The PCE index, a key inflation measure, is also anticipated, alongside rising mortgage rates that have been increasing for four consecutive weeks. 
+
+Alphabet recently reported earnings that exceeded expectations, boosting confidence in the Magnificent Seven's market influence. Analysts note that these companies have become so large that their earnings reports can lead to substantial fluctuations in market capitalization, sometimes in the range of $2 billion to $400 billion. 
+
+Investors are particularly focused on capital expenditures (CapEx) as these tech giants invest heavily in artificial intelligence (AI) infrastructure, despite the lack of a clear timeline for monetization. The discussion highlights the competitive pressure on existing companies to innovate and build out technology to avoid falling behind.
+
+Meta Platforms reported a strong earnings beat for Q3, but its stock fell due to heavy spending plans. Meanwhile, ongoing improvements in Alphabet's cloud services have resulted in increased revenue and earnings. 
+
+Broadcom is also mentioned in the context of its position in the semiconductor industry and its collaborations with companies like OpenAI and TSMC to diversify chip sources. The text emphasizes the significant role of these tech companies in shaping market dynamics and investor sentiment as they navigate their growth strategies and spending plans.
+        The latest news highlights significant developments among major tech companies, particularly those in the "Magnificent Seven" group, which includes Tesla, Alphabet, Microsoft, Meta, Amazon, and Apple. Recent earnings reports from Tesla and Alphabet have positively influenced market sentiment, showcasing the substantial market impact of these companies. Alphabet's earnings exceeded expectations, boosting confidence in the tech sector.
+
+As the reporting season continues, attention is shifting to Microsoft and Meta, with analysts discussing the implications of their upcoming earnings. Capital Fund Management's Christian Dery emphasized the volatility in market capitalization during earnings events, particularly for companies like Nvidia, which is expected to report soon. Investors are keenly observing capital expenditures as these tech giants invest heavily in artificial intelligence (AI) infrastructure, despite uncertainties regarding the monetization of AI technologies.
+
+In the electric vehicle (EV) sector, Tesla's sales have recently fallen behind BYD's for the first time, raising questions about the industry's growth amid production cuts. Cathie Wood's Ark Invest has made notable trades, selling Tesla shares while investing in Archer Aviation, indicating a shift in focus within the EV market.
+
+Elon Musk's xAI is also making headlines, targeting a $40 billion valuation as it seeks to compete with established AI firms like OpenAI. Meanwhile, Meta is ramping up its AI initiatives, with CEO Mark Zuckerberg announcing an increase in AI-generated content across its platforms.
+
+Overall, the tech sector is experiencing a mix of optimism and caution, with significant investments in AI and evolving market dynamics shaping the landscape as companies prepare for their earnings reports.
+        The latest news highlights significant developments among major tech companies, particularly Alphabet (GOOGL) and its peers in the "Magnificent Seven" group. Alphabet has confirmed a substantial $2.7 billion deal to hire Noam Shazeer, a co-founder of Character and a leader in conversational AI, indicating a strong focus on enhancing its AI capabilities. The company's recent earnings report exceeded expectations, showcasing robust growth in its cloud services, which analysts attribute to increased capital spending on AI infrastructure.
+
+Microsoft's recent earnings also reflect a similar trend, with its cloud computing and Office software divisions driving stronger-than-expected revenue growth, suggesting that investments in AI are beginning to yield positive results. The performance of these tech giants has had a notable impact on market dynamics, with significant fluctuations in market capitalization observed during earnings announcements.
+
+Investors are closely monitoring capital expenditures as these companies ramp up investments in AI technology, despite the absence of a clear monetization strategy. Analysts emphasize the importance of these investments for maintaining competitive advantages in a rapidly evolving tech landscape. The focus is shifting towards understanding the path to profitability and the scalability of AI applications.
+
+Additionally, Meta has reported record revenues, although it faces challenges with slower growth in digital advertising. The overall sentiment in the market remains optimistic, with analysts raising price targets for Alphabet and highlighting its potential for long-term growth. The ongoing developments in AI and cloud computing are expected to shape the future of these tech companies, as they navigate both opportunities and challenges in the market.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

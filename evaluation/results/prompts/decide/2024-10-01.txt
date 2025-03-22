@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 481.27.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies and market trends. 
+
+The job openings report indicates a slight increase in August, suggesting a positive hiring environment. In the realm of investments, the iShares Expanded Tech-Software Sector (IGV) is noted for its long-term growth potential despite a high price-to-earnings (P/E) ratio, making it an attractive option for investors. The potential for AI to disrupt healthcare is also discussed, emphasizing the inefficiencies in the sector that AI could address.
+
+Consumer sentiment and business confidence are critical factors influencing stock market momentum, elections, and purchasing decisions. The tech sector has been a significant driver of market performance, with technology stocks reaching record highs this year, largely due to investor enthusiasm for AI advancements.
+
+Looking ahead, predictions for the fourth quarter suggest continued volatility but also optimism, as the market ended the third quarter near all-time highs, buoyed by the first Federal Reserve rate cut since 2020. The current market cycle is compared to the 2000 tech bubble, indicating a potential generational shift in leadership within the market.
+
+Central banks have surprised investors with policy changes aimed at easing previous restrictions, which could impact market dynamics. Amidst these changes, the ProShares Short QQQ ETF is highlighted as a potential hedge for investors holding tech shares, especially in light of possible tax policy shifts.
+
+In product news, Apple is preparing to release new versions of the iPhone SE and iPad Air early next year, while analysts express concerns over softening demand for the recently launched iPhone 16. Additionally, Epic Games has initiated legal action against Google and Samsung, alleging antitrust violations related to app distribution on Samsung devices.
+        The recent news highlights significant developments in the technology sector, particularly focusing on major companies like Nvidia and Microsoft. 
+
+Nvidia is experiencing a volatile period, with its stock slipping at the start of a crucial quarter despite a remarkable 135% increase in 2024, which has elevated its market capitalization to nearly $3 trillion. The company is recognized as a leader in artificial intelligence (AI) technology. Meanwhile, competitors in the electric vehicle (EV) market, such as BYD and Nio, are achieving record delivery milestones, indicating robust growth in the EV sector.
+
+In the semiconductor industry, there is heightened competition as startups like Cerebras Systems aim to challenge Nvidia's dominance by filing for an IPO amid soaring demand for AI chips. Analysts are optimistic about the long-term prospects of companies like Digital Realty Trust and Equinix, despite recent stock fluctuations.
+
+Microsoft is also making strides in AI, unveiling new features for its Copilot AI assistant, which now includes advanced conversational capabilities and enhanced interaction with users. The company is positioning its AI tools as more user-friendly and engaging, aiming to transform the way consumers interact with technology. Additionally, Microsoft has launched Bing generative search, a response to Google's AI-powered search, further emphasizing its commitment to integrating AI across its platforms.
+
+Overall, the tech sector is navigating a complex landscape of growth opportunities and challenges, with established players and new entrants alike vying for market share in AI and related technologies. Investors are advised to consider these dynamics as they evaluate potential investments in this rapidly evolving field.
+        The text provides a summary of recent news related to major tech companies, particularly focusing on Amazon and Broadcom, as well as broader market trends.
+
+Amazon has launched "THRONE AND LIBERTY," a massive-scale free-to-play RPG available on PC and consoles, which emphasizes exploration and environmental interactions in gameplay. The company also reported a significant rise in stock value, attributed to strong cloud momentum and advancements in generative AI capabilities. Additionally, Amazon's court case with the FTC saw some claims dismissed, indicating a partial victory for the company.
+
+In the grocery sector, United Natural Foods experienced a 25% surge in stock after reporting unexpected profits, driven by increased sales volumes and inflation. Meanwhile, PepsiCo announced plans to acquire Siete Foods for $1.2 billion, and CVS Health is considering restructuring its insurance and pharmacy businesses.
+
+The semiconductor industry is facing challenges, with stocks like Nvidia and Broadcom experiencing fluctuations. Analysts are closely monitoring these companies, especially in light of recent market dynamics and potential disruptions. Broadcom is projected to sell $12 billion in AI components this year, highlighting the ongoing demand for AI technologies.
+
+The ongoing dockworker strike in the U.S. is also a significant concern, affecting operations at 36 ports and potentially impacting the economy and consumer goods availability. This situation is being analyzed for its broader economic implications.
+
+Overall, the news reflects a mix of technological advancements, corporate acquisitions, and economic challenges, particularly in the tech and grocery sectors, as companies navigate a rapidly changing market landscape.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Tesla, Meta, and others. 
+
+Tesla is highlighted as it approaches significant events in October, including the release of third-quarter delivery numbers and a highly anticipated robotaxi event. Analysts are closely monitoring these developments, as they could influence Tesla's stock performance. The company is expected to report a substantial increase in vehicle deliveries, with September figures showing a notable rise compared to the previous year. However, there are concerns regarding market volatility and geopolitical tensions that may impact investor sentiment.
+
+In the broader tech landscape, Meta Platforms is also in the spotlight, with upcoming earnings reports and a strong history of exceeding market expectations. Analysts are optimistic about Meta's growth potential, particularly in artificial intelligence and virtual reality, as the company plans to expand its investments in these areas. Pivotal Research has initiated coverage of both Meta and Alphabet, assigning them buy ratings based on their competitive positions and growth prospects.
+
+The text also touches on the performance of other electric vehicle manufacturers, such as BYD and Nio, which have reported record deliveries, indicating a competitive landscape in the EV market. Overall, the technology sector is experiencing significant activity, with investors keenly watching earnings reports and market trends that could shape future stock performance.
+        The text discusses recent developments and insights regarding major tech companies, particularly focusing on Alphabet Inc. (GOOGL) and Microsoft. 
+
+Jason Browne, president of Alexis Investment Partners, highlights the current volatility in the Nasdaq index and suggests that this may present a buying opportunity for investors. He emphasizes the importance of focusing on companies with strong balance sheets and consistent earnings, especially in a potentially slower growth environment. Browne notes that his firm has been strategically buying into tech stocks during recent pullbacks, utilizing exchange-traded funds (ETFs) that are heavily weighted in large-cap tech, such as the iShares Global 100 ETF and Vanguard Growth ETF.
+
+Microsoft has introduced Bing generative search, aiming to compete with Google’s AI-powered search capabilities. This new feature is designed to enhance user experience by providing more intuitive search results for informational queries.
+
+In the realm of autonomous vehicles, Google’s Waymo is reportedly offering over 100,000 safe robotaxi trips weekly, with costs decreasing, indicating progress in the autonomous transport sector. 
+
+Additionally, former OpenAI VP Zoph is planning a new startup, which could pose a challenge to OpenAI's talent pool. Mark Cuban has expressed skepticism about the current capabilities of AI, suggesting that it still has limitations compared to human intelligence.
+
+Epic Games has initiated a lawsuit against Google and Samsung, alleging antitrust violations related to competition on Samsung devices, marking a significant legal challenge for these tech giants.
+
+Overall, the text reflects a dynamic landscape in the tech industry, characterized by investment strategies, competitive innovations, and ongoing legal battles.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

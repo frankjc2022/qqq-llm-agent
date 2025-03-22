@@ -1,0 +1,11 @@
+The text discusses recent developments in the technology sector, particularly focusing on major companies like Amazon, Google, and OpenAI. 
+
+Amazon's founder, Jeff Bezos, has publicly acknowledged the decline in media trust while defending his ownership of The Washington Post. The company is also expanding its AI shopping assistant, Rufus, to more international markets, aiming to enhance its competitive edge in the AI landscape.
+
+In the energy sector, Oklo, a nuclear energy startup, is gaining attention for its efforts to make clean nuclear energy more accessible. The company, backed by OpenAI CEO Sam Altman, has seen its stock surge nearly 200% recently. Oklo's CEO, Jake DeWitte, highlighted the efficiency of nuclear energy compared to traditional fossil fuels, emphasizing the potential of small modular reactors (SMRs) to meet the energy demands of AI data centers. U.S. Secretary of Energy Jennifer Granholm noted the importance of clean energy for powering these facilities, acknowledging the challenges of adopting new nuclear technologies.
+
+The text also covers the competitive landscape among tech giants as they prepare for upcoming earnings reports. Analysts expect a moderation in growth for companies like Alphabet, Microsoft, and Apple, with a focus on their AI investments. The ongoing AI investment cycle is anticipated to be a significant theme in the forthcoming earnings announcements.
+
+Additionally, OpenAI is reportedly developing its own AI chips in collaboration with Broadcom and TSMC, aiming to enhance its infrastructure to support its growing AI capabilities. This move reflects the increasing demand for specialized hardware in the AI sector.
+
+Overall, the text highlights the intersection of technology, energy, and investment strategies as major players navigate the evolving landscape.

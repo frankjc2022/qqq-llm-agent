@@ -1,0 +1,19 @@
+The text provides a summary of recent news regarding major technology companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Arista Networks (ANET)**: The company has implemented a 4-for-1 stock split, aiming to make shares more accessible to a wider range of investors. Analysts are evaluating whether this is a good time to invest in ANET.
+
+2. **SoundHound**: The stock surged after the company secured a partnership with Torchy's Tacos to utilize its voice AI technology, indicating strong market interest in AI applications.
+
+3. **Foxconn**: The company reported record revenue for the third quarter, driven by increased demand for AI servers and a partnership with Nvidia, suggesting robust growth prospects.
+
+4. **Tenstorrent**: The company raised $693 million in Series D funding to compete with Nvidia in the AI accelerator market, highlighting the competitive landscape in AI technology.
+
+5. **Nvidia**: The company is collaborating with the Vietnamese government to establish an AI research and development center, which includes a partnership with Viettel Group. This initiative reflects Nvidia's commitment to expanding its influence in the AI sector.
+
+6. **Microsoft**: The company is partnering with PTC and Volkswagen to develop a generative AI tool for code development. Additionally, Microsoft is introducing new AI capabilities, such as Copilot Vision, which can analyze web content.
+
+7. **OpenAI**: The company has launched a subscription version of ChatGPT aimed at research and engineering, indicating its growth and the increasing demand for AI tools.
+
+8. **Vodafone-Three Merger**: The UK’s Competition and Markets Authority approved the merger, marking a shift in regulatory attitudes towards fostering economic growth over strict consumer price controls.
+
+Overall, the news reflects significant developments in AI technology, corporate partnerships, and market strategies among leading tech firms.

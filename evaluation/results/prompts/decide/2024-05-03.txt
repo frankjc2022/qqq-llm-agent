@@ -1,0 +1,61 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 435.48.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly focusing on Apple and its performance in the stock market. 
+
+On May 3, 2024, Apple reported better-than-expected earnings for its fiscal second quarter, which included a significant $110 billion stock buyback announcement. This news led to a 6% increase in Apple’s stock price, marking its best day since 2022. Despite the positive earnings report, iPhone sales experienced a 10% decline, raising concerns about the product's appeal in markets like China, where consumers are beginning to view it as less cutting-edge.
+
+The broader market context includes discussions about the S&P 500 potentially entering a recessionary bear market, influenced by the recent performance of mega-cap tech stocks. Analysts noted that while the S&P 500 had a challenging month, certain ETFs managed to perform well, indicating selective resilience in the market.
+
+Additionally, the text highlights the importance of the "Magnificent Seven" stocks, which significantly contributed to earnings growth, suggesting that without their performance, the overall index would have shown negative growth. The article also touches on the implications of the labor market's current state, with job creation showing a dip but maintaining a relatively flat trend over the past year.
+
+Overall, the content reflects a mix of optimism regarding specific tech stocks like Apple, alongside caution about broader economic indicators and market trends.
+        The text discusses recent developments in the technology sector, particularly focusing on the impact of artificial intelligence (AI) on earnings and stock performance. Scott Krisiloff, an expert from Avondale Asset Management, highlights that over 80% of S&P 500 companies have reported their Q1 earnings, revealing a stronger-than-expected performance amid economic challenges. A significant theme is the role of AI, with companies that leverage AI showing resilience and potential for growth. Krisiloff emphasizes that while some tech firms are leading in AI, many others are keen to explore its benefits for enhancing operations.
+
+Nvidia (NVDA) is noted for its impressive stock performance, having risen significantly over recent months, and is recognized as a key player in the AI space. Other companies like Palantir and Booz Allen Hamilton are also mentioned for their contributions to AI advancements. The text further discusses the broader market outlook, indicating a potential recession impacting the S&P 500, particularly as the tech bubble shows signs of bursting.
+
+Additionally, the article touches on the wealth of tech billionaires and the competitive landscape of the industry, with a focus on the 25 richest individuals in technology. The ongoing antitrust trial against Google is highlighted as a significant issue for the tech giant, reflecting the regulatory challenges faced by major companies in the sector.
+
+Overall, the content underscores the transformative influence of AI on business performance and market dynamics, while also addressing the challenges and opportunities within the technology industry.
+        The text provides a comprehensive overview of recent news related to major tech companies, particularly focusing on Amazon (AMZN) and its performance in the stock market. 
+
+Amazon's stock has been performing well, with strong first-quarter results that exceeded expectations. The company reported an operating income of $15.3 billion, significantly higher than the consensus estimate of $11.3 billion. This growth is attributed to robust performance in Amazon Web Services (AWS) and advertising, with AWS showing a year-over-year growth of 17.2%. The company has consistently reported operating income above its guidance range for five consecutive quarters, indicating effective cost management and a shift towards higher-margin services.
+
+In addition to financial performance, Amazon is facing challenges, including a ruling from the National Labor Relations Board (NLRB) that found the company violated labor laws with anti-union comments. Amazon plans to appeal this decision. The company has also amended its bylaws to designate Delaware's Court of Chancery as the exclusive forum for certain corporate matters.
+
+The broader market context includes concerns about a potential recession impacting the S&P 500, with analysts predicting a bear market as inflation remains persistent. Despite these challenges, there are optimistic views on tech stocks, with some analysts suggesting that certain companies could reach trillion-dollar valuations by 2030.
+
+Overall, the text highlights Amazon's strong financial results, ongoing legal challenges, and the broader economic landscape affecting tech stocks, emphasizing the dynamic nature of the market and the potential for growth amidst uncertainty.
+        The text discusses recent developments in major tech companies, particularly those in the QQQ index, focusing on their financial performance and strategic moves.
+
+1. **Tesla (TSLA)**: Elon Musk is promoting Tesla's Full Self-Driving (FSD) amid declining electric vehicle (EV) sales. Despite a 30% drop in stock value in 2024, Tesla's shares rallied 20% following announcements of a more affordable vehicle. Analysts express concerns about competition and market share, with some investors taking short positions on the stock.
+
+2. **BYD**: The Chinese EV manufacturer has seen a surge in gross margins, indicating strong performance amidst the competitive landscape.
+
+3. **Google**: The company faces significant challenges from an ongoing antitrust trial, which could impact its search advertising dominance. The trial highlights the competitive pressures from platforms like TikTok and Meta.
+
+4. **Meta (formerly Facebook)**: The company is under scrutiny for its ad policies related to the 2020 election and faces a class-action lawsuit regarding privacy issues. Despite regulatory challenges, Meta is rolling out AI tools in the EU and plans to build a new data center in Montgomery.
+
+5. **Apple**: The company is experiencing slowing core growth, raising concerns about its high valuation despite a recent stock buyback.
+
+6. **Market Trends**: The overall stock market has shown resilience, with the Nasdaq recovering due to a semi-dovish Federal Reserve stance and a positive jobs report. The impact of artificial intelligence on earnings is a significant theme, with companies leveraging AI to enhance operations and drive growth.
+
+In summary, the tech sector is navigating a complex landscape of competition, regulatory scrutiny, and evolving market dynamics, with companies like Tesla, Google, and Meta at the forefront of these developments.
+        The text discusses recent developments concerning major tech companies, particularly focusing on Google and Alphabet Inc. 
+
+A significant highlight is the ongoing antitrust trial against Google, where closing arguments were presented, emphasizing the potential implications for the tech industry. Judge Amit Mehta is expected to take time to deliberate on the case, which could influence the future of online search and advertising practices.
+
+The impact of artificial intelligence (AI) on corporate earnings is another key theme. As the earnings season progresses, over 80% of S&P 500 companies have reported their first-quarter results, revealing a strong performance amid economic challenges. Scott Krisiloff, an expert in the field, notes that companies heavily invested in AI are performing well, while others are keen to explore AI's potential for enhancing business operations. He highlights the energy demands of AI systems and their capacity to significantly boost economic productivity.
+
+Additionally, the text touches on the broader economic landscape, indicating that the S&P 500 may face a recessionary bear market, particularly as the tech sector experiences volatility. The article also mentions the importance of quality raters in maintaining the integrity of Google’s search results, underscoring the challenges faced by subcontractors in this role.
+
+Lastly, the text lists the 25 richest billionaires in the technology sector, reflecting the financial dynamics within the industry. Overall, the content provides insights into the current state of major tech companies, the influence of AI on their performance, and the regulatory challenges they face.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

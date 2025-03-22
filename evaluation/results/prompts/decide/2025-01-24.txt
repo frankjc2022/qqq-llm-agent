@@ -1,0 +1,65 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 529.63.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent news and analyses related to technology companies, particularly those within the QQQ ETF, and broader market trends. Key highlights include:
+
+1. **Market Sentiment and Economic Indicators**: There are concerns about a potential recession, with economic indicators suggesting caution in equity investing despite some short-term optimism. Macro indicators hint at a possible market correction, influenced by political factors such as Trump's tax policies and tariff threats, which are seen as attempts to reshape the global economy in favor of the U.S.
+
+2. **Investment Strategies**: The text suggests combining QQQ with the SCHD ETF to achieve better risk-adjusted returns and reduce tech concentration. It also discusses the underperformance of the JEPQ ETF due to its income-chasing strategy, which detracts from total returns.
+
+3. **Tech Sector Performance**: The performance of major tech stocks is under scrutiny, with reports of significant losses for companies like Nvidia. Apple is highlighted for its fluctuating stock performance, with analysts maintaining a cautious outlook amid regulatory pressures and weak sales of new products.
+
+4. **Regulatory Investigations**: The Competition and Markets Authority is investigating Apple and Google regarding their influence in mobile ecosystems, which could impact their market positions.
+
+5. **Future Outlook**: The text emphasizes the importance of monitoring macroeconomic trends and company-specific developments, particularly in the tech sector, as they could significantly influence market dynamics moving forward.
+
+Overall, the content reflects a cautious yet analytical perspective on the current state of the tech market and investment strategies amidst evolving economic conditions.
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly those in the QQQ index, such as Nvidia, Microsoft, and Amazon. 
+
+Nvidia is highlighted as a key player in the AI sector, with discussions around its stock performance, competition with Alphabet, and its potential for growth. Analysts suggest that Nvidia remains an attractive investment despite its current valuation concerns. The company is also noted for its significant investments in U.S. chip production, which could bolster its market position.
+
+Microsoft is another focal point, with reports indicating its strong growth in AI and cloud services, particularly through its Azure platform. The company is expected to report earnings that reflect its leadership in these areas, and it is considered a top stock pick among investors and hedge funds.
+
+Amazon's stock performance is also discussed, with analysts predicting continued growth following a strong year. The text mentions the broader implications of AI infrastructure investments, particularly in relation to a $500 billion initiative involving major players like OpenAI and Oracle, which could create new investment opportunities across various sectors.
+
+Overall, the news reflects a dynamic landscape in the tech industry, characterized by competition, innovation, and strategic investments, particularly in AI and cloud computing. The performance of these companies is closely monitored by investors, with expectations of significant earnings reports and market movements in the near future.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly focusing on Amazon, Nvidia, and Broadcom, as well as their stock performance and market implications.
+
+Amazon has been in the spotlight due to its willingness to engage in discussions with Canadian officials regarding a potential shutdown of its operations in Quebec. This decision has raised questions about the company's future in the region. Additionally, Amazon's stock has shown resilience, outperforming the market last year, and analysts are optimistic about its continued growth.
+
+Nvidia, however, is facing challenges, with reports indicating a significant drop in its stock value. Despite this, there are discussions about the potential for Nvidia's stock to be a worthwhile investment, drawing comparisons to early investments in Amazon. The company is also expected to benefit from the growing demand for AI technology, which is driving revenue growth.
+
+Broadcom is highlighted for its strong performance in the AI sector, with analysts predicting robust growth due to strategic acquisitions and innovations in AI hardware and software. The company is seen as a key player in the semiconductor market, with expectations of continued success in 2025.
+
+Overall, the tech sector is experiencing volatility, influenced by earnings reports and broader market trends. The interplay between major companies like Amazon, Nvidia, and Broadcom is shaping investment strategies and market outlooks, with a focus on AI advancements and competitive dynamics within the industry.
+        The text provides a comprehensive overview of recent developments and news concerning major tech companies, particularly focusing on Tesla and Meta, as well as broader trends in the technology sector.
+
+Tesla's stock has experienced fluctuations, with recent reports indicating a decline in its value. Speculation surrounds the price hike of the Model Y, which may impact early buyers. The company is also facing scrutiny regarding its autonomous driving technology and the implications for its stock performance. Analysts suggest that Tesla's volatility makes it a candidate for covered call ETFs, indicating potential investment strategies for those interested in the stock.
+
+In the broader tech landscape, shares of major companies, including Nvidia, have seen a downturn, although there remains optimism about the sector's performance due to anticipated earnings reports. Meta has garnered attention for its significant investments in artificial intelligence, with a recent $65 billion spending plan that investors appear to be accepting positively. The company is positioned for growth, particularly in virtual reality, augmented reality, and the metaverse.
+
+Additionally, the text highlights the performance of various stocks, including Texas Instruments and Verizon, and notes the overall sentiment in the tech market, which remains cautiously optimistic despite recent declines. The upcoming earnings reports are expected to be pivotal for many companies, including Netflix, as they could influence market trends moving forward.
+
+Overall, the content reflects a dynamic tech sector with significant developments in individual companies, investment strategies, and market sentiment, particularly in relation to earnings expectations and technological advancements.
+        The text discusses recent developments and insights regarding major tech companies, particularly Alphabet Inc. (GOOG) and its competitive landscape. Key highlights include:
+
+1. **Options Trading Strategies**: Jessica Inskip from StockBrokers.com shares insights on trading strategies for the "Magnificent Seven" tech stocks, emphasizing the volatility and potential for significant price movements in options trading.
+
+2. **Market Performance**: The U.S. equity markets experienced a surge during President Trump's first week back in office, marking a strong start to his presidential term. Analysts compare the performance of the Magnificent Seven stocks with traditional tech giants like FANG, alongside tracking bitcoin and gold prices.
+
+3. **Alphabet's AI Ventures**: Alphabet is noted for having a business segment similar to Nvidia's, particularly in AI chip development, which could significantly enhance its market value. The company is also highlighted for its advancements in AI technology, which are expected to impact its search capabilities and overall business strategy.
+
+4. **Stock Predictions**: A list of stocks predicted by ChatGPT to potentially yield wealth over the next decade includes Alphabet, indicating investor confidence in its long-term growth prospects.
+
+5. **Investment Insights**: Various analysts discuss Alphabet's stock performance, its potential for growth, and its competitive positioning in the AI and tech sectors. The company is seen as a strong contender in the quantum computing space and is expected to continue thriving amid increasing AI integration.
+
+Overall, the text provides a snapshot of the current state of tech stocks, particularly focusing on Alphabet's strategic initiatives and market performance, while also touching on broader market trends and investment strategies.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

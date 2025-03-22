@@ -1,0 +1,59 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 442.1.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and news related to major tech companies, particularly focusing on stock market trends and specific companies like Apple and Microsoft. 
+
+Key highlights include:
+
+1. **Market Trends**: The Federal Reserve is unlikely to cut interest rates in 2024 due to rising commodity prices and inflation concerns. The service sector is showing signs of cooling, with the ISM services index reporting weaker-than-expected results.
+
+2. **Stock Recommendations**: There are discussions about potential high-growth stocks, with recommendations for three stocks under $100 that could significantly increase in value by 2026. Analysts suggest that despite the challenges, certain stocks have strong revenue and profit potential.
+
+3. **Apple's Ventures**: Apple is reportedly shifting its focus from electric vehicles to home robotics, exploring the development of mobile robots for in-home use. This move comes after setbacks in its electric vehicle project. Additionally, Apple is facing challenges with its services, including outages affecting various platforms.
+
+4. **Microsoft's Innovations**: Microsoft is rapidly integrating AI technologies, particularly ChatGPT, into its operating systems, which analysts believe could represent a significant turning point for the company.
+
+5. **General Market Sentiment**: The tech industry has experienced volatility in the first quarter of 2024, with central bank communications contributing to market confusion. Analysts are closely monitoring stock performance and market dynamics, particularly in relation to the Nasdaq and S&P 500 indices.
+
+Overall, the text provides insights into the current state of the tech market, highlighting both challenges and opportunities for investors.
+        The text provides recent news updates regarding major tech companies, particularly focusing on Nvidia and Microsoft, as well as broader market trends. 
+
+Nvidia has been in the spotlight due to its resilience in the face of a significant earthquake in Taiwan, which raised concerns about potential supply chain disruptions. However, Nvidia has stated that it does not anticipate any impact on its chip supply. Despite this, Nvidia's stock has seen fluctuations, closing at $889, reflecting a notable drop amid a generally positive market environment. The company is also navigating challenges as its key supplier, Taiwan Semiconductor Manufacturing Company (TSMC), temporarily halted operations for inspections following the earthquake.
+
+In addition to these developments, SK Hynix, a major supplier for Nvidia, announced a substantial investment of approximately $3.87 billion in a new chip packaging plant in Indiana, aimed at producing next-generation high bandwidth memory chips. This investment highlights the ongoing growth and demand in the semiconductor industry, particularly in the Midwest.
+
+On the other hand, Microsoft is making strides in quantum computing, claiming a significant milestone in collaboration with a startup. The company is also integrating AI technologies across its platforms, with analysts suggesting that it is well-positioned to benefit from the growth in AI despite market uncertainties. Furthermore, there are discussions about a potential stock split for Microsoft, indicating confidence in its future performance.
+
+Overall, the tech sector is experiencing a mix of challenges and opportunities, with companies like Nvidia and Microsoft at the forefront of innovation and investment in emerging technologies.
+        The latest news regarding Amazon highlights significant changes within the company, particularly in its retail and cloud computing sectors. Amazon has announced layoffs affecting hundreds of employees in its Physical Stores Technology team and its cloud computing division, Amazon Web Services (AWS). This move reflects a strategic shift as the company reassesses its retail strategy, which has faced challenges, including the underperformance of its cashier-less technology, "Just Walk Out," in grocery stores. 
+
+In an effort to cut costs, Amazon is also breaking leases and reducing its office space, aiming to save approximately $1.3 billion. This decision comes amid a struggling commercial real estate market. Analysts have noted that despite these challenges, Amazon remains a strong player in the tech sector, with improvements in logistics and efficiencies expected to enhance profit margins in retail.
+
+Additionally, Amazon's stock performance has been noteworthy, with analysts suggesting it is well-positioned for growth in 2024. The company is also making significant investments, such as a $2.75 billion acquisition of AI startup Anthropic, indicating a focus on expanding its capabilities in artificial intelligence.
+
+Overall, while Amazon is navigating a period of restructuring and cost-cutting, it continues to be recognized for its potential in the tech market, with analysts optimistic about its future performance and strategic direction.
+        The text provides a comprehensive overview of recent developments in major tech companies, particularly focusing on Tesla and Meta Platforms. 
+
+Tesla (TSLA) has faced significant challenges, including a notable decline in stock value and a drop in first-quarter delivery numbers, marking its first annual sales decrease since the pandemic began. Despite these setbacks, some analysts believe the dip in deliveries is temporary and suggest that now may be a good time to invest in TSLA stock. Elon Musk's ambitions for Tesla include plans for a new factory in India, aiming to enhance the company's position in the electric vehicle market.
+
+In contrast, Ford has reported a strong start to 2024, while General Motors has also seen a decline in deliveries. Lucid Motors, another player in the EV market, is struggling but has received substantial backing from the Saudi Public Investment Fund, which recently invested $1 billion to support the company amid its financial difficulties.
+
+On the other hand, Meta Platforms (META) is making strides in video content with the introduction of a new vertical-first video player on Facebook, aimed at enhancing user experience across various video formats. However, the company has also faced outages affecting its services, including WhatsApp, which has raised concerns among users.
+
+Analysts have highlighted Amazon and Meta as top stock picks for 2024, citing improvements in Amazon's logistics and cloud services as key growth drivers. Overall, the tech sector is experiencing a mix of challenges and opportunities, with companies adapting to market demands and investor expectations.
+        The latest news highlights significant developments in the tech industry, particularly focusing on Alphabet (Google's parent company) and its strategic moves in the artificial intelligence (AI) sector. On April 3, 2024, reports emerged that Google is contemplating introducing fees for new AI-driven search features, marking a potential shift in its business model by placing some core products behind a paywall. This initiative aims to enhance its premium subscription services, which currently include access to the Gemini AI assistant in Gmail and Docs, while maintaining its traditional search engine as a free service.
+
+In the broader market context, companies like Nvidia and Palantir are navigating challenges as the tech sector faces pressure. The European Union has also made strides in cybersecurity regulations, easing requirements that could benefit major tech firms like Amazon, Google, and Microsoft in securing cloud computing contracts.
+
+Additionally, OnePlus has launched its own version of Google's Magic Eraser, showcasing its ambitions in mobile AI technology. The tech industry is experiencing a busy start to 2024, with analysts discussing the implications of rising market yields and the performance of various stocks, including those of Trump Media and other notable companies.
+
+Overall, the tech landscape is evolving rapidly, with companies adapting to new challenges and opportunities, particularly in AI and cybersecurity, as they seek to maintain competitive advantages in a turbulent market.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,73 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 476.72.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly focusing on Apple Inc. (AAPL) and Jabil (JBL), as well as broader economic indicators affecting the stock market.
+
+Jabil's stock has faced challenges, dropping 16% following a disappointing Q2 earnings report. The company continues to struggle to regain its previous highs. In contrast, Apple has seen significant stock price increases, reaching record highs after its Worldwide Developers Conference (WWDC) where it announced new AI-integrated features. This has positioned Apple as the most valuable public company in the U.S., surpassing Microsoft.
+
+The economic landscape is characterized by mixed signals, with jobless claims rising to 242,000, the highest since last August. Despite expectations of a global economic slowdown, growth and inflation have outperformed predictions in major economies. Investors are advised to remain engaged in the market while considering protective strategies like put options due to low volatility.
+
+The text also highlights the performance of technology ETFs, which have surged due to cooler inflation rates, pushing major indexes to all-time highs. Analysts are optimistic about the potential for rate cuts in the near future, which could further influence market dynamics.
+
+Overall, the content reflects a cautious yet optimistic outlook on the tech sector, emphasizing the importance of strategic investment decisions in light of current economic conditions and company performances.
+        The text provides a comprehensive overview of recent developments in major tech companies, particularly focusing on their advancements in artificial intelligence (AI) and stock market performance. 
+
+Nvidia (NVDA) is highlighted for its collaboration with Microsoft and its significant stock split, which has generated investor interest. The company is noted for its strong position in the AI chip market, with executives asserting that their chips can compete effectively in networking, even if not directly against Nvidia's graphics-processing units. 
+
+Broadcom (AVGO) is also in the spotlight, with its stock experiencing a surge following a positive earnings report and a planned 10-for-1 stock split. The CEO raised projections for the company's AI business, indicating a robust future in this sector. Analysts predict that Broadcom's AI revenue could reach $11.6 billion, even without growth in the latter half of the fiscal year.
+
+Apple (AAPL) has regained its status as the most valuable public company in the U.S., driven by product announcements at its Worldwide Developers Conference, including a new AI-integrated operating system. This move is seen as a strategic effort to enhance user engagement and drive sales of new devices.
+
+Microsoft (MSFT) is also making strides in AI, with its cloud services benefiting from the AI boom. The company is positioned to capitalize on AI growth, despite some market uncertainties. Analysts are optimistic about Microsoft's stock potential, suggesting it could reach $500 per share.
+
+Overall, the text underscores a competitive landscape among these tech giants as they leverage AI technologies to enhance their market positions and drive stock performance.
+        The text provides recent news updates regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon has been in the spotlight for several reasons. The company announced a significant investment of up to $230 million in generative AI startups, aiming to enhance its AWS cloud services. This investment is part of a broader strategy to position AWS as a leading choice for startups developing AI applications. Additionally, Amazon is increasing its commitment to affordable housing, adding $1.4 billion to its existing $2.2 billion investment, which aims to create and preserve 14,000 affordable homes across various cities.
+
+In terms of stock performance, Amazon's shares have seen fluctuations, recently closing at $183.83, down 1.64% from the previous day. Despite this, analysts suggest that Amazon remains a strong long-term investment, particularly due to its cloud-computing unit and the growth of its Prime Video service.
+
+Broadcom has also made headlines, particularly with its strong Q2 earnings report, which exceeded expectations and led to a significant rise in its stock price. The company is benefiting from the increasing demand for AI chips, which is expected to contribute to 25% of its total revenue by FY24. Broadcom's integration of VMware is also highlighted as a key factor in its growth strategy.
+
+Overall, both Amazon and Broadcom are navigating a rapidly evolving tech landscape, with investments in AI and housing, alongside strong financial performances, positioning them favorably in the market.
+        The text provides recent news updates about major tech companies, particularly focusing on Tesla and Meta. 
+
+**Tesla Updates:**
+- Tesla's annual shareholder meeting on June 13, 2024, saw CEO Elon Musk's $56 billion pay package approved again, despite prior opposition from major institutions. This approval reflects strong support from small investors.
+- A Canadian individual pleaded guilty to stealing Tesla's trade secrets related to battery manufacturing, highlighting ongoing security concerns.
+- Musk announced plans for Tesla to begin producing the Cybertruck's non-foundation series in the upcoming quarter and aims to achieve cost parity for Tesla's 4680 batteries by year-end.
+- Tesla's stock performance has been mixed, with a significant drop in shipments in China due to increasing competition. The company has also faced challenges, including a 55% drop in first-quarter profits, yet stock prices have shown resilience.
+
+**Meta Updates:**
+- Meta is undergoing a restructuring, reducing its number of vice presidents as part of a broader efficiency initiative led by CEO Mark Zuckerberg.
+- The company is optimistic about future performance, particularly in light of a boost from Chinese e-commerce platforms.
+- Meta is actively rolling out AI tools in the EU, despite facing regulatory challenges, and has introduced the Meta Llama 3, a new language model.
+- Concerns have been raised regarding Meta's AI advisory council composition, which has been criticized for lacking diversity.
+
+Overall, the updates reflect significant developments in corporate governance, product innovation, and competitive challenges faced by these leading tech companies.
+        The text discusses recent developments and news regarding major tech companies, particularly Alphabet Inc. (NASDAQ: GOOGL) and its stock performance. Key highlights include:
+
+1. **Bullish Outlook on Alphabet**: The article outlines three reasons for a positive outlook on Alphabet's stock, citing strong advertising spending, cloud potential, and reasonable valuation. Alphabet has outperformed the S&P 500 in 2024, indicating robust growth expectations in its core markets.
+
+2. **Bill Ackman's Investment**: Alphabet ranks fourth in billionaire investor Bill Ackman's portfolio of top stocks for 2024, suggesting its significance in the investment landscape.
+
+3. **Snowflake Cyberattack Investigation**: Snowflake Inc. is concluding its investigation into a cyberattack that affected 165 customers, highlighting ongoing security concerns in the tech industry.
+
+4. **Waymo Vehicle Recalls**: Waymo has recalled 672 driverless cars to prevent accidents, following an incident where a vehicle struck a pole. This emphasizes the challenges in autonomous vehicle technology.
+
+5. **Apple and OpenAI Partnership**: Apple has partnered with OpenAI to enhance its iPhone capabilities with AI, which could impact Google's market position, as Google has traditionally been a key provider of services like search and maps.
+
+6. **Google's Clean Energy Initiatives**: Google is collaborating with a Nevada utility and a geothermal startup to power its data centers with renewable energy, reflecting its commitment to sustainability.
+
+7. **Alphabet's New CFO**: Alphabet appointed a new CFO, Ashkenazi, who received a significant signing bonus, indicating strategic leadership changes within the company.
+
+Overall, the text provides insights into Alphabet's market performance, strategic partnerships, and operational challenges, reflecting the dynamic nature of the tech industry.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

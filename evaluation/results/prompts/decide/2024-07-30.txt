@@ -1,0 +1,55 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 457.53.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The latest news regarding tech companies in the QQQ index highlights several key developments as of July 30, 2024. Job openings have slightly decreased, and the S&P 500 and Nasdaq 100 are experiencing declines due to disappointing earnings reports and negative market sentiment. A potential consumer-led recession is becoming more likely, with rising unemployment and high delinquency rates on credit card debt.
+
+As major tech companies prepare to report their earnings, the QQQ ETF is expected to face volatility. Consumer confidence has shown a slight increase in July, but the market typically experiences low to negative returns during August. Analysts are particularly focused on the upcoming earnings from giants like Microsoft, Meta, Amazon, and Apple, with expectations that AI investments will play a significant role in their performance.
+
+Daniel Newman, CEO of Futurum Group, emphasizes the critical moment for AI investments, warning that companies must not underinvest or they risk falling behind. He notes that while there will be a period of adjustment before the benefits of these investments are realized, the current uncertainty surrounding AI's impact on jobs is palpable.
+
+Affirm Holdings has seen stock gains following an upgrade from analysts, who predict that profitability may be closer than previously thought. Meanwhile, Apple is expected to report improved results due to a recovering PC market and steady growth in services.
+
+Overall, the tech sector is at a pivotal point, with analysts divided on the outlook for major companies as they navigate earnings reports and broader economic challenges. The sentiment in the market remains cautious, particularly following recent underwhelming performances from key players.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Nvidia and Microsoft, as well as the broader market trends affecting tech stocks.
+
+Nvidia has experienced volatility, with its stock price declining significantly ahead of a busy earnings week. The company, along with other semiconductor stocks, has faced pressure as investors await insights from major tech earnings, particularly from Microsoft. Nvidia's performance is closely tied to the market's expectations regarding artificial intelligence (AI) spending, which is a key area of focus for investors.
+
+Advanced Micro Devices (AMD) reported strong revenue growth, which has helped it regain footing in the market. In contrast, Nvidia's stock has been impacted by a broader downturn in tech stocks, with investor sentiment wavering ahead of significant earnings reports and economic meetings.
+
+Microsoft's recent earnings report revealed a slight miss in its Azure cloud revenue growth, disappointing investors who were looking for stronger performance from its AI-related services. Despite this, Microsoft continues to expand its AI capabilities, boasting over 50,000 customers for its AzureAI platform. The company is investing heavily in infrastructure to support its AI initiatives, which is expected to drive future growth.
+
+Overall, the tech sector is experiencing a mix of optimism and caution as companies prepare to report earnings. The performance of major players like Nvidia and Microsoft will be closely watched, as their results could influence market trends and investor sentiment in the coming weeks.
+        The text provides recent news updates regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon is making significant moves in rural delivery, aiming to enhance efficiency by reducing delivery times by 50% in less populated areas. The company is also facing scrutiny from a U.S. safety regulator, which has voted to hold Amazon accountable for hazardous products sold by third parties on its platform. Additionally, Amazon's second-quarter earnings are anticipated to show gains from its eCommerce and cloud business, with analysts noting a potential upside in operating margins. Goldman Sachs has reiterated a Buy rating on Amazon, raising its price target due to positive expectations for future earnings.
+
+In the realm of labor relations, the Amazon Labor Union has elected new leaders, marking a pivotal change as it seeks to negotiate a contract with the company, which has historically resisted union efforts. 
+
+Broadcom is highlighted as a strong player in the cybersecurity sector, with analysts suggesting it may be a top stock choice. The company has recently experienced a stock split and beat earnings estimates, which has positively influenced its stock performance. Jim Cramer has expressed optimism about Broadcom's prospects, indicating it could be a valuable investment.
+
+Overall, the updates reflect a dynamic landscape for these tech giants, with Amazon focusing on operational improvements and labor relations, while Broadcom is positioned as a key player in cybersecurity and technology investments.
+        The latest news highlights significant developments in the tech industry, particularly focusing on Tesla and Meta Platforms. 
+
+Tesla is under scrutiny following a tragic incident in Seattle where a motorcyclist was killed by a Tesla vehicle operating on its "Full Self Driving" system. Investigations revealed that the vehicle was using this technology at the time of the crash. CEO Elon Musk has expressed confidence that the self-driving system will soon operate without human oversight. Additionally, Tesla has issued a recall for nearly 2 million vehicles due to a software flaw related to the hood latch, which has affected its stock performance.
+
+In the broader tech landscape, the Futurum Group's CEO, Daniel Newman, emphasized the critical moment for AI investments, urging companies to commit to AI infrastructure to avoid falling behind. He noted that while there will be a period of adjustment before the benefits of these investments are realized, the current climate is pivotal for tech firms.
+
+Meta Platforms is also in the spotlight as it prepares for its Q2 earnings report amidst a busy earnings week for major tech companies. The company has reached a $1.4 billion settlement over facial recognition data issues in Texas, which raises questions about its regulatory challenges. Despite these hurdles, Meta is rolling out new AI tools in the EU, although it has faced previous regulatory setbacks.
+
+Overall, the tech sector is navigating a complex landscape of innovation, regulatory scrutiny, and market performance, with companies like Tesla and Meta at the forefront of these discussions.
+        The recent news highlights significant developments in the tech sector, particularly focusing on major companies like Microsoft and Alphabet (Google's parent company). 
+
+Microsoft's Azure cloud service has experienced a slowdown in growth, raising concerns among investors who are eager for returns on substantial investments in artificial intelligence (AI). This decline has contributed to a drop in Microsoft’s stock by over 6% following disappointing revenue results. The company, along with its competitors, is heavily investing in AI technologies, which has led to increased capital expenditures and operational costs. Analysts are closely monitoring these trends, especially as other tech giants like Alphabet and Amazon also ramp up their AI initiatives.
+
+Alphabet has reported a doubling of its capital spending in the second quarter to enhance its generative AI platform, which has implications for its operating margins. Despite a recent dip in stock value, analysts suggest that Alphabet remains a strong investment opportunity due to its growth potential in AI and cloud services. The company is also facing scrutiny regarding its YouTube segment, where a slowdown in growth has overshadowed the benefits from AI advancements.
+
+In the broader market context, tech stocks are under pressure as investors weigh the implications of heavy spending on AI against potential returns. The Nasdaq Composite has been affected by these dynamics, with companies like Nvidia also experiencing significant stock fluctuations. As the tech landscape evolves, investors are advised to consider the risk-reward profiles of these companies, particularly in light of their aggressive AI strategies and the associated financial impacts.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,71 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 480.0.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on developments related to the Invesco QQQ ETF and Apple Inc. 
+
+Key highlights include:
+
+1. **Federal Reserve Insights**: Fed Chair Jerome Powell's recent comments at the Jackson Hole speech suggest a potential shift towards interest rate cuts, which could influence market dynamics and investor sentiment. The expectation is that the Fed may lower rates in September, impacting various sectors, including technology.
+
+2. **Dell Technologies**: Dell is experiencing stock price volatility as it pivots towards artificial intelligence (AI). Analysts have upgraded Dell's stock rating to "buy," citing significant potential for earnings growth.
+
+3. **Market Trends**: The financial markets are reacting to Powell's speech, indicating a possible end to the "higher-for-longer" interest rate strategy. Historical trends suggest that when markets are oversold, the following year tends to be positive.
+
+4. **Apple Inc. Developments**: Apple is preparing for a major product launch event on September 10, where it is expected to unveil new iPhones, AirPods, and watches. Analysts predict a strong upgrade cycle for the upcoming iPhone 16 series, driven by significant software enhancements. Additionally, hedge fund manager Daniel Loeb has expressed optimism about Apple's growth potential, contributing to a rise in its stock price.
+
+5. **Investor Sentiment**: Surveys indicate that a majority of investors believe the Republican party may positively influence the stock market, and many expect interest rate cuts in the upcoming months.
+
+Overall, the text reflects a landscape of optimism in the tech sector, driven by anticipated product innovations and favorable economic conditions.
+        The text provides a comprehensive overview of recent developments and earnings expectations for major tech companies, particularly focusing on Nvidia (NVDA) and Microsoft (MSFT). 
+
+Nvidia is highlighted as a leader in the artificial intelligence (AI) sector, with its upcoming earnings report on August 28, 2024, generating significant interest among investors. Analysts are optimistic about Nvidia's performance, with expectations of a strong earnings report that could further elevate its stock, which has already surged 161% this year. The anticipation surrounding Nvidia's results is described as a "wildcard" for the market, especially in light of recent comments from Federal Reserve Chair Jerome Powell regarding potential rate cuts.
+
+In addition to Nvidia, other tech companies such as CrowdStrike, Salesforce, and HP Inc. are also set to report earnings next week. The text notes that the Federal Reserve's Personal Consumption Expenditures (PCE) index will be released on August 30, which is a key indicator of inflation and could impact market sentiment.
+
+Microsoft is also in the spotlight, organizing a summit with cybersecurity firms, including CrowdStrike, to address security issues following a significant outage. The company is exploring changes to enhance the security of its Windows operating system. Furthermore, Microsoft is well-positioned to benefit from the growth in AI, despite some market volatility.
+
+Overall, the text emphasizes the critical earnings reports and strategic initiatives of these tech giants, reflecting their influence on the market and the ongoing evolution of the AI landscape.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Amazon (AMZN) and Nvidia, as well as insights into the retail sector. 
+
+Amazon's Senior Vice President, David Zapolsky, recently sold 9,490 shares, leaving him with 64,610 shares. CEO Andy Jassy highlighted the impact of Amazon's generative AI assistant, Amazon Q, which has significantly reduced software upgrade times, saving thousands of work hours. Analysts are evaluating Amazon's position in the e-commerce market, especially in comparison to other leading companies like Walmart and Costco, which are noted for their strong business models that allow them to control prices and gain market share.
+
+In the broader retail landscape, there is a mixed outlook on consumer health, with Walmart outperforming while others like Macy's struggle. R5 Capital's Scott Mushkin discussed the challenges faced by middle to lower-end consumers due to inflation, emphasizing the advantages of retailers that are actively improving their operations.
+
+Nvidia is positioned as a leader in the AI economy, with its earnings report expected soon. Analysts are keenly watching Nvidia's performance, especially in light of recent market trends and the Federal Reserve's comments on potential rate cuts.
+
+Additionally, the Teamsters union has raised concerns about a National Labor Relations Board decision that could impact Amazon's delivery service model and increase union recognition. The text also mentions upcoming earnings reports for other companies, including PDD, the parent company of Temu, which is anticipated to show significant growth.
+
+Overall, the news reflects a dynamic environment in the tech and retail sectors, with companies adapting to economic pressures and technological advancements.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Tesla, Meta, and SpaceX. 
+
+Tesla is facing significant challenges, with its stock affected by Elon Musk's financial troubles related to the drastic revenue drop of X (formerly Twitter). Investors are concerned that Musk may need to sell more Tesla shares to cover losses, potentially lowering the company's stock value. Additionally, Morgan Stanley has reduced its position in Tesla, citing a slowdown in the auto industry and increased competition in the electric vehicle market. Despite these challenges, Tesla's stock saw a rise following positive economic signals from Federal Reserve Chair Jerome Powell regarding potential rate cuts.
+
+In the realm of Meta, the company is dealing with cybersecurity issues, as Iranian hackers targeted WhatsApp accounts of staffers from both the Biden and Trump administrations. Meta has also announced the hiring of a former executive from its own ranks to lead strategic initiatives. Furthermore, the CEOs of Meta and Spotify have expressed concerns about European AI regulations, arguing that they hinder innovation and create confusion for developers.
+
+SpaceX continues to make headlines with its successful missions, including the launch of new crews to the International Space Station and the completion of static fire tests for upcoming launches. 
+
+Overall, the technology sector is navigating a complex landscape of financial pressures, regulatory challenges, and competitive dynamics, with companies like Tesla and Meta at the forefront of these discussions.
+        The text discusses recent developments and news regarding major tech companies, particularly focusing on Alphabet (Google), Nvidia, and Tesla, among others. 
+
+Nvidia is facing challenges, including a potential slowdown in sales growth, as indicated by comments from Alphabet and Meta Platforms. The company is also dealing with the implications of a US crackdown on advanced chips, which may allow China to enhance its manufacturing of less advanced but widely used chips. 
+
+Tesla is highlighted for its ongoing struggles, including the risk of losing its Mag 7 card, which could impact its market position. 
+
+The text raises the question of whether TikTok poses a credible threat to Google's dominance in internet search, suggesting a shift in competitive dynamics in the tech landscape. 
+
+Uber's partnership with Cruise is noted as a significant development, with analysts predicting it may lead to more self-driving deals in the future. 
+
+Additionally, Opera Limited's recent stock rally is attributed to an earnings beat and optimism regarding a more competitive environment for web browsers. 
+
+In the realm of artificial intelligence, Google is perceived as vulnerable, but the appointment of a new technical leader for its Gemini project may help address concerns about falling behind in the AI race. 
+
+The text also mentions two growth stocks with substantial potential in AI, indicating a broader interest in companies that could thrive in this sector. Overall, the news reflects a rapidly evolving tech landscape with significant implications for investors and market dynamics.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

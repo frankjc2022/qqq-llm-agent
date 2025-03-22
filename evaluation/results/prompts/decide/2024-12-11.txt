@@ -1,0 +1,59 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 529.92.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies within the QQQ index. Key highlights include:
+
+1. **Economic Indicators**: The Federal Open Market Committee (FOMC) is preparing for its final meeting of the year, with recent job reports indicating a creation of 227,000 jobs in November. The Consumer Price Index (CPI) data shows inflation risks remain, with energy prices contributing to a decline in overall inflation rates.
+
+2. **Market Reactions**: Financial markets have responded positively to the November CPI report, leading to expectations of a potential Federal Reserve rate cut. The private sector surplus of $394 billion in November suggests a favorable outlook for risk assets in December.
+
+3. **Tech Sector Developments**: Apple has made headlines by reaching a record intraday high following the announcement of new artificial intelligence (AI) features and a partnership with Broadcom to develop an AI server chip. This move is seen as a strategic step for Apple in the competitive AI landscape.
+
+4. **Investment Insights**: Analysts are optimistic about the "Magnificent Seven" tech stocks, which include major players like Apple, Microsoft, and Amazon. These companies are viewed as resilient in the face of economic challenges, attracting investor interest due to their strong operating leverage.
+
+5. **ETF Innovations**: Invesco has expanded its QQQ Innovation Suite by adding new ETFs, indicating a growing interest in diversified investment options within the tech sector.
+
+Overall, the text reflects a dynamic environment in the tech industry, characterized by significant economic indicators, strategic partnerships, and evolving investment opportunities.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly Nvidia (NVDA) and Microsoft (MSFT), as well as insights into the broader market dynamics.
+
+Nvidia has been actively hiring in China to bolster its research in AI-driven automotive technologies. Despite beating earnings estimates, Nvidia's stock performance has been lackluster, with analysts suggesting that much of its growth has already been priced in, leading to a "Sell" recommendation. The company is also facing scrutiny due to a recent antitrust probe in China, yet some analysts remain optimistic about its long-term prospects.
+
+In contrast, Microsoft has shown strong stock performance, recently hitting a significant closing price and demonstrating resilience amid potential government investigations into its cloud business. Analysts are bullish on Microsoft, citing its strategic positioning and potential for continued growth, especially as it navigates challenges in the tech landscape.
+
+The text also highlights the competitive landscape in AI, with Google Cloud emerging as a strong contender in AI spending, outperforming both Microsoft and OpenAI in a recent survey. Additionally, Malaysia has launched a national AI office to regulate and promote AI development, indicating a growing global focus on artificial intelligence.
+
+Overall, the tech sector is characterized by a mix of optimism and caution, with companies like Nvidia and Microsoft at the forefront of innovation and investment, while also facing regulatory challenges and market volatility. The "Magnificent Seven" stocks, including these tech giants, are expected to play a crucial role in shaping market trends in 2025.
+        David Mazza, CEO of Roundhill Investments, discusses the potential of the "Magnificent Seven" stocks—Meta Platforms, Microsoft, Alphabet, Amazon, Apple, Nvidia, and Tesla—to outperform in 2025. He emphasizes that these companies offer both offensive and defensive strategies, making them attractive to investors amid economic uncertainties like tariffs and inflation. Mazza notes a prevailing positive sentiment in the market, contributing to the upward trend in stock prices.
+
+In another development, Albertsons has filed a lawsuit against Kroger, claiming that Kroger did not make sufficient efforts to secure regulatory approval for their proposed $20 billion merger, which has now been blocked by a judge. Research indicates that return-to-office mandates have led to a significant departure of high-performing employees from S&P 500 companies, creating challenges for employers in filling skilled positions.
+
+Analysts at Wedbush express optimism regarding Trump's appointment for the FTC chair, predicting it will enhance deal-making opportunities for technology firms. Meanwhile, Walgreens is reportedly in discussions to sell itself to Sycamore Partners, marking a significant shift for the retailer, whose market value has drastically declined.
+
+Nvidia's recent earnings report shows it beat estimates, yet the stock remains stagnant, with analysts suggesting that much of its growth has already been factored into its price. In the AI sector, Google Cloud is anticipated to emerge as a strong competitor in AI spending, while Amazon is bullish on its AI cloud and AWS growth prospects.
+
+Apple has made headlines by partnering with Broadcom to develop custom AI chips, aiming to reduce reliance on Nvidia. This collaboration highlights the increasing trend of tech companies investing in in-house chip manufacturing to support their AI initiatives.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies within the QQQ index. Tesla's stock has surged to record highs, increasing approximately 70% since the election of President-elect Donald Trump, with analysts raising price targets due to positive market sentiment. Elon Musk has reached a historic milestone, becoming the first individual to achieve a net worth of $400 billion, largely driven by Tesla's stock performance.
+
+In the automotive sector, the MotorTrend Truck of the Year award went to the gas-powered Ram 1500, rather than an electric vehicle, indicating a continued market preference for traditional trucks amidst rising inflation and tariff concerns. Roundhill Investments CEO David Mazza discussed the "Magnificent Seven" stocks—Meta, Microsoft, Alphabet, Amazon, Apple, Nvidia, and Tesla—emphasizing their potential to outperform in 2025 due to their strong operating leverage and ability to navigate economic challenges.
+
+Additionally, Meta Platforms has made headlines with a $1 million donation to Trump's inaugural fund and is facing new regulations in Australia that could impose fines for not compensating news outlets for content. The overall market sentiment remains positive, with expectations of continued growth among these tech giants despite potential economic uncertainties.
+
+In summary, the tech industry is experiencing a dynamic phase characterized by record stock performances, strategic investments, and regulatory challenges, with a focus on resilience and adaptability in the face of economic fluctuations.
+        The latest news highlights significant developments in the technology sector, particularly focusing on major companies like Alphabet (GOOGL) and Microsoft. 
+
+On December 11, 2024, Alphabet's stock reached an all-time high following the announcement of its new quantum computing chip, Willow. This innovation has positioned Alphabet as a leader in AI services, especially after Google Cloud was recognized as the most strategic AI vendor in a recent survey. The company has been investing heavily in AI, and the introduction of tools like Gemini has bolstered its competitive edge against rivals such as OpenAI.
+
+In contrast, Microsoft is facing challenges, particularly with its investment in General Motors' Cruise autonomous taxi initiative, which is being shut down. This has led Microsoft to anticipate an $800 million charge. The tech landscape is shifting, with Alphabet's Waymo potentially benefiting from GM's exit from the robotaxi market.
+
+The broader market sentiment appears positive, with investors showing renewed interest in the "Magnificent Seven" tech stocks, which include Alphabet, due to their strong growth prospects and resilience amid economic uncertainties. Analysts are optimistic about Alphabet's future, citing its robust performance and potential for continued growth, particularly in AI and cloud services.
+
+Overall, the tech sector is experiencing dynamic changes, with Alphabet emerging as a frontrunner in AI technology, while Microsoft navigates setbacks in its autonomous vehicle ventures. The ongoing developments suggest a competitive landscape where innovation and strategic positioning will be crucial for success.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,15 @@
+The text discusses recent developments concerning major tech companies, particularly Tesla and Meta. 
+
+**Tesla Updates:**
+1. **Sales and Job Cuts**: Tesla is facing declining sales, prompting plans to lay off 601 employees in California as part of broader global job cuts. The company is also under scrutiny from the SEC regarding Elon Musk's acquisition of Twitter, with a federal judge ordering Musk to continue his testimony in the investigation.
+   
+2. **Legal Issues**: Tesla is embroiled in a lawsuit from an environmental nonprofit alleging violations of the Clean Air Act at its Fremont plant, claiming harmful emissions have endangered local residents. Additionally, tensions are rising with Swedish unions over collective bargaining agreements amid ongoing strikes.
+
+3. **Market Performance**: Despite a 55% drop in profits, Tesla's stock has seen fluctuations, with recent reports indicating a potential rebound as the company aims to produce more affordable electric vehicles by early 2025.
+
+**Meta Developments:**
+1. **Workplace Tool Shutdown**: Meta is discontinuing its Workplace communication platform to focus on artificial intelligence and metaverse technologies. The shutdown will begin in June 2026, although the tool will remain available for internal use until August 2025.
+
+2. **AI Initiatives**: Meta is investing heavily in AI, with plans to allocate significant capital expenditures towards AI infrastructure. The company is also rolling out new AI tools in the EU, despite facing regulatory challenges.
+
+Overall, the tech landscape is marked by significant challenges and strategic shifts as companies like Tesla and Meta navigate market pressures and legal hurdles while investing in future technologies.

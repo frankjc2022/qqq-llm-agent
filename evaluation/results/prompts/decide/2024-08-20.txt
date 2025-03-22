@@ -1,0 +1,53 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 480.26.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The recent news highlights significant developments in the tech sector, particularly focusing on major companies like Nvidia and Apple, as well as broader market trends. Nvidia has been a key player, driving a substantial rally in the stock market, which has overshadowed the performance of the S&P 500, pushing it toward record highs. This surge is part of a larger trend where younger investors, particularly millennials and Gen Z, are encouraged to focus on stocks rather than bonds for long-term growth.
+
+The article discusses the potential resurgence of the yen carry trade, which could influence currency trading as interest rate spreads narrow. Additionally, there is a positive outlook for cyclical and value-oriented stocks, with managers anticipating that declining inflation and an upcoming rate-cutting cycle will create attractive opportunities, especially in European small-cap equities.
+
+In the realm of sustainable finance, the market is witnessing growth and increased issuance, indicating a shift towards more responsible investment practices. The performance of various sectors is also analyzed, with utilities emerging as a potentially essential equity sector.
+
+Apple's advancements in artificial intelligence are noted, particularly its initiative "Apple Intelligence," which aims to integrate AI features into its products. However, analysts express caution regarding the risks associated with this strategy, especially in light of competitive pressures and regulatory challenges.
+
+Warren Buffett's recent stock maneuvers, particularly his decision to sell a significant portion of his Apple shares, have raised questions among investors about the implications for the tech giant and the market at large. Overall, the tech sector remains dynamic, with ongoing developments that could shape investment strategies moving forward.
+        The text discusses recent developments and news regarding major tech companies, particularly NVIDIA Corporation (NVDA) and Microsoft (MSFT), highlighting their performance and strategic initiatives in the context of market volatility and advancements in artificial intelligence (AI).
+
+NVIDIA has been a focal point, with analysts suggesting it remains a key stock to watch amid market fluctuations. The company has experienced a significant selloff recently, but analysts remain optimistic about its long-term prospects, particularly due to sustained demand for AI technologies. NVIDIA's new generative AI model, StormCast, aims to enhance disaster planning and mitigation, showcasing its commitment to innovation. Despite a recent drop in stock prices, analysts predict a positive outlook for NVIDIA's earnings, driven by ongoing AI demand.
+
+Microsoft is also highlighted for its performance, particularly in the cloud computing sector. The company has faced challenges, including a recent dip in stock prices due to missed expectations in cloud growth. However, it continues to be viewed as a strong player in the AI space, with partnerships aimed at enhancing digital transformation. Analysts suggest that Microsoft is well-positioned to benefit from the ongoing growth in AI, despite market uncertainties.
+
+Overall, the text emphasizes the competitive landscape of the tech industry, with both NVIDIA and Microsoft at the forefront of AI advancements and market strategies. The focus on AI spending and innovation reflects broader trends in the tech sector, as companies strive to leverage these technologies for growth and improved market positioning.
+        The text provides a summary of recent news and analysis regarding major tech companies, particularly Amazon (AMZN) and Broadcom (AVGO), as they navigate market conditions and investor sentiment.
+
+Amazon is highlighted for its significant investments in artificial intelligence (AI), which, while positioning the company for future growth, have also led to a decline in stock performance due to concerns over profitability. Analysts are closely monitoring Amazon's stock as it attempts to recover from a recent sell-off, with discussions around its earnings report and the impact of price cuts on same-store sales. The company is also launching new gaming content, such as "King of Meat," which aims to attract players with its unique co-op combat experience.
+
+Broadcom is discussed in the context of market volatility, with analysts suggesting it remains a strong contender in the tech sector. The company is noted for its resilience and potential for growth, particularly in the AI space. Recent commentary indicates that Broadcom's stock is gaining traction, supported by a broader range of market factors beyond just AI.
+
+Overall, the articles reflect a cautious optimism among analysts regarding both companies, emphasizing the importance of strategic investments and market positioning in a rapidly evolving tech landscape. The focus on AI and innovative product offerings is seen as crucial for maintaining competitive advantages and driving future growth.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly Tesla and Meta. 
+
+Tesla's stock has faced challenges, with a downward revision of its gross margin outlook due to high production costs for the Cybertruck. Despite a rebound in shares, analysts suggest that TSLA stock may be a sell. The company is also dealing with fierce competition from Chinese automakers, although recent EU tariff changes could provide a competitive edge. Additionally, a Tesla Semi vehicle was involved in a significant battery fire in California, raising safety concerns.
+
+Uber has made headlines by hiring former Tesla executive Rebecca Tinucci to lead its transition to an all-electric fleet by 2040, with a planned investment of $800 million through 2025. This move aligns with broader industry trends towards electrification.
+
+In the realm of AI, Meta Platforms is actively enhancing its capabilities, launching a new web crawler to gather data for training its AI models. Analysts highlight Meta's strong performance in the AI sector, noting its recent revenue growth and strategic investments. The company is also navigating regulatory challenges, including a significant settlement related to facial recognition technology.
+
+Overall, the tech sector is experiencing a mix of challenges and opportunities, with companies like Tesla and Meta at the forefront of innovation and market dynamics. The ongoing shifts in electric vehicle production and AI development are pivotal themes shaping the future of these companies and the broader industry landscape.
+        The latest news highlights significant developments concerning Alphabet Inc. (GOOGL) and its subsidiaries, particularly in the realm of autonomous driving and artificial intelligence. Waymo, Alphabet's self-driving car division, has achieved a major milestone by doubling its paid rides to 100,000 per week within three months, expanding operations to key cities like Los Angeles, San Francisco, and Phoenix. This growth is supported by an additional $5 billion investment from Alphabet into the autonomous driving sector.
+
+In the AI landscape, Alphabet is positioned as a key player among hedge funds, with analysts closely monitoring its performance against other AI stocks. Despite its strong fundamentals, concerns have been raised about the valuation of Google's stock, which some analysts deem too high given its current market position.
+
+Additionally, Alphabet is making strides in renewable energy, having signed a long-term agreement with Energix Renewables to supply solar power to its data centers. This move aligns with the company's strategy to support its expanding AI infrastructure.
+
+The stock market has seen fluctuations, with Alphabet's stock experiencing a notable rise since its IPO 20 years ago, appreciating over 6,500%. Recent trends indicate a rally in the tech sector, particularly with Nvidia's performance, which has overshadowed broader market movements.
+
+Overall, Alphabet continues to innovate and expand its influence in both the AI and renewable energy sectors, while navigating challenges related to stock valuation and market competition.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

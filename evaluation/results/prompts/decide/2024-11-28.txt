@@ -1,0 +1,47 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is .
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses several significant economic and market developments as of late November 2024. President Trump announced plans to impose 25% tariffs on goods imported from Canada and Mexico, which could have implications for trade agreements and economic relations. The upcoming reconstitution of the Nasdaq 100 index is highlighted as a potentially major event, particularly regarding the inclusion of certain stocks and the challenges faced by ETFs like QQQ and QYLD due to rebalancing and Bitcoin exposure.
+
+Gary Gensler's resignation as SEC Chair marks a pivotal change in market regulation philosophy, potentially affecting cryptocurrencies and private funds. The growth of the money supply is noted as a leading indicator that may explain stock market movements. Additionally, Trump's proposed tariffs are expected to create tensions in trade relations, particularly with Canada, Mexico, and China.
+
+The Invesco Rochester Municipal Opportunities Fund's performance is discussed, indicating underperformance relative to its index. Investor sentiment is shifting, with discussions around tariffs dominating financial media narratives. The text also touches on the broader implications of the bond market's response to the recent elections, suggesting a modest yield curve steepening.
+
+In the tech sector, Huawei is experiencing waning consumer excitement for its Mate 70 smartphone, which could impact its shipments, while Apple Inc. is noted for its strong recovery and positive earnings outlook, maintaining a bullish stance on its stock. The text concludes with insights on investment strategies, particularly regarding dividend portfolios and identifying future high-growth companies. Overall, the content reflects a landscape of economic uncertainty, regulatory changes, and evolving market dynamics.
+        The text provides recent news updates regarding major tech companies, particularly NVIDIA Corporation (NVDA) and Microsoft Corporation (MSFT). 
+
+NVIDIA is highlighted as a leading stock, with discussions on its profitability and growth potential. Recent articles suggest that NVIDIA's supply chain is benefiting from strong orders for AI servers and its upcoming RTX 50 series. The company has seen significant revenue growth, with a notable portion coming from a few key customers. Analysts are also speculating on NVIDIA's stock performance, with some suggesting it could be a strong buy amidst the ongoing AI boom, despite concerns about margins and recent stock fluctuations.
+
+In contrast, Microsoft is facing challenges, including an antitrust investigation by the Federal Trade Commission (FTC) that could impact its cloud services and AI practices. The investigation is seen as a critical moment for the FTC under Chair Lina Khan, focusing on Microsoft's software licensing and cybersecurity products. Microsoft has publicly denied allegations of using customer data from its 365 applications to train AI models.
+
+Overall, the news reflects a dynamic landscape in the tech sector, with NVIDIA positioned for growth in AI technologies, while Microsoft navigates regulatory scrutiny that could affect its market position. The updates indicate a mix of optimism for NVIDIA's future and caution regarding Microsoft's legal challenges.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon has been in the spotlight for several developments. Tech Mahindra has partnered with AWS to create an AI-driven autonomous networks platform for communication service providers. Additionally, the European Union has concluded its investigations into Amazon's tax deals with Starbucks and Fiat, marking a significant regulatory decision. Analysts have raised Amazon's stock price targets, reflecting confidence in its leadership in the AI ecosystem and customer-centric innovations. Warren Buffett's investment strategies are also highlighted, with Amazon being one of the notable stocks in his portfolio, which has seen substantial growth over the past five years.
+
+Broadcom is also featured prominently, with discussions around its stock performance and strategic initiatives. The company is focusing on innovations to enhance enterprise IT modernization and has made advancements in its VMware offerings. Analysts are optimistic about Broadcom's potential for recovery in the semiconductor market, despite recent challenges.
+
+Overall, the news reflects a dynamic landscape in the tech sector, with both Amazon and Broadcom making significant strides in AI and cloud services, while also navigating regulatory environments and market challenges. The emphasis on investment strategies and stock performance indicates a keen interest from investors in these companies' future prospects.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Tesla (TSLA) and Meta Platforms (META). 
+
+For Tesla, analysts have mixed opinions on its competition in China, while the company continues to gain momentum with its Robotaxi and AI initiatives. Tesla's stock has seen significant growth, with a notable increase since the recent elections. Elon Musk's wealth has surged, benefiting from the political climate, and Tesla's valuation is under scrutiny as it competes with other AI stocks. The company is also facing challenges, including a recall of Cybertrucks due to manufacturing issues.
+
+In the realm of Meta Platforms, the company is navigating a new Australian law that bans social media access for children under 16, which could impose hefty fines on platforms that fail to comply. This legislation is part of a broader trend of increasing regulation on social media companies aimed at protecting children. Additionally, Meta is facing competition from emerging AI technologies, particularly with the release of new AI models that challenge its market position.
+
+Overall, the tech sector is experiencing significant shifts, with companies like Tesla and Meta adapting to regulatory changes and competitive pressures while also capitalizing on advancements in AI and other technologies. The landscape remains dynamic, with investors closely monitoring these developments.
+        The text primarily discusses recent legal actions and developments involving Google and its parent company, Alphabet Inc. The Canadian Competition Bureau has initiated a lawsuit against Google, alleging anti-competitive practices in the online advertising sector. The Bureau claims that Google unlawfully tied its advertising technology tools together to maintain a dominant market position, effectively excluding competitors. This lawsuit aims to dismantle Google's structural dominance in the online advertising market and restore competition.
+
+In addition to the legal challenges, the text highlights Alphabet's ongoing efforts in the artificial intelligence (AI) sector. The company is reportedly partnering with IIMA Ventures to support 22 AI startups in India, indicating a strategic focus on expanding its influence in AI technology. Despite facing regulatory scrutiny, Alphabet's stock performance remains a topic of interest, with analysts discussing its potential as a long-term investment.
+
+The text also touches on Alphabet's recent earnings report, which showed a decline in stock value, raising questions about its future performance. Analysts are evaluating the company's position in the market, particularly in light of challenges related to its Gemini AI development and potential restrictions on partnerships due to antitrust concerns.
+
+Overall, the content reflects a critical moment for Google and Alphabet, as they navigate legal challenges while striving to maintain their competitive edge in the rapidly evolving tech landscape, particularly in AI and cloud services.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

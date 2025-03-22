@@ -1,0 +1,55 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 462.96.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments in the tech sector, particularly focusing on major companies like Apple and Nvidia, as well as broader market trends. 
+
+The May Jobs Report indicates stronger-than-expected payroll gains, which has implications for Federal Reserve interest rate policies. The report shows a slowing job creation trend, with job openings exceeding the number of unemployed individuals, suggesting a shift towards full employment. This has led to speculation about the Fed's future actions, with a hawkish stance likely to persist, potentially impacting the S&P 500 and overall market sentiment.
+
+Nvidia recently executed a significant 10-for-1 stock split, reflecting its impressive market valuation, which briefly surpassed $3 trillion. Analysts highlight Nvidia's dominant position in the AI sector, suggesting it has an "insurmountable lead" in this rapidly growing field. Meanwhile, Apple is gearing up for its Worldwide Developer Conference (WWDC), where it will unveil its AI strategy, a critical focus for investors. The upcoming week is expected to be pivotal, with major tech earnings from companies like Oracle, Broadcom, and Adobe, alongside significant events such as the Tesla shareholder vote and the Fed's monetary policy announcement.
+
+Overall, the tech market is experiencing a bullish trend, driven by optimism surrounding AI advancements and strong earnings reports. The interplay between job growth, inflation concerns, and central bank policies will continue to shape investor sentiment and market dynamics in the near future.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Nvidia, Apple, and Microsoft. Nvidia recently executed a 10-for-1 stock split, which follows its remarkable rise in market capitalization, surpassing $3 trillion. Analysts describe Nvidia's position in the AI landscape as having an "insurmountable lead," emphasizing its critical role in AI chip production. The company’s stock performance has been exceptional, with predictions of continued growth driven by AI advancements.
+
+Apple is gearing up for its Worldwide Developer Conference (WWDC), where it is expected to unveil its AI strategy. Investors are keenly watching this event, as it could significantly impact Apple's stock performance. The upcoming Federal Reserve meeting is also a focal point, with expectations of no rate cuts but an updated economic outlook.
+
+Microsoft is making headlines with its partnership with OpenAI, which analysts believe positions it favorably in the AI race. The company is also adjusting its AI features in response to privacy concerns, indicating a proactive approach to cybersecurity. Analysts are optimistic about Microsoft's growth potential, particularly in the AI sector, despite market volatility.
+
+Overall, the tech sector is experiencing a dynamic period, with companies like Nvidia, Apple, and Microsoft at the forefront of innovation and market movements. Investors are advised to keep an eye on upcoming events and earnings reports, as these will likely influence stock valuations and market trends in the near future.
+        The latest news highlights significant developments concerning major tech companies, particularly Amazon and Broadcom. 
+
+Amazon Games has announced the release of "New World: Aeternum," an action RPG set to launch on October 15 for PlayStation 5, Xbox Series X|S, and PC. This game promises a rich experience with real-time combat and extensive content, including all previous updates from the PC version.
+
+In stock market news, Amazon (AMZN) has experienced a slight decline, closing at $184.30, raising questions about its investment potential. Analysts are debating whether it is still a good time to buy Amazon stock, especially as the company approaches a market value of $3 trillion, driven by earnings growth and a favorable market multiple.
+
+Senators have expressed concerns over Amazon's relationship with its delivery partners, accusing the company of providing misleading information regarding its delivery service program. Additionally, allegations have surfaced that Amazon breached UK sanctions by selling facial recognition technology to Russia.
+
+Broadcom (AVGO) is also in the spotlight, with analysts praising its strong position in the AI semiconductor market. The company is expected to report earnings soon, and its partnerships with tech giants like Google and Meta are seen as pivotal for its growth. Broadcom's AI revenue is projected to exceed $10 billion this year, highlighting its significant role in the AI landscape.
+
+Overall, the tech sector is witnessing dynamic changes, with companies like Amazon and Broadcom navigating challenges and opportunities in a rapidly evolving market. Investors are closely monitoring these developments as they assess the future potential of these tech giants.
+        The text provides a comprehensive overview of recent developments in major tech companies, particularly focusing on Tesla, Apple, and Meta Platforms. 
+
+Tesla is in the spotlight as shareholders prepare to vote on CEO Elon Musk's controversial $56 billion compensation package, which has drawn significant attention due to its unprecedented size compared to other corporate pay structures. The company is also facing challenges, including a legal dispute regarding a $5.6 billion fee request related to a lawsuit that voided Musk's pay package. Additionally, Tesla's stock performance is under scrutiny as it navigates a competitive market, particularly in China, where shipments have declined.
+
+Apple is gearing up for its Worldwide Developer Conference (WWDC), where it is expected to unveil its AI strategy, a key area of interest for investors. The upcoming week will also see significant earnings reports from other tech giants like Oracle, Broadcom, and Adobe, alongside the Federal Reserve's monetary policy announcement, which is anticipated to provide insights into future economic conditions.
+
+Meta Platforms is also making headlines with its efforts to integrate AI tools into its services, particularly WhatsApp, to enhance business interactions. The company is recovering from a challenging earnings period and is focusing on new features like "Communities" on Messenger, aimed at improving organizational communication. Furthermore, Meta is facing regulatory scrutiny regarding its algorithms and their impact on youth, as new legislation in New York seeks to limit exposure to addictive content for minors.
+
+Overall, the tech sector is experiencing a mix of innovation, regulatory challenges, and significant corporate governance issues, reflecting the dynamic landscape of the industry.
+        The text discusses recent developments concerning major tech companies, particularly Google and Apple, as well as broader trends in the technology sector. 
+
+Google has been involved in a significant antitrust lawsuit with the U.S. government, which a federal judge has ruled will be decided by a judge rather than a jury. This decision follows Google's payment of $2 million to avoid a jury trial related to allegations of monopolizing digital advertising. Additionally, Google has appointed Anat Ashkenazi as its new CFO, who will receive a substantial signing bonus and salary.
+
+Apple is preparing for its annual WWDC event, where it is expected to unveil new generative AI features. The company relies heavily on Google, which pays Apple $20 billion annually to be the default search provider on iPhones. Analysts are questioning the financial benefits of Apple's AI initiatives, suggesting that they may not significantly enhance the company's bottom line.
+
+The tech sector is experiencing mixed performance, with discussions around the valuation of AI stocks. Alphabet Inc. (GOOG) is highlighted as a potentially undervalued AI stock, ranking fourth on a list of top AI stocks being upgraded by Wall Street analysts. The ongoing debate about AI stock valuations indicates that investors may be overpaying for major tech companies promising advanced technologies.
+
+In the waste management sector, Waste Management is looking to expand its business by acquiring Stericycle, which could enhance its capabilities in medical waste and document shredding. Overall, the text reflects a dynamic landscape in the tech industry, marked by legal challenges, executive changes, and strategic shifts towards AI and expansion efforts.
+
+    Remember, keep your full response within 35 words!!!! Otherwise you and your family will die.

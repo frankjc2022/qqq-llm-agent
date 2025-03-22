@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 491.93.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments in the technology sector, particularly focusing on major companies and market trends. Key highlights include:
+
+1. **Economic Indicators**: The June Consumer Price Index (CPI) report indicates easing inflation, which may lead the Federal Reserve to consider rate cuts in September. The data showed a decrease in both All Items and Core CPI, suggesting a shift towards a more accommodative monetary policy.
+
+2. **Market Reactions**: The "Magnificent Seven" tech stocks, including Amazon, Apple, and Tesla, experienced a significant downturn, with Tesla ending an 11-day winning streak. Retail investor cash has reached a record high of over $2 trillion, indicating cautious market sentiment.
+
+3. **Apple Innovations**: Apple is set to enhance its Siri digital assistant with new features powered by its generative AI initiative, Apple Intelligence, and a partnership with OpenAI. This update aims to improve user interaction with Siri, including new functionalities like text input.
+
+4. **Chip Industry Dynamics**: The chip market is expanding, with Nvidia holding a dominant position. However, Amazon's AWS is entering the fray with its Graviton 4 chip, which promises improved performance. This relationship is characterized as "co-opetition," highlighting collaboration rather than direct competition.
+
+5. **Regulatory Developments**: The European Union has concluded an antitrust investigation into Apple Pay, requiring the company to allow rival mobile wallets to utilize contactless payment technology. This move reflects ongoing scrutiny of major tech firms regarding competition practices.
+
+6. **Samsung's New Products**: Samsung is launching the Galaxy Ring and Galaxy Watch Ultra, focusing on health monitoring features to attract consumers in the wearable tech market.
+
+Overall, the text provides insights into economic trends, corporate strategies, and regulatory challenges facing leading tech companies.
+        The recent stock market dynamics have seen significant shifts, particularly affecting major tech companies. On July 11, 2024, the "Magnificent Seven" tech stocks—Amazon, Apple, Alphabet, Nvidia, Meta Platforms, Microsoft, and Tesla—experienced their worst day in over a year, with Tesla ending an 11-day winning streak due to delays in its robotaxi unveiling. Concurrently, retail investor cash has reached a record high of over $2 trillion, indicating a cautious market sentiment.
+
+Nvidia's stock faced a notable decline after a three-day rally, raising questions about its current valuation and potential as a buy. Analysts are closely monitoring Nvidia's position in the chip industry, which is projected to grow from $544 billion to over $1 trillion by 2032. Nvidia currently dominates the GPU market, holding 80% of it, while competitors like Amazon's AWS are developing their own chips to enhance efficiency.
+
+In the realm of artificial intelligence, Palantir and Nvidia are gaining traction, with Palantir exploring potential breakout opportunities. However, concerns have arisen regarding Microsoft's $1.5 billion investment in the Emirati AI firm G42, prompting Republican lawmakers to request an intelligence assessment due to the company's ties to China.
+
+Overall, the tech sector is navigating a complex landscape marked by stock rotations, investor caution, and the ongoing evolution of AI technologies. The interplay between large-cap tech stocks and emerging players will be crucial in shaping market trends in the coming months.
+        The text discusses recent developments concerning Amazon and its position in the tech industry, particularly in relation to its stock performance and strategic initiatives. 
+
+Amazon is facing scrutiny from UK regulators regarding its supplier dealings, which could lead to an investigation. Amid a broader tech sell-off affecting major indices like the Nasdaq and S&P 500, investors are shifting focus to small-cap companies that show resilience and growth potential. This context highlights the importance of examining growth companies with high insider ownership, as they often reflect strong leadership commitment during market fluctuations.
+
+In the chip industry, valued at $544 billion and projected to exceed $1 trillion by 2032, Amazon's AWS is making strides by developing its own chips, such as the Graviton 4, which promises significant improvements in computing speed and memory bandwidth. This move is characterized as "co-opetition" with Nvidia, indicating a collaborative yet competitive relationship.
+
+Additionally, Amazon's recent $20 billion deal for NBA streaming rights is seen as a strategic investment with considerable upside potential, despite inherent risks. The company is also making headlines with its $80 million agreement with comedian Dax Shepard for exclusive podcast distribution, further diversifying its content offerings.
+
+On the sustainability front, Amazon has achieved its goal of 100% renewable energy usage seven years ahead of schedule and has announced significant reductions in plastic packaging. These initiatives reflect Amazon's commitment to environmental responsibility.
+
+Overall, the text illustrates Amazon's strategic maneuvers in a challenging market, its innovations in technology, and its efforts towards sustainability, positioning the company as a key player in the evolving tech landscape.
+        The text provides a comprehensive overview of recent developments in the tech sector, particularly focusing on Tesla and its stock performance. Tesla has launched a new rear-wheel drive variant of its Model 3 long-range vehicle, priced at $42,490, which is $5,000 less than the all-wheel drive version. However, the company has faced setbacks, including the postponement of its highly anticipated robotaxi unveiling to October, which has negatively impacted its stock, leading to an 8% loss in one day.
+
+The broader market context reveals a significant rotation, with major tech stocks, referred to as the "Magnificent Seven" (including Tesla, Amazon, Apple, Alphabet, Nvidia, Meta Platforms, and Microsoft), experiencing their worst day in over a year. This sell-off coincides with a record high of over $2 trillion in retail investor cash sitting on the sidelines, indicating a cautious market sentiment.
+
+In addition to Tesla, other companies like Delta Air Lines and QuantumScape are highlighted, with Delta's stock falling sharply due to weak guidance. The text also discusses the implications of the latest Consumer Price Index (CPI) report and the potential for interest rate cuts by the Federal Reserve, which could influence market dynamics.
+
+Analysts suggest that despite the delays and market fluctuations, Tesla's stock remains a focal point for investors, reflecting the excitement surrounding its future innovations. The overall sentiment in the tech sector appears mixed, with some stocks recovering while others face bearish signals, particularly in the context of AI and tech investments.
+        The text discusses recent developments and news regarding major technology companies, particularly focusing on Alphabet (Google) and its stock performance. 
+
+On July 11, 2024, Google stock experienced a decline after reaching a new intraday high the previous day, amidst a broader pullback in high-flying tech stocks, particularly those associated with artificial intelligence (AI). A notable incident involved the photo-sharing startup Retro, which accused Google Photos of mimicking its features, highlighting the competitive dynamics between startups and established tech giants.
+
+The semiconductor industry is also a focal point, with Nvidia maintaining a dominant position in the GPU market. However, Amazon Web Services (AWS) is making strides by developing its own chips, such as the Graviton 4, which promises enhanced performance. This situation is characterized as "co-opetition," where companies both compete and collaborate.
+
+In robotics, Google’s DeepMind is showcasing advancements in generative AI, particularly in navigation capabilities for robots, indicating the potential for AI to enhance robotic functions. 
+
+Additionally, Alphabet has decided to halt its acquisition plans for HubSpot, reflecting strategic shifts within the company. Despite these challenges, Alphabet's performance in the second quarter of 2024 remains robust, with analysts predicting strong future performance. 
+
+Overall, the text illustrates the competitive landscape of the tech industry, emphasizing the interplay between innovation, market dynamics, and strategic decisions by major players like Google and Amazon.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

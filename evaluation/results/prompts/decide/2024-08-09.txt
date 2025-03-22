@@ -1,0 +1,71 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 450.41.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The recent news surrounding major tech companies, particularly those in the QQQ index, highlights significant market shifts and investor sentiment. Analysts are observing a rotation from large-cap tech stocks to smaller-cap stocks amid a market selloff. Recommendations suggest that investors should remain committed to large-cap growth companies despite the current volatility.
+
+Recent reports indicate a weakening labor market and disappointing corporate earnings, which are contributing to concerns about consumer spending. The bond market is also signaling potential recession risks, as historical data shows that equity market declines often follow yield curve steepening.
+
+In the tech sector, stocks are experiencing volatility, with notable movements in companies like Palantir, which has reached three-year highs. Despite the downturn, some analysts see opportunities within the tech market, emphasizing transformational themes that could drive future earnings.
+
+Retail investors are reportedly using the market dip as a buying opportunity, particularly gravitating towards well-known tech stocks like Apple and Microsoft. This trend reflects a historical pattern where retail traders often turn to these names during market turbulence.
+
+Additionally, Apple is making headlines with changes to its app store policy in response to EU Commission findings and is expected to release a new Mac Mini featuring an AI-focused chip. The company's strong earnings and AI momentum have helped it defy the broader tech sell-off, although its attractiveness relative to other stocks has diminished.
+
+Overall, the current market landscape is characterized by uncertainty, with investors weighing the implications of economic indicators and corporate performance while seeking potential bargains in the tech sector.
+        The recent news highlights significant developments in the tech sector, particularly focusing on major companies like Nvidia, Disney, and Paramount. Nvidia's stock has faced volatility, closing at $104, with a notable drop of 21% from the previous trading day. Despite this, Wall Street remains optimistic about Nvidia due to strong demand for AI processors, as indicated by sales figures from Taiwan Semiconductor Manufacturing.
+
+Disney reported a profitable quarter for its streaming segment for the first time, while Paramount's mixed results showed adjusted earnings beating estimates but revenue falling short. Analysts suggest that while these companies are making progress, they are not yet mature in the streaming market compared to Netflix.
+
+In the defense tech space, Anduril Industries raised $1.5 billion, reaching a valuation of $14 billion, driven by increased global defense spending amid geopolitical tensions. The company aims to produce autonomous weapons systems to meet urgent needs.
+
+Market volatility has been a theme this week, with stocks experiencing fluctuations. Analysts believe this presents opportunities for investors, particularly in high-quality tech stocks. The S&P 500 and Nasdaq have shown resilience, with retail investors seizing the chance to buy during market dips, particularly in established names like Apple and Microsoft.
+
+Overall, the tech sector is navigating a complex landscape of economic indicators and market sentiment, with a focus on AI advancements and strategic partnerships shaping future growth. The ongoing demand for AI technologies continues to drive interest and investment in the sector, despite the challenges faced by individual companies.
+        The text provides a comprehensive overview of recent developments and news regarding major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Earnings Reports**: Notable retail companies, including Walmart and Home Depot, are set to report their quarterly earnings, which is a significant event for investors.
+
+2. **Amazon's In-App Purchases**: Amazon is enhancing its app by allowing purchases directly through TikTok and Pinterest, indicating a strategic move to integrate e-commerce with social media platforms.
+
+3. **Nvidia's Market Performance**: Nvidia experienced a slight decline in stock value amid volatile market conditions, yet Wall Street remains optimistic about its long-term prospects.
+
+4. **AI Competition**: Amazon and Walmart are leveraging artificial intelligence for various operational efficiencies, highlighting the competitive landscape in retail technology.
+
+5. **Meta's Investment Potential**: A strategist suggests that Meta could be a standout investment opportunity among tech stocks, particularly for those seeking bargains.
+
+6. **Apple's Strong Earnings**: Apple has reported robust earnings, driven by its advancements in AI, although its stock's relative attractiveness has diminished.
+
+7. **Long-Term Investment Opportunities**: Analysts are identifying tech stocks that are currently undervalued, suggesting potential for long-term gains.
+
+8. **Broadcom's Growth**: Broadcom is expected to benefit from increased capital expenditures in AI by major tech firms, which could lead to significant revenue growth.
+
+Overall, the text emphasizes the dynamic nature of the tech sector, with companies adapting to market demands and technological advancements while presenting various investment opportunities for stakeholders.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Tesla and Meta. 
+
+Tesla has reported a 47% year-over-year increase in car sales in China, with 46,227 vehicles sold in July. This positive trend is crucial for investor confidence, especially as Tesla has recently halted orders for its least expensive Cybertruck model, now offering a more premium version for immediate delivery. Additionally, there are ongoing discussions about Tesla's Full Self-Driving (FSD) software, which has received mixed reviews from testers, indicating that while improvements are being made, challenges remain.
+
+In the broader market context, analysts are observing potential impacts of the upcoming 2024 U.S. presidential election on various sectors, including energy, technology, and consumer discretionary. EquitySet CEO Tony Zipparro suggests focusing on individual stocks rather than broad baskets, highlighting companies like Chevron, NextEra Energy, and Tesla as strong picks in the energy sector. In technology, Nvidia and Advanced Micro Devices are noted as favorable options.
+
+Meta Platforms is also in the spotlight, with discussions around its AI tools and a recent $1.4 billion settlement related to facial recognition technology. Despite regulatory challenges, Meta continues to invest in growth and innovation, with a focus on enhancing its AI capabilities. The company is also exploring new avenues in the metaverse and smart technology, as indicated by its collaboration with the NCAA on the NIL Empower Program.
+
+Overall, the tech sector is experiencing dynamic shifts, with companies adapting to market demands and regulatory landscapes while striving for growth and innovation.
+        The text discusses various developments in the technology and stock market sectors, particularly focusing on major players like Nvidia, Alphabet (Google), and emerging competitors like Perplexity AI. 
+
+Nvidia experienced a slight decline in stock value despite Wall Street maintaining a bullish outlook, driven by ongoing demand in the chip market. Perplexity AI, a new entrant in the artificial intelligence space, is gaining traction by challenging established platforms like OpenAI's ChatGPT and Google's search engine, aiming to provide accurate and real-time answers to user queries.
+
+The stock market saw a rally following a global sell-off, with companies like Palantir, Eli Lilly, and Fortinet reporting strong earnings. Analysts are increasingly concerned about the competitive threat posed by OpenAI to Google's search dominance, suggesting that AI advancements could reshape the landscape of online search.
+
+Meta, another significant player, is highlighted as a standout in the tech sector, with a strategist recommending it as a potential bargain. Meanwhile, lawmakers are urging tech giants, including Google and Discord, to take stronger action against non-consensual explicit images online.
+
+Alphabet's stock performance has been mixed, with concerns about its operating margins and the impact of YouTube's slowdown overshadowing its AI advancements. The company is also reportedly considering a spin-off of its wireless optical broadband project, Taara, to compete with services like Starlink.
+
+Overall, the text reflects a dynamic environment in the tech industry, characterized by competition, regulatory scrutiny, and evolving market strategies among leading companies.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

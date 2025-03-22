@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 438.27.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly focusing on the stock symbol QQQ and Apple Inc. 
+
+Key highlights include the evolving expectations surrounding the Federal Reserve's policy rate cuts, driven by strong economic data. The market is currently experiencing fluctuations, with the Dow facing potential losses as bank stocks struggle. There is a notable discussion on the performance of AI hardware stocks, suggesting that after a period of growth, they may be peaking, prompting investors to consider waiting for a correction.
+
+Apple Inc. is prominently featured, with analysts discussing its stock performance and future potential. Recent reports indicate that Apple is planning significant AI-focused updates to its Mac lineup, which has positively influenced its stock price. Analysts express optimism about Apple's integration of AI technologies, suggesting that this could be a critical factor for its future success. Additionally, there are insights into Apple's stock being viewed as undervalued compared to other tech stocks, with some analysts recommending it as a buy.
+
+The text also touches on broader market sentiments, including consumer sentiment trends and inflation expectations, which are impacting stock performances across the board. The influence of major tech companies on the S&P 500 is highlighted, indicating their significant role in market dynamics.
+
+Overall, the content reflects a mix of market analysis, stock performance insights, and strategic recommendations for investors, particularly in the context of the tech sector's current landscape.
+        The text discusses recent developments and news regarding major technology companies, particularly focusing on stock performance and market trends. 
+
+Key highlights include:
+
+1. **Market Reactions**: The stock market experienced fluctuations due to geopolitical concerns, particularly fears related to Iran, which impacted major indexes. Nvidia's stock faced pressure amid competitive threats and downgrades, while other chip manufacturers like AMD were also affected by potential restrictions on foreign chip use in China.
+
+2. **Nvidia's Performance**: Analysts are divided on Nvidia's stock, with some suggesting it may be undervalued despite recent corrections. The company is facing competition from tech giants like Alphabet, Amazon, and Microsoft, which are developing their own AI chips, raising concerns about Nvidia's market position.
+
+3. **Stock Recommendations**: Investors are advised to focus on key factors when selecting stocks, particularly in the context of Nvidia's near breakout potential and the overall performance of technology stocks compared to the S&P 500.
+
+4. **Corporate Developments**: OpenAI's CEO pitched AI services to Fortune 500 companies, indicating a strong interest in AI applications across industries. Microsoft is also highlighted for its potential growth in the gaming sector and its strategic positioning in AI.
+
+5. **Investment Insights**: The text emphasizes the importance of thorough analysis and research in stock selection, particularly in the rapidly evolving tech landscape, where companies are increasingly integrating AI into their offerings.
+
+Overall, the content reflects a dynamic market environment with significant implications for investors in technology stocks, particularly those related to AI and semiconductor industries.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon's stock has seen a significant rebound, reaching an all-time high for the first time since 2021, driven by optimism about its future growth and strategic investments in robotics and AI technologies, amounting to over €700 million in Europe. CEO Andy Jassy highlighted ongoing efforts to reduce fulfillment costs and enhance the company's delivery and robotics capabilities in his annual shareholder letter. Additionally, Amazon's competitive positioning in the retail and technology infrastructure sectors is emphasized, as it shifts towards higher-margin initiatives.
+
+In the broader market context, technology stocks outperformed the S&P 500 in 2023 but are currently facing challenges in 2024. The article discusses the implications of this trend for investors, particularly in light of the performance of companies like NVIDIA, which is under pressure from competitors like Amazon, Alphabet, Meta, and Microsoft, all of which are developing in-house AI chips.
+
+Target's recent launch of its Circle 360 membership program is compared to Amazon Prime and Walmart+, indicating a competitive landscape in retail loyalty programs. Furthermore, San Francisco's struggles with crime and corporate exodus are highlighted, particularly the impact on essential businesses like grocery stores, including Whole Foods, which is owned by Amazon.
+
+Broadcom is also featured, with discussions around its growth potential and recent financial performance, including a focus on AI and partnerships with major tech firms like Google Cloud. The text reflects a dynamic environment in the tech sector, with significant developments in AI, retail strategies, and market performance.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Tesla and Meta. 
+
+Tesla has made headlines by reducing the subscription prices for its Full Self-Driving (FSD) service in the U.S. and Canada, aiming to increase adoption amid declining demand and competitive pricing pressures. Despite Elon Musk's promotion of FSD as a significant revenue source, the technology has faced challenges, including regulatory scrutiny and unmet expectations regarding fully autonomous driving capabilities. Additionally, Musk recently met with Argentina's President Javier Milei to discuss promoting free markets and potential lithium projects, highlighting a shared vision for economic growth.
+
+In the broader tech landscape, Meta has introduced next-generation custom-made chips to support its expanding AI workloads, reflecting its commitment to innovation in artificial intelligence. The company has also lowered the minimum age for WhatsApp usage in Europe, which has drawn criticism from children's rights advocates. Furthermore, Meta is preparing for the upcoming South African elections, indicating its strategic focus on global markets.
+
+The text also touches on the competitive dynamics in the electric vehicle (EV) market, noting that the rise of Chinese EV manufacturers poses a threat to traditional European automakers. The Italian government is in discussions with Tesla and Chinese companies to enhance local manufacturing capabilities.
+
+Overall, the content highlights significant trends and strategic moves within the tech industry, emphasizing the interplay between innovation, market competition, and regulatory challenges.
+        The recent news highlights significant developments concerning Alphabet Inc. (Google) and its impact on the tech industry and stock market. Google has decided to temporarily remove links to California news sites for some users as it evaluates the implications of proposed legislation that would require payment for linking to such content. This move is seen as a response to potential legal obligations and has led to a pause in new investments in California's news sector.
+
+In broader market trends, technology stocks, which outperformed the S&P 500 in 2023, are currently underperforming in 2024. The stock market is experiencing mixed signals, with Nvidia showing signs of recovery amidst concerns over inflation and geopolitical tensions in the Middle East.
+
+Additionally, major tech companies like Alphabet, Amazon, Meta, and Microsoft are developing in-house AI chips, raising concerns for NVIDIA's market position. Google has introduced its new Arm-based CPU, Axion, aimed at enhancing AI capabilities, while also expanding AI security features in its offerings.
+
+Alphabet is nearing a $2 trillion market capitalization, a significant milestone that investors are closely monitoring. The company is also exploring potential acquisitions, such as a deal with HubSpot, indicating its ongoing strategy to expand its influence in the tech landscape.
+
+Overall, these developments reflect the dynamic nature of the tech industry, where regulatory challenges, market performance, and innovation in AI technology are shaping the future of major players like Google and its competitors.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

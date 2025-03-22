@@ -1,0 +1,9 @@
+The text provides a comprehensive overview of recent developments and news related to major tech companies, particularly focusing on stock performance and market trends. 
+
+As of July 10, 2024, the ETF fund flows indicate that QQQ is leading in inflows while experiencing significant outflows. The Small Business Optimism Index has shown improvement, reaching its highest level of 2024, although it remains low historically. The June Consumer Price Index (CPI) report is anticipated to reflect a slight increase, which could influence Federal Reserve decisions regarding interest rates. Concerns about potential market corrections are highlighted, particularly in relation to the performance of mega-cap stocks like Nvidia.
+
+Apple is a focal point, with plans to ship at least 90 million iPhone 16 devices in the latter half of 2024, driven by expectations of demand for artificial intelligence services. The company has also seen a notable increase in personal computer shipments, marking a recovery in the industry. Additionally, Apple and Microsoft have stepped back from their roles on OpenAI's board amid growing regulatory scrutiny over Big Tech's influence in the AI sector.
+
+Berkshire Hathaway's equity portfolio has surpassed $400 billion, largely due to the rising value of its largest holding, Apple. Despite this growth, Berkshire's share price has not kept pace with the market. Analysts are closely monitoring Apple's stock, which has recently reached an all-time high, and discussions about potential partnerships in generative AI are ongoing.
+
+Overall, the text encapsulates the dynamic landscape of the tech sector, emphasizing stock performance, market trends, and the strategic moves of key players like Apple and Microsoft.

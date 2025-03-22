@@ -1,0 +1,61 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 463.37.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The latest news regarding tech companies, particularly those in the QQQ index, highlights several key developments as of June 6, 2024. The May jobs report is anticipated to indicate a cooling labor market, which has contributed to rising stock market confidence, suggesting potential interest rate cuts by the Federal Reserve as early as September. The AAII Sentiment Survey shows increasing pessimism among individual investors regarding the short-term stock outlook.
+
+Nvidia's stock has become a significant driver of the Nasdaq 100, accounting for over 40% of its gains, leading to market distortions. As Nvidia's market value surpasses $3 trillion, it has overtaken Apple, raising concerns about its high valuation relative to projected earnings. Meanwhile, Apple is experiencing renewed investor interest, with its market cap also exceeding $3 trillion, following a rebound in stock performance.
+
+In other news, Apple is set to celebrate indie apps through its Design Awards, emphasizing innovation from smaller developers amidst scrutiny of its App Store practices. The company is also expected to unveil a new app aimed at simplifying password management, challenging existing solutions in the market.
+
+Overall, the tech sector is navigating a complex landscape of economic indicators, investor sentiment, and competitive dynamics, particularly between major players like Nvidia and Apple. The focus remains on how these developments will influence market trends and investor strategies moving forward.
+        The text discusses recent developments in the technology sector, particularly focusing on Nvidia and Microsoft, two major players in the market. 
+
+Nvidia has recently undergone a 10-for-1 stock split, which has made its shares more accessible to investors. The company has seen a significant increase in its market capitalization, briefly surpassing $3 trillion, and has received multiple earnings estimate upgrades. However, this growth has attracted regulatory scrutiny, with the Justice Department investigating potential antitrust violations. Despite this, Nvidia remains a strong buy according to analysts, although there is notable short interest in the stock, indicating some investors are betting against its continued rise.
+
+Alphabet, while not yet at the $3 trillion mark, is also highlighted as a potential candidate for this milestone, with its stock trading around $181. The text notes the importance of earnings and valuation multiples in determining stock prices and market values.
+
+Microsoft is also in the spotlight, valued at over $3 trillion, and is facing antitrust investigations alongside Nvidia and OpenAI. Analysts suggest that Microsoft is well-positioned to benefit from the growth of artificial intelligence, despite market uncertainties. The company’s cloud services are reportedly accelerating due to AI advancements, and there is speculation about its stock performance in the near future.
+
+Overall, the text emphasizes the dynamic nature of the tech sector, with significant movements in stock prices, regulatory challenges, and the ongoing impact of AI technology on market valuations.
+        The text discusses recent news regarding major tech companies, particularly focusing on Amazon and its legal challenges, as well as developments in the semiconductor industry.
+
+Amazon is facing significant legal issues, including a $1.3 billion lawsuit from UK retailers alleging that it misused their proprietary data to enhance its own sales. The British Independent Retailers Association claims that Amazon's actions have harmed small businesses by using non-public data to offer competing products at lower prices. This lawsuit is described as the largest collective action by UK retailers against Amazon.
+
+Additionally, Amazon's customer service employees have reported challenges stemming from cost-cutting measures and the integration of artificial intelligence, which has created a stressful work environment. The company is also accused of manipulating its platform to favor its own products over those of third-party sellers.
+
+In the semiconductor sector, Nvidia has recently surpassed Apple in market capitalization, becoming the second-largest company globally. Analysts suggest a cautious approach to investing in Nvidia stock, indicating that it may be at a peak. Broadcom is highlighted as a key player in the AI chip market, benefiting from partnerships with major companies like Google and Meta. The company is also involved in discussions about its revenue sources and potential growth in the AI sector.
+
+Overall, the text emphasizes the ongoing legal and operational challenges faced by Amazon, alongside the competitive dynamics in the semiconductor industry, particularly regarding Nvidia and Broadcom's roles in AI technology.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Tesla, Nvidia, and Meta. 
+
+Tesla is facing challenges, including a significant drop in its first-quarter profit by 55%, despite a rise in stock prices as the company aims to accelerate production of more affordable electric vehicles. The company has also recalled 125,000 vehicles to address a warning system issue and is experiencing a decline in shipments in China due to increasing competition. Elon Musk's leadership continues to be scrutinized, with shareholders expected to approve his substantial $56 billion pay package.
+
+Nvidia is under pressure from short sellers, with bets against the company reaching $34 billion. Despite this, Nvidia's stock remains a focal point for investors, particularly in the context of its competition with Microsoft for market dominance.
+
+Meta Platforms is actively enhancing its offerings, particularly through the introduction of AI-powered features for its WhatsApp Business app. These tools aim to improve customer interactions and streamline business operations. Additionally, Meta is facing scrutiny from U.S. regulators regarding antitrust issues related to its AI initiatives.
+
+Overall, the technology sector is navigating a complex landscape marked by competitive pressures, regulatory challenges, and evolving market dynamics, with companies like Tesla, Nvidia, and Meta at the forefront of these developments.
+        The text discusses recent developments and news regarding Alphabet Inc. (GOOGL) and its position in the stock market, particularly in relation to other tech companies. Key highlights include:
+
+1. **Stock Performance and Valuation**: Alphabet is currently valued at approximately $2.177 trillion, with discussions on its potential to reach a $3 trillion market cap. The text compares Alphabet's stock performance with other major tech companies and notes that it is a favorite among mutual funds.
+
+2. **Antitrust Scrutiny**: The U.S. government is intensifying its scrutiny of major AI developers, including Alphabet, Nvidia, and Microsoft, as part of efforts to address perceived anticompetitive behaviors in the tech industry.
+
+3. **AI Developments**: Google is actively working on AI applications, including a new tool designed to assist marine biologists in monitoring coral reef health. This tool, developed in collaboration with Google Research and DeepMind, utilizes audio recordings to track reef activity.
+
+4. **Market Trends**: The technology sector has experienced fluctuations, with recent declines in semiconductor stocks impacting overall market performance. Despite this, consumer shares have shown resilience.
+
+5. **Financial Services Expansion**: Alphabet is enhancing its financial services offerings, aiming to improve user engagement through features like buy now/pay later lending.
+
+6. **Corporate Leadership Changes**: Alphabet has appointed a new CFO, Anat Ashkenazi, indicating ongoing changes within the company's leadership structure.
+
+Overall, the text provides insights into Alphabet's market position, regulatory challenges, and innovations in AI, reflecting the company's strategic direction and its competitive landscape in the tech industry.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,67 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 482.77.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments in the stock market, particularly focusing on technology companies within the QQQ index. Key highlights include:
+
+1. **Market Performance**: The S&P 500 has experienced back-to-back gains, marking a positive trend after a recent downturn. Analysts suggest that the recent 10% correction in the S&P 500 may present buying opportunities in underperforming sectors.
+
+2. **Federal Reserve Insights**: Expectations are set for the Federal Reserve to maintain interest rates during the upcoming policy meeting, with potential rate cuts anticipated later in the year due to economic pressures stemming from government spending cuts and trade policies.
+
+3. **Company-Specific News**: Futu Holdings reported an impressive 87.8% revenue increase in its Q4 2024 results, indicating strong performance in the AI and crypto sectors. Conversely, Apple Inc. has faced challenges, including a significant drop in stock price despite launching new products, attributed to delays in AI developments.
+
+4. **Investment Strategies**: The text emphasizes the importance of proactive portfolio management in light of market corrections. It suggests that investors should consider selling stocks to manage risk and prepare for future uptrends.
+
+5. **Market Sentiment**: There is a prevailing sense of uncertainty in the markets, with discussions around the potential for a hard landing due to rising debt and inflation. Analysts are advising caution and strategic investment in light of these risks.
+
+Overall, the content reflects a cautious yet opportunistic outlook on the stock market, particularly within the tech sector, highlighting both challenges and potential investment strategies.
+        The text provides a collection of recent news updates regarding major tech companies, particularly focusing on Nvidia and Intel, as well as broader market trends. 
+
+Nvidia is highlighted for its upcoming GTC event, where analysts speculate on its potential impact on the stock. There is anticipation surrounding Nvidia's ability to address key questions from Wall Street, especially in light of its recent performance and the overall market sentiment. Analysts express optimism about Nvidia's prospects, with discussions on its stock price predictions and the implications of its innovations.
+
+Intel's new CEO, Lip-Bu Tan, is noted for aiming to enhance the company's semiconductor dominance through innovation and expansion, despite receiving a lower base salary than his predecessor. The text also mentions Intel's strategic decisions regarding foundry partnerships and its competitive positioning in the market.
+
+Market trends indicate a recent uptick in the S&P 500, attributed to strong consumer sentiment, while Dow Jones futures show volatility influenced by external factors such as tariff uncertainties. The text references various analysts' insights into market movements and stock performance, including notable shifts in investment portfolios from firms like Ariel Investments and Viking Global.
+
+Additionally, there are mentions of collaborations and competitive dynamics in the tech industry, such as TSMC's partnership with Meta to reduce reliance on Nvidia, and a Chinese AI team's achievement in replacing Nvidia GPUs with alternative chips. Overall, the content reflects a landscape of innovation, competition, and strategic maneuvers among leading tech companies.
+        A federal judge has dismissed a lawsuit against Amazon, which accused the company of defrauding shareholders regarding its treatment of third-party sellers and its expansion plans. In other news, Intel's new CEO is initiating a turnaround strategy aimed at reclaiming the company's leadership in technology through innovations in CPUs and foundry expansion. 
+
+Amazon Web Services (AWS) has announced a multi-year strategic collaboration with Fitch Group to enhance Fitch's digital transformation. Meanwhile, Cloudflare is strengthening its defenses against potential quantum attacks. The Dow Jones has seen fluctuations, with recent comments affecting market sentiment, while Nvidia's stock is experiencing volatility ahead of an AI event.
+
+In the realm of investments, Viking Global's stock portfolio has increased, and analysts are discussing the potential for Amazon's stock to rise significantly. Recent reports indicate that Amazon's stock is at a low point, with some analysts suggesting it could soar by over 50%. 
+
+Additionally, there are updates on various product recalls, including Woolite Delicates Detergent due to bacterial exposure risks. Amazon is also restructuring its grocery and convenience store business. 
+
+The stock market is currently facing corrections, with discussions around strategies to protect portfolios from volatility. Broadcom is highlighted for its strong performance in the AI sector, with analysts optimistic about its growth potential. 
+
+Overall, the market is navigating through a mix of challenges and opportunities, with significant developments in technology and investment strategies shaping the landscape.
+        The text discusses recent developments concerning major tech companies, particularly Tesla and Meta, as well as broader market trends. 
+
+Tesla has faced significant challenges, including a decline in sales across key regions and a recent price increase for its Model Y in China, which analysts suggest may not indicate strong demand. The city of Toronto has ceased financial incentives for Tesla vehicles amid escalating trade tensions with the U.S. Analysts have noted that Tesla's stock is experiencing a prolonged downturn, with predictions of further declines. Concerns have also been raised regarding insider trading and the potential impact of tariffs on Tesla's operations.
+
+In the context of Meta, the U.S. Federal Trade Commission is preparing for a trial that could lead to the breakup of the company, potentially forcing it to sell Instagram. This legal action reflects ongoing scrutiny of big tech firms and their market practices. Additionally, Meta is reportedly testing a custom AI training chip to reduce its reliance on Nvidia, highlighting the competitive landscape in the tech sector.
+
+The text also touches on the broader stock market, noting fluctuations in major indices and the potential for a rally if retail sales improve. The ongoing regulatory pressures and market dynamics are shaping the future of these tech giants, with investors closely monitoring developments as they navigate a complex economic environment. 
+
+Overall, the situation for both Tesla and Meta illustrates the challenges and opportunities facing major tech companies amid regulatory scrutiny and market volatility.
+        The text provides a comprehensive overview of recent developments and news regarding major tech companies, particularly Alphabet Inc. (GOOGL). Key highlights include:
+
+1. **Stock Performance**: The S&P 500 has shown back-to-back gains, indicating a positive market sentiment. Alphabet's stock is noted for its potential upside, with analysts suggesting it could rise by 29% due to strong growth in AI and cloud services.
+
+2. **Acquisitions and Deals**: Alphabet is reportedly in advanced talks to acquire cybersecurity startup Wiz for approximately $30 billion, which could be its largest acquisition to date. This move reflects Alphabet's strategy to bolster its cybersecurity capabilities.
+
+3. **AI Developments**: Alphabet's advancements in artificial intelligence are emphasized, with the company reaffirmed as an 'Outperform' by analysts. The introduction of new AI models, such as Gemma 3, promises enhanced efficiency and portability, further solidifying Alphabet's position in the tech landscape.
+
+4. **Market Analysis**: Analysts are closely monitoring Alphabet's stock, with discussions around its valuation and market performance. The company is seen as a strong contender in the tech sector, especially with its cloud services gaining market share from competitors like AWS and Azure.
+
+5. **Future Predictions**: There are optimistic forecasts regarding Alphabet's stock performance, with predictions of significant growth over the next five years. The company's strategic focus on AI and cloud technology is expected to drive this growth.
+
+Overall, the text highlights Alphabet's robust market position, strategic acquisitions, and advancements in technology, particularly in AI and cloud services, while also reflecting on broader market trends affecting tech stocks.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

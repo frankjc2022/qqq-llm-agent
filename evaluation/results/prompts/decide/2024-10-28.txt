@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 495.4.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies within the QQQ ETF. Key highlights include:
+
+1. **Market Trends and Predictions**: The market is experiencing significant movements, with discussions around the potential for a market declaration influenced by upcoming earnings reports and the election. Analysts are cautious about the current momentum, noting a recent decline in the S&P 500 after a strong performance over the past year.
+
+2. **Apple's AI Initiatives**: Apple has launched its "Apple Intelligence" features as part of the iOS 18.1 update, aiming to enhance user experience through AI. Analysts express that while immediate impacts may not be evident in upcoming earnings, the long-term benefits could be substantial as consumers adapt to these new capabilities.
+
+3. **Earnings Reports**: Several major tech companies, including Apple, are set to report earnings soon, which will be critical in assessing their performance and market position. Analysts are particularly focused on iPhone sales trends and the impact of AI on revenue.
+
+4. **Stock Performance**: The text notes fluctuations in stock prices, with Apple facing challenges in China and Nvidia recently surpassing Apple as the world's most valuable company. Analysts are closely monitoring these developments, especially in light of AI integration and its potential to drive future growth.
+
+5. **Sector Analysis**: The technology sector is showing resilience, with small-cap stocks performing well and a general upward trend in tech stocks despite broader market challenges. Analysts are optimistic about the potential for recovery and growth in the sector.
+
+Overall, the text encapsulates a dynamic period for tech companies, highlighting the interplay between innovation, market sentiment, and financial performance.
+        The text discusses recent developments and news regarding major technology companies, particularly focusing on their financial performance and strategic initiatives in the context of artificial intelligence (AI) and market competition.
+
+Nvidia has recently overtaken Apple as the world's most valuable company, driven by a significant increase in its stock value, which has risen 923% over the past two years. Analysts speculate that while Nvidia has been a dominant player in the semiconductor market, Micron Technology may emerge as a more crucial company in the long run. The upcoming earnings reports from major tech firms, including Alphabet, Microsoft, and AMD, are anticipated to highlight the ongoing impact of AI investments on their financial results.
+
+Microsoft has announced a substantial $1 billion investment in new data centers in Ohio, reflecting its commitment to expanding its cloud and AI capabilities. The AI boom is also reshaping the commercial real estate landscape, with major tech companies collectively investing $50 billion in AI-related initiatives in 2024. This aggressive expansion is intensifying competition for land to build essential infrastructure.
+
+The text also notes that the earnings season is pivotal for these companies, as the initial excitement surrounding AI investments is giving way to a demand for tangible results. As companies prepare to report their earnings, there is a focus on how well they can demonstrate the effectiveness of their AI strategies and investments.
+
+Overall, the landscape is characterized by rapid advancements in AI technology, significant financial maneuvers by leading tech firms, and a competitive environment that is reshaping both the tech industry and the broader market.
+        The latest news highlights significant developments among major tech companies, particularly those in the QQQ index. Amazon (AMZN) is set to report its quarterly earnings, with analysts closely monitoring its performance amid a shift in investor sentiment from AI hype to tangible results. The Boyar Value Group's Q3 2024 letter notes that while the first half of the year saw explosive gains in tech stocks, the third quarter was more subdued.
+
+The ongoing AI boom is reshaping the commercial real estate market, as major tech firms, including Amazon, Meta, Microsoft, and Alphabet, have collectively invested $50 billion in AI initiatives in 2024. This investment surge has intensified competition for land to build data centers, significantly impacting the real estate landscape.
+
+In the retail sector, companies like Walmart are adapting to economic pressures by launching early sales events and offering incentives to attract consumers facing high inflation. This strategy comes as e-commerce is projected to set records during the holiday season, with both Amazon and Walmart leading the charge.
+
+Additionally, the earnings season is bringing increased scrutiny to Amazon's core business segments, particularly Amazon Web Services (AWS), which is experiencing slower growth due to cautious enterprise spending. As the market anticipates earnings reports from various tech giants, investors are keenly interested in how these companies will navigate the evolving economic landscape and the implications for their stock performance.
+
+Overall, the tech sector is at a pivotal moment, with earnings reports expected to provide insights into the future trajectory of these influential companies amidst changing market dynamics.
+        The text provides a comprehensive overview of recent developments and news related to major tech companies, particularly focusing on Tesla, Meta Platforms, and Alphabet. 
+
+Tesla's stock has been a focal point, with discussions around its performance and growth potential. Recent earnings reports have led to increased optimism among investors, with analysts highlighting a significant stock jump attributed to growth prospects. Elon Musk's reflections on the volatility of the stock market and Tesla's position within it are also noted, emphasizing the unpredictable nature of publicly traded companies.
+
+In the broader market context, there is a bullish sentiment for stocks in the fourth quarter, driven by a historically strong presidential election year. Analysts are optimistic about the continuation of the bull market, with key earnings reports from major tech firms expected to influence market trends.
+
+Meta Platforms is facing legal challenges in Brazil, where a consumer rights group has filed lawsuits against social media giants for failing to protect minors from excessive use of their platforms. This highlights the growing scrutiny and regulatory pressures on tech companies regarding user safety and data protection.
+
+Additionally, the text discusses the impact of artificial intelligence (AI) on the commercial real estate market, as major tech companies invest heavily in AI infrastructure. Meta is recognized as a leader in AI implementation among social media platforms, with analysts noting its effective use of AI to enhance user engagement.
+
+Overall, the content reflects a dynamic landscape in the tech industry, characterized by stock market fluctuations, regulatory challenges, and the transformative influence of AI on business operations and market strategies.
+        The latest news highlights significant developments in the technology sector, particularly focusing on major companies like Tesla and Alphabet (GOOGL). Tesla's recent third-quarter earnings report has sparked discussions, suggesting that bearish sentiments surrounding the stock may be misplaced. The Boyar Value Group's Q3 letter indicates that while the first half of 2024 saw explosive gains in tech shares, the third quarter was more subdued.
+
+As the earnings season unfolds, the focus shifts to the "Magnificent Seven" tech stocks, with Alphabet set to report its earnings soon. Other companies like Visa, McDonald's, Pfizer, and AMD are also expected to release their results, with attention on economic indicators such as the Job Openings and Labor Turnover Survey (JOLTS) and consumer confidence data.
+
+The artificial intelligence (AI) boom is reshaping the commercial real estate market, with major tech firms investing heavily in infrastructure. Amazon, Meta, Microsoft, and Alphabet have collectively allocated $50 billion to AI initiatives in 2024, intensifying competition for land to build data centers.
+
+Additionally, a new AI startup co-founded by Bret Taylor has raised $175 million, focusing on AI-powered customer service solutions. This reflects the growing trend of integrating AI into various business operations.
+
+Overall, the tech sector is navigating a complex landscape of earnings reports, economic data, and transformative investments in AI, which are expected to influence market dynamics in the coming months.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

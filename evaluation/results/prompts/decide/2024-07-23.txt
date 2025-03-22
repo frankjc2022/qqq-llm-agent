@@ -1,0 +1,70 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 480.62.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments and news related to major tech companies, particularly focusing on stock performance and market trends. 
+
+Key highlights include:
+
+1. **Earnings Reports and Market Reactions**: The second quarter results are anticipated to break an earnings stalemate, with optimism growing among tech investors due to fading fears surrounding Taiwan and rising expectations for Nvidia. The stock market is experiencing a bounce as Wall Street awaits key tech earnings.
+
+2. **Apple's Innovations**: Apple is reportedly planning to release a foldable iPhone by 2026, following a similar move by Samsung. This development is part of Apple's strategy to refresh its hardware design and attract new customers.
+
+3. **Spotify's Financial Performance**: Spotify has shown significant improvement in its financials, achieving record gross margins and operating profit, which led to a notable increase in its share price.
+
+4. **Meta's AI Initiatives**: Meta's CEO, Mark Zuckerberg, is advocating for the adoption of open-source AI technology, highlighting the company's commitment to innovation in this field.
+
+5. **Market Trends and Analyst Insights**: Analysts are closely monitoring smartphone upgrade trends at Verizon, which may impact iPhone sales. Additionally, there are discussions about the implications of high interest rates on tech stocks, particularly the QQQ ETF.
+
+6. **Stock Market Dynamics**: The text notes a rotation in market leadership following the latest Consumer Price Index report, indicating a shift in investor sentiment and strategy.
+
+Overall, the content reflects a dynamic tech landscape, with companies like Apple, Spotify, and Meta at the forefront of innovation and market performance, while broader economic factors continue to influence investor behavior.
+        The text discusses recent developments and earnings reports related to major tech companies, particularly focusing on Nvidia, Tesla, Google, and Microsoft. 
+
+Nvidia has been in the spotlight due to its earnings report, which showed a slight dip in stock value despite its strong position in the AI market. The company has cleared Samsung's HBM3 chips for use in its processors, marking a significant step in its collaboration with Samsung. Analysts are divided on Nvidia's valuation, with some expressing concerns about its stock being overvalued. The company remains a key player in the AI sector, with strong institutional backing.
+
+Tesla's recent earnings report fell short of expectations, leading to a decline in its stock price. In contrast, Google reported better-than-expected earnings, driven by growth in its cloud business, which is becoming increasingly competitive in the AI landscape.
+
+Microsoft is preparing to report its earnings soon, with a focus on its cloud segment and AI initiatives. Analysts are closely watching how Microsoft will navigate competition from Google and other AI-focused companies. The company has made significant investments in AI, raising questions about the potential returns on these investments.
+
+Overall, the tech sector is experiencing dynamic shifts, particularly in AI, with companies like Nvidia and Microsoft positioning themselves as leaders while facing challenges from competitors. The market is keenly observing these developments as they unfold, especially in light of the growing interest in AI-related investments.
+        The text discusses recent developments in the stock market, particularly focusing on major tech companies and their performance. Key highlights include:
+
+1. **Earnings Reports**: Companies like Alphabet (GOOG) and Tesla (TSLA) are set to report their second-quarter earnings, with analysts expressing optimism about Alphabet's cloud business and concerns about Tesla's high valuations.
+
+2. **Consumer Spending Trends**: Gradient Investments' portfolio manager Keith Gangl notes that while Coca-Cola (KO) exceeded earnings expectations, the overall consumer market shows signs of weakness. He emphasizes the importance of pricing strategies and volume growth for companies like Coca-Cola and expresses bullish sentiments towards Amazon (AMZN) due to its investments in capital expenditures.
+
+3. **Investment Opportunities**: Gangl identifies potential investment opportunities in consumer staples and retail stocks, highlighting companies like McDonald's (MCD) and Costco (COST) as appealing options for investors. He anticipates that home improvement retailers will benefit from an expected interest rate cut by the Federal Reserve.
+
+4. **Amazon's Performance**: Amazon's stock has risen significantly in 2024, with analysts predicting a strong quarterly report. The company is also focusing on responsible AI strategies to enhance its competitive edge in the tech sector.
+
+5. **Broadcom's Market Position**: Broadcom (AVGO) is noted for its growing presence in the AI market, challenging Nvidia's dominance. Analysts view Broadcom as a strong investment due to its partnerships and positive market sentiment.
+
+Overall, the text provides insights into the current state of the stock market, highlighting key players, consumer trends, and potential investment strategies amidst economic fluctuations.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly Tesla and Meta Platforms, as well as insights into the broader market landscape.
+
+**Tesla Updates:**
+Tesla has faced significant challenges, with CEO Elon Musk announcing a suspension of the construction of a new assembly plant in Mexico until after the upcoming U.S. presidential election. The company's Q2 earnings report revealed a 45% drop in net income, attributed to declining global electric vehicle sales despite price cuts and low-interest financing. Although Tesla's revenue exceeded estimates, much of this was due to increased regulatory credit revenues. Analysts are maintaining a cautious outlook on Tesla's stock, with concerns about its profitability and market performance.
+
+**Meta Platforms Insights:**
+Meta is also navigating a complex landscape, particularly in the realm of artificial intelligence (AI). The company recently introduced its Llama 3 AI model, which boasts enhanced multilingual capabilities and improved performance metrics. However, Meta's Reality Labs division has incurred substantial losses, raising questions about its strategic direction. The company is also facing regulatory challenges in the EU, leading to the suspension of its generative AI tools in Brazil and a halt to the rollout of its AI model in Europe.
+
+**Market Context:**
+The broader market is experiencing fluctuations, with notable declines in U.S. home sales and discussions around the Federal Reserve's monetary policy impacting investor sentiment. Analysts are optimistic about potential rate cuts in 2024, which could influence market dynamics.
+
+Overall, the tech sector is under scrutiny as companies like Tesla and Meta grapple with financial pressures, regulatory hurdles, and evolving market conditions.
+        The recent news surrounding tech companies, particularly Alphabet Inc. (GOOGL), highlights significant developments in their financial performance and strategic direction. On July 23, 2024, Alphabet reported second-quarter earnings that exceeded expectations, with earnings per share of $1.89, surpassing the anticipated $1.74. The company’s revenue also outperformed forecasts, driven by strong demand for cloud computing services and advertising on its search engine, generating $71.36 billion in revenue.
+
+Despite these positive results, Alphabet's stock experienced volatility, initially rising before reversing due to concerns over increased expenses projected for the upcoming quarter, which could impact margin growth. The company’s advertising sales growth has slowed, reflecting a shift in focus towards substantial investments in artificial intelligence (AI). Alphabet's Google division reported $64.6 billion in ad sales, marking an 11.1% increase year-over-year, but the slowdown in ad growth raised concerns among investors.
+
+Analysts have characterized Alphabet's performance as solid but noted that it fell short of the significant beats typically expected from major tech firms. The company is also facing challenges related to its AI investments, which are expected to inflate costs in the near term. Additionally, discussions around Tesla's performance revealed mixed results, with adjusted earnings per share missing expectations, although revenue exceeded forecasts.
+
+Overall, the tech sector is navigating a complex landscape, balancing strong revenue growth with rising operational costs and strategic investments in emerging technologies like AI. Investors are keenly observing how these dynamics will unfold in the coming quarters, particularly regarding profitability and market positioning.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

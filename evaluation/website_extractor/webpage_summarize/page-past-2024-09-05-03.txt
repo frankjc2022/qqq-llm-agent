@@ -1,0 +1,9 @@
+The text provides a comprehensive overview of recent news regarding Amazon (AMZN) and Broadcom (AVGO), focusing on their performance in the stock market and significant developments affecting their operations.
+
+For Amazon, the company is currently involved in a lawsuit challenging the structure of the U.S. labor board, which could impact its negotiations with a union that won an election at one of its warehouses. Despite facing challenges, Amazon's stock saw a positive reaction due to strong performance in its cloud services, particularly through its AWS division, which is bolstered by advancements in artificial intelligence (AI). Analysts are closely monitoring Amazon's position among trending AI stocks, as the sector has garnered significant attention on Wall Street.
+
+In terms of sales, Amazon reported record-breaking figures during its recent Prime Day event, indicating robust consumer engagement despite cautious forecasts regarding future revenue. The company is also exploring new business avenues, such as grocery delivery subscriptions aimed at Prime members and EBT customers.
+
+On the other hand, Broadcom has faced a mixed response in the market following its latest earnings report. While the company exceeded expectations in terms of revenue and profit, its outlook for future sales fell short, particularly in segments not related to AI. Analysts have noted that the broader semiconductor market is experiencing a slowdown outside of AI-related products, which may affect investor sentiment.
+
+Overall, both companies are navigating a complex landscape influenced by labor relations, market performance, and the evolving role of AI in their respective industries.

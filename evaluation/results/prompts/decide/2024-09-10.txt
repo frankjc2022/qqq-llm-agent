@@ -1,0 +1,65 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 458.66.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and analyses concerning major tech companies, particularly focusing on the Invesco QQQ Trust and Apple Inc. 
+
+Recent reports indicate a decline in small business earnings, as reflected in the NFIB Small Business Optimism Index. Despite this, Wall Street strategists express confidence in the resilience of earnings projections for the third quarter. Amazon is highlighted as it transitions towards profitability, which could impact shareholder returns positively.
+
+Apple's recent announcements at its product event showcase new AI capabilities, termed "Apple Intelligence," which are expected to enhance user experience and app functionality. Analysts believe that these innovations could lead to increased sales of iPhones, with projections suggesting a potential rise in normalized sales rates. The competition from Huawei's new device is noted, but analysts remain optimistic about Apple's long-term market share in China.
+
+The text also touches on the broader market context, with discussions around the S&P 500's resistance levels and the potential for market volatility driven by recession fears. Analysts suggest that the current stock market fluctuations may be overblown, and key upcoming events could provide clarity on market direction.
+
+In terms of investment strategies, the text mentions the "Magnificent Seven" tech companies, which are expected to dominate future AI developments. Analysts emphasize the importance of scale and capital in driving innovation within these established firms, contrasting them with smaller startups.
+
+Overall, the content reflects a cautious yet optimistic outlook on the tech sector, highlighting both challenges and opportunities for growth amidst evolving market dynamics.
+        The text discusses recent developments and insights regarding major tech companies, particularly those in the Nasdaq-100 index (QQQ), focusing on their performance and strategies in the evolving technology landscape.
+
+1. **D-Matrix and AI Investment**: D-Matrix, an AI chip startup, is seeking to raise $250 million, highlighting the competitive and risky nature of the AI chip market, particularly against established players like Nvidia.
+
+2. **Market Analysis**: Analysts from Neuberger Berman and others provide insights into navigating the current sluggishness in tech stocks, emphasizing Nvidia's potential growth driven by cloud vendors' investments in AI. They predict a positive trajectory for companies like Apple and Oracle, with Oracle's cloud services expected to show robust growth despite quarterly fluctuations.
+
+3. **Amazon Web Services (AWS)**: AWS is positioning itself to capitalize on AI by training and selling custom AI models, rather than competing directly in large language models.
+
+4. **The Magnificent Six**: Analyst Gil Luria identifies six major tech companies—Meta, Alphabet, Microsoft, Apple, Amazon, and Nvidia—as leaders in AI and computing, suggesting they will dominate future technological advancements. He notes that innovation is increasingly coming from these established firms rather than startups.
+
+5. **Microsoft's Position**: Microsoft is highlighted as a key player in the AI space, with expectations of benefiting from upcoming product rollouts. Despite recent stock volatility, analysts believe it remains well-positioned for future growth.
+
+6. **Apple's AI Features**: Apple is focusing on integrating AI features into its upcoming iPhone 16 to boost sales, indicating the importance of innovation in maintaining market relevance.
+
+Overall, the text underscores the competitive dynamics in the tech sector, particularly around AI, and the strategic moves of leading companies to secure their positions in the market.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Amazon and Broadcom. 
+
+Amazon has announced a substantial investment of £8 billion (approximately $10 billion) in the UK over the next five years to establish and operate data centers. This initiative is expected to contribute £14 billion to the UK’s GDP by 2028 and create over 14,000 jobs, marking a notable increase in Amazon's investment activities in Britain.
+
+In the realm of artificial intelligence (AI), Amazon Web Services (AWS) is positioning itself to capitalize on the growing demand for AI solutions. AWS CEO Matt Garman discussed the company's strategy at a recent conference, emphasizing the rapid growth of AI within AWS and its diverse revenue streams, which include selling AI models and providing infrastructure for training large language models. Garman noted that AI has the potential to deliver significant benefits across various sectors.
+
+Meanwhile, Broadcom is also making headlines with its strong performance in the semiconductor market. The company reported a 47% year-over-year revenue growth, driven by its infrastructure solutions. Analysts are optimistic about Broadcom's role in the AI sector, despite some concerns regarding its AI revenue outlook. The company is expected to sell $12 billion in AI parts and custom chips this year, indicating its commitment to the evolving tech landscape.
+
+Overall, both Amazon and Broadcom are making strategic moves to enhance their positions in the tech industry, focusing on AI and infrastructure development, which are anticipated to drive future growth and innovation.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Lyft, Tesla, and Meta Platforms. 
+
+Lyft's CEO, David Risher, indicated that the company has moved beyond its turnaround phase, while foreign car manufacturers are grappling with overcapacity issues in China, which is straining international relations. GameStop reported earnings that exceeded expectations, although sales figures were disappointing, prompting discussions about the viability of meme stocks as a long-term investment strategy.
+
+Tesla's stock has been a focal point, with analysts from Deutsche Bank initiating coverage with a Buy rating and a price target of $295, suggesting that Tesla is in a unique position within the electric vehicle market. The company is also facing challenges, including a reported 7% drop in auto revenue and a significant profit decline in the second quarter. Despite these setbacks, Tesla's stock continues to rise, bolstered by positive analyst sentiment.
+
+Meta Platforms is highlighted for its strategic positioning in AI and technology, with analysts giving it a Buy rating and a price target of $600. The company is seen as a leader in emerging technology platforms, particularly in AI and spatial computing. Additionally, there are discussions about regulatory pressures, with a bipartisan group of state attorneys general advocating for warning labels on social media apps to address addiction and mental health concerns among young adults.
+
+Overall, the text reflects a dynamic landscape in the tech industry, characterized by both challenges and opportunities for growth and innovation among leading companies.
+        The latest news highlights significant trends and developments in the tech industry, particularly focusing on Alphabet Inc. (GOOGL) and its competitive landscape. A recent study indicates that major tech companies, including Alphabet, have significantly reduced business travel emissions by an average of 49% in 2023, although only a few have set specific reduction targets. This reflects a broader shift in corporate practices towards sustainability.
+
+Additionally, a cultural shift is noted among younger generations, with Gen Z moving away from traditional search engines like Google in favor of platforms like TikTok for information retrieval. This change poses challenges for Alphabet as it navigates evolving consumer behaviors.
+
+In the financial realm, Alphabet's stock performance has been mixed, with recent trading sessions showing fluctuations. Analysts are closely monitoring the company's position amid ongoing discussions about its market strategies and competitive standing against other tech giants, including Meta, Microsoft, and Apple. Notably, Davidson's analysis suggests that Alphabet, along with other major players, will continue to dominate future advancements in AI and computing.
+
+The ongoing antitrust case against Google regarding its advertising practices is also a focal point, with the Department of Justice arguing about the nature of the digital ad market. This case could have significant implications for Google's business model and its competitive positioning.
+
+Overall, Alphabet is at a crossroads, balancing innovation in AI and cloud services with regulatory challenges and shifting market dynamics. The company's ability to adapt to these changes will be crucial for its future growth and market leadership.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

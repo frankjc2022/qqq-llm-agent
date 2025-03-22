@@ -1,0 +1,81 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 516.7.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses various financial and market trends, focusing on the healthcare and pharmaceutical sectors, inflation, and investment opportunities. 
+
+In 2025, the American healthcare and pharma sector is expected to face significant challenges, particularly with the Corporate Sustainability Reporting Directive. The Federal Reserve is under pressure to adjust policy rates in response to rising inflation, which has seen a 2% increase in core inflation. The market has reacted positively, with bond yields dropping and equity futures rising.
+
+The QYLD fund, which offers tech exposure with a double-digit yield, has underperformed compared to broader market indices like the S&P 500 and NASDAQ. Investors are encouraged to consider the fund's potential and the implications of a 3% annual rise in the core rate.
+
+Invesco has expanded its QQQ Innovation Suite by adding two new ETFs, which have shown strong performance over the past decade, outperforming the S&P 500 by nearly 50%. The text also highlights the importance of board diversity in Nasdaq companies, despite recent legal challenges to diversity rules.
+
+Apple's smartphone shipments in China have declined by 25%, while Huawei's have increased. Additionally, Apple is reportedly in discussions to change its credit card partnership from Goldman Sachs to Barclays. The company is also facing significant losses in its streaming service, Apple TV+, estimated at $1 billion annually.
+
+Overall, the text provides insights into market dynamics, investment strategies, and the performance of major companies, particularly in the tech and healthcare sectors, while emphasizing the importance of monitoring economic indicators and corporate developments.
+        The text discusses various developments and analyses related to Nvidia and other technology stocks, particularly in the context of market movements and investment strategies. 
+
+Nvidia is highlighted for its potential growth, especially in robotics and AI, with analysts suggesting that its earnings could stabilize significantly over the next 8-10 years. Despite some recent dips in stock price, Nvidia is still viewed favorably by many analysts, with some considering it a strong momentum stock and a potential value play compared to competitors like Broadcom. 
+
+The text also mentions the broader market context, noting a significant rally in the Dow, driven by gains in shares of Goldman Sachs and American Express. This rally reflects investor confidence in certain sectors, particularly those related to AI and quantum computing. Companies like Oracle are recognized for their rapid adaptation to AI technologies, positioning themselves as key players in the cloud market.
+
+Additionally, there is a focus on quantum computing stocks, which have seen a surge following announcements from Microsoft regarding training programs and partnerships. The text suggests that these developments could lead to increased interest and investment in quantum technologies.
+
+Overall, the content emphasizes the dynamic nature of the tech stock market, with Nvidia and quantum computing at the forefront of investor interest, while also acknowledging the risks and volatility associated with these investments.
+        The text provides a comprehensive overview of recent news and analyses regarding major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Amazon's Market Position**: Analysts suggest that Amazon remains a strong investment opportunity in 2025, emphasizing its ability to outperform competitors. The company is also making significant strides in various sectors, including electric vehicle technology, with its largest-ever order of electric heavy trucks.
+
+2. **Oracle's Transformation**: Oracle is recognized for its shift from a legacy software provider to a leader in AI and cloud services, bolstered by strategic partnerships and a focus on multi-cloud solutions.
+
+3. **Intel's Challenges and Opportunities**: Intel is navigating challenges in the GPU market but is seen as having potential for growth with the right strategic vision, particularly in integrating CPU and GPU technologies.
+
+4. **Broadcom's Growth Prospects**: Broadcom is highlighted for its strong performance and potential in the AI sector, with analysts predicting significant growth driven by custom AI chips and strategic partnerships.
+
+5. **Progyny's Valuation**: Progyny, a company specializing in fertility benefits, is noted for being undervalued despite its solid growth potential, making it an attractive investment opportunity.
+
+6. **Market Trends**: The commentary reflects broader market trends, including the performance of various funds and the impact of stock selection on returns. The ClearBridge Large Cap Growth Fund, for instance, is noted for its careful management of mega-cap exposure to promote diversification and risk control.
+
+Overall, the text underscores a positive outlook for several tech companies, with a focus on innovation, strategic partnerships, and market positioning as key drivers of future growth.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Palantir Technologies**: A financial writer critiques Palantir's high valuation and risks associated with its government contracts, suggesting caution for investors.
+
+2. **Tesla Inc.**: Tesla's stock is experiencing volatility, with projections indicating strong growth through 2030 despite challenges related to its advanced driver assistance systems. The company is under scrutiny from government probes, and its stock has seen significant fluctuations, including a recent decline amid market conditions.
+
+3. **Meta Platforms**: The potential ban on TikTok is seen as an opportunity for Meta, particularly for its Instagram Reels feature, which could benefit from TikTok's loss of users. Analysts are optimistic about Meta's stock performance in light of this situation.
+
+4. **General Market Trends**: The tech sector is witnessing a rally, driven by favorable inflation data, which has encouraged traders to seek riskier investments. Companies like Amazon are highlighted as strong performers expected to continue winning in 2025.
+
+5. **Unity Software**: The company is reportedly in a transitional phase, facing potential customer attrition, which may affect its growth trajectory.
+
+6. **D-Wave Quantum**: The largest investor in D-Wave Quantum has sold a significant amount of stock, indicating potential shifts in investor confidence.
+
+7. **Elon Musk's Influence**: Musk's business empire continues to attract attention, with discussions around his impact on various sectors, including automotive and space exploration.
+
+Overall, the text encapsulates a dynamic landscape in the tech industry, marked by regulatory challenges, market opportunities, and evolving investor sentiments.
+        The text provides a comprehensive overview of recent news and analyses concerning major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Pinterest and Meta Platforms**: Pinterest is gaining traction with its personalized marketing and AI-driven tools, prompting a buy recommendation for its stock. Meanwhile, Meta Platforms is positioned to benefit from a potential TikTok ban, as Instagram Reels could capture the market share.
+
+2. **Amazon and Oracle**: Analysts suggest that Amazon and other internet stocks are likely to continue their winning streak in 2025. Oracle is noted for its transformation into an AI powerhouse, leveraging its cloud market presence and multi-cloud partnerships.
+
+3. **Eli Lilly**: Despite recent setbacks, Eli Lilly's weight-loss drugs are expected to sustain market momentum, indicating ongoing investor interest.
+
+4. **Rumble**: The 'free speech' video platform Rumble has received a new buy rating, reflecting positive market sentiment.
+
+5. **Investment Strategies**: An investor discusses a strategy of selling stocks perceived to have negative potential while retaining others, indicating a cautious approach to market fluctuations.
+
+6. **Alphabet Inc. (GOOGL)**: The company is highlighted for its advancements in quantum computing and AI, with various analyses suggesting it remains a strong investment. Recent acquisitions and innovations, such as the development of a new quantum chip, are also noted.
+
+7. **Market Commentary**: Funds like ClearBridge and Franklin Global Equity are discussed for their performance and strategies in managing mega-cap exposure and stock selection, respectively.
+
+Overall, the text encapsulates a dynamic landscape of tech investments, focusing on growth potential, strategic shifts, and market reactions to regulatory challenges and innovations.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

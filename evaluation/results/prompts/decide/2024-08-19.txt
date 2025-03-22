@@ -1,0 +1,55 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 481.27.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The latest news regarding tech companies and the stock market highlights several key developments. The Conference Board Leading Economic Index (LEI) has fallen to its lowest level since April 2020, indicating potential economic challenges ahead, although no recession signal has been confirmed. Recent stock market activity shows a rebound, driven by improved economic data and a focus on lower interest rates, despite concerns about profit-taking and disappointing earnings estimates for major indices like the S&P 500 and Nasdaq.
+
+Corporate America is reportedly discussing recession fears less frequently, even as economic growth data shows signs of slowing. Analysts suggest that the stock market may require more than just a rate cut to sustain its upward momentum. The recent market volatility has been attributed to a combination of factors, including concerns over job and manufacturing figures.
+
+In the tech sector, Apple Inc. is generating buzz with speculation surrounding the upcoming iPhone 16 and its position among trending AI stocks. Analysts are closely monitoring Apple's stock performance, especially as it approaches all-time highs amid expectations of an AI-driven upgrade cycle. Meanwhile, General Motors is making headlines for cutting over a thousand jobs in its software division, reflecting a shift in its hiring strategy after a period of rapid expansion.
+
+Overall, the tech market is experiencing a mix of optimism and caution, with investors weighing the implications of economic indicators, corporate earnings, and technological advancements. The focus remains on how these factors will influence future market trends and investment strategies.
+        The text discusses recent developments and news regarding major tech companies, particularly focusing on Nvidia and AMD, as well as other significant players like Microsoft and Google. 
+
+Nancy Pelosi has criticized a California bill aimed at regulating artificial intelligence, labeling it as "well-intentioned but ill-informed," and expressing concerns about its potential impact on her tech investments. Nvidia's stock has shown resilience, nearing new highs, and the company is highlighted for its significant role in the AI sector. A recent report indicates that Nvidia's stock has been recovering, and it is seen as a strong buy following a 10-for-1 stock split.
+
+AMD is making strides to compete with Nvidia by acquiring ZT Systems for $4.9 billion, which is expected to enhance AMD's capabilities in the AI market. Analysts suggest that this acquisition will help AMD close the gap with Nvidia by bolstering its engineering talent and offering a more comprehensive product lineup.
+
+The S&P 500 has seen strong performances from AI chip manufacturers, with both Nvidia and AMD being notable winners. The text also mentions the competitive landscape, where AMD is striving to catch up with Nvidia, which has established itself as a leader in AI technology.
+
+Additionally, the text touches on broader market trends, including potential antitrust challenges facing Alphabet (Google) and the importance of AI in driving revenue growth for companies like Salesforce. Overall, the focus is on the evolving dynamics within the tech industry, particularly in the AI sector, and the strategic moves by these companies to enhance their market positions.
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly Amazon (AMZN) and Broadcom (AVGO), as well as insights into the stock market and investment opportunities.
+
+Amazon is highlighted for its significant initiatives, including its Housing Equity Fund, which aims to provide affordable housing solutions, and its Prime Air drone delivery program, which has faced community backlash due to noise concerns. The company recently celebrated its 30th anniversary, prompting reflections on its longevity and the predictions made by founder Jeff Bezos regarding the lifespan of large corporations. Additionally, Amazon's strategic focus on cloud services and artificial intelligence (AI) is noted, indicating its efforts to diversify beyond e-commerce.
+
+Broadcom is also discussed, particularly in the context of its stock performance and recent announcements, including a 10-for-1 stock split. The company is recognized for its position in the semiconductor industry and its potential growth in the AI sector. The text mentions the broader market context, including the performance of various industries and the implications of economic trends on investment strategies.
+
+Overall, the content emphasizes the evolving landscape of technology and investment, highlighting key players and their strategies in response to market dynamics and consumer needs. The focus on AI and cloud computing reflects a significant trend in the tech industry, suggesting that companies like Amazon and Broadcom are positioning themselves for future growth amidst changing economic conditions.
+        The text discusses recent developments and insights regarding major tech companies, particularly focusing on Tesla, Meta Platforms, and the broader market context.
+
+Tesla (TSLA) is facing challenges in maintaining its market dominance, particularly in the electric vehicle (EV) sector. Analysts express concerns about Tesla's recent price cuts and discounts aimed at boosting sales, especially in competitive markets like China. Bill Davis, an ESG portfolio manager, suggests that Tesla's strategy may be faltering as it cedes ground to lower-cost competitors. He highlights the company's struggles with high interest rates and the implications for its growth trajectory.
+
+In contrast, Nike (NKE) has been upgraded to a "Buy" rating, indicating a more favorable outlook compared to Tesla. Analysts are also discussing the potential of copper mining stocks, such as Freeport-McMoRan (FCX), as viable investment options during uncertain economic times, given the high demand for copper and limited competition in the mining sector.
+
+Meta Platforms (META) is also in the spotlight, with discussions around its AI initiatives and recent regulatory challenges. The company is rolling out new AI tools in the EU despite past issues with compliance. Additionally, Meta has made headlines for its significant financial commitments, including a $1.4 billion settlement related to facial recognition technology.
+
+Overall, the text reflects a dynamic landscape in the tech sector, with companies like Tesla and Meta navigating competitive pressures and regulatory scrutiny while investors seek opportunities in emerging trends and sectors.
+        The text discusses recent developments and insights regarding Alphabet Inc. (GOOGL), focusing on its technological advancements, stock performance, and market positioning. 
+
+One notable highlight is the introduction of Gemini Live, a chatbot designed to provide a more engaging conversational experience. However, it has faced criticism for its reliability and personality. The text also mentions the performance of Seth Klarman's Baupost Group, which has made new investments in companies like Humana and Verisign.
+
+Analysts from Jefferies have maintained a "Buy" rating for Alphabet despite ongoing antitrust concerns, indicating confidence in the company's future. The article notes that Alphabet is currently a trending AI stock, reflecting its significant role in the AI sector. 
+
+Additionally, the text commemorates the 20th anniversary of Google's IPO, noting that an investment of $1,000 at the time would now be worth approximately $76,700, showcasing the company's substantial growth over the years. 
+
+Google's advancements in autonomous vehicle technology through Waymo are highlighted as a major innovation in the automotive industry, positioning the company as a leader in this field. The text also raises questions about potential antitrust actions against Alphabet, suggesting that the company may face regulatory challenges ahead.
+
+Overall, the content emphasizes Alphabet's strong market presence, innovative technologies, and the ongoing scrutiny it faces from regulators, while also reflecting on its historical growth and future potential in the tech landscape.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,61 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 426.51.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and news regarding major tech companies, particularly focusing on Apple and Tesla, as well as the broader market trends affecting the Nasdaq-100 index (QQQ).
+
+Tesla's stock has seen significant fluctuations, with its ETFs rising sharply due to Elon Musk's ambitious vision for the company. Analysts are debating whether the current market conditions signify a mere correction or the end of a bull market, with expectations of a potential rally following recent oversold conditions.
+
+Apple is facing challenges in its key markets, particularly in China, where iPhone sales have declined amid increasing competition and geopolitical tensions. The company is exploring manufacturing opportunities in Southeast Asia and India to mitigate risks associated with its reliance on China. Analysts suggest that Apple may need to introduce a low-end iPhone model to stimulate growth.
+
+The text also highlights the impact of rising Treasury yields and falling oil prices on the market, indicating a complex economic landscape. The upcoming GDP report is anticipated to show slower growth, which could influence investor sentiment.
+
+In terms of product innovation, wireless charging technology is advancing rapidly, potentially making traditional power cords obsolete. This innovation could have significant implications for various devices beyond smartphones.
+
+Overall, the content reflects a cautious outlook on the tech sector, emphasizing the need for strategic adjustments by companies like Apple to navigate competitive pressures and market dynamics effectively.
+        The latest news highlights significant developments in the technology sector, particularly focusing on major companies like Nvidia (NVDA) and Microsoft (MSFT). 
+
+Nvidia is making headlines with its acquisition of Run:ai, a startup specializing in AI workload management, for approximately $700 million. This move is seen as a strategic effort to enhance Nvidia's capabilities in managing AI hardware infrastructure, which is crucial as demand for AI technologies continues to surge. Despite facing challenges, Nvidia's stock remains a focal point for investors, with analysts suggesting it still holds strong potential.
+
+SK Hynix has also reported a positive outlook, anticipating a full recovery in the memory chip market driven by AI demand. The company recently posted its highest profit in nearly two years, indicating a robust market for advanced DRAM chips used in AI applications.
+
+Microsoft is positioning itself as a leader in the AI space, with analysts adjusting stock price targets ahead of its earnings report. The company is benefiting from the rising effectiveness of AI technologies, particularly in its Azure cloud services. Additionally, Microsoft-backed cybersecurity firm Rubrik has successfully priced its IPO above expectations, raising $736 million, which reflects strong investor confidence.
+
+Overall, the tech sector is witnessing a dynamic shift, with companies like Nvidia and Microsoft at the forefront of AI advancements. The ongoing developments suggest a promising future for these firms as they navigate the evolving landscape of technology and artificial intelligence. Investors are closely monitoring these trends, looking for opportunities in a market that is increasingly driven by AI innovations.
+        A recent appeals court ruling has revived a lawsuit against Whole Foods, accusing the company of unlawfully terminating an employee, Savannah Kinzer, who refused to remove her "Black Lives Matter" facemask and raised concerns about racism within the organization. The court noted that Kinzer's dismissal "arguably deviated" from the company's established disciplinary procedures. However, the court upheld the dismissal of similar claims from two other employees, Haley Evans and Christopher Michno, citing a lack of evidence that their disciplinary actions were atypical.
+
+In the broader retail landscape, the Chinese e-commerce platform Temu has gained significant traction in the U.S. market, capturing 17% of market share and impacting traditional retailers like Amazon. This shift is attributed to rising inflation, which has led American consumers to seek more affordable shopping options.
+
+In India, JioCinema, a streaming service owned by Reliance Industries, has reduced its subscription prices to compete more aggressively with Netflix and Amazon Prime. The platform's new pricing strategy aims to attract more subscribers in a rapidly evolving media and entertainment market.
+
+Meanwhile, Hawaiian Airlines is adjusting its cargo operations, reducing the number of freighters it will operate for Amazon due to supply chain issues and the company's preferences regarding aircraft integration. 
+
+As for the tech sector, Microsoft is set to report its Q3 earnings, with investors keenly watching for growth in artificial intelligence. Additionally, Amazon is introducing custom AI capabilities in its cloud services, aiming to enhance its competitive edge against rivals. 
+
+Overall, these developments reflect ongoing shifts in retail, media, and technology, highlighting the competitive dynamics and challenges faced by major players in these industries.
+        The recent news highlights significant developments in the tech sector, particularly focusing on Tesla and Meta Platforms. 
+
+Tesla has faced challenges in the electric vehicle (EV) market, with analysts noting that adoption rates have not met expectations. Despite this, CEO Elon Musk has managed to rally investor confidence by emphasizing future product pipelines and plans for more affordable EVs, set to begin production in early 2025. Tesla's stock saw a notable increase following Musk's announcements, even as the company grapples with strategic planning issues and a recent tragic incident involving its Autopilot feature.
+
+In contrast, Meta Platforms reported mixed results for its first quarter of 2024. While the company exceeded earnings expectations, its stock plummeted due to a disappointing sales forecast and rising costs associated with its aggressive investment in artificial intelligence (AI). Analysts have expressed concerns about Meta's ability to maintain its momentum in the face of increasing competition and operational costs. Despite these challenges, Meta's advancements in generative AI are seen as a potential growth driver, with the company reworking its advertising strategies to leverage AI capabilities.
+
+Overall, the tech sector is experiencing a mix of optimism and caution, with companies like Tesla and Meta navigating their respective challenges while also seeking new opportunities for growth in an evolving market landscape.
+        The text discusses recent news and developments concerning major tech companies, particularly focusing on Alphabet (Google), Microsoft, and Meta, as well as economic indicators relevant to investors.
+
+On April 25, 2024, several companies, including Microsoft and Alphabet, are set to report their quarterly earnings, with expectations for significant insights into their performance, particularly regarding AI growth. The preliminary GDP data for the first quarter is also anticipated, with projections of a 2% growth rate.
+
+The competitive landscape for AI is highlighted, with Google leveraging its extensive usage data to maintain its lead in search and potentially replicate this success in AI. Meta is preparing to release its Q1 earnings, with analysts closely watching its ad growth and AI initiatives. Recent actions by Google, including the termination of employees protesting a contract with Amazon, indicate a growing tension between corporate policies and employee activism.
+
+In the stock market, Tesla shares have surged, contributing to fluctuations in the Nasdaq index, while broader market trends show stocks trading lower ahead of key earnings reports. The text also notes President Biden's recent legislation regarding TikTok, which could have implications for major tech players like Meta and Google.
+
+Additionally, Alphabet's financial health is underscored by its cash reserves, raising hopes for potential dividends. The company is also exploring new ventures, such as spinning off its Taara project to compete with Starlink in the broadband space.
+
+Overall, the text provides a snapshot of the current state of major tech companies, their earnings expectations, and the broader economic context influencing investor sentiment.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

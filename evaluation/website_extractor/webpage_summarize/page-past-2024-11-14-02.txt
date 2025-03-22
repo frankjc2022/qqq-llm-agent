@@ -1,0 +1,7 @@
+The text provides a summary of recent news regarding major tech companies, particularly focusing on Nvidia (NVDA) and Microsoft (MSFT). 
+
+Nvidia has been in the spotlight due to its significant stake in Applied Digital, which led to a surge in its stock price. The company has also seen a notable increase in its stock value, with analysts raising its price target from $138 to $160, reflecting strong market confidence. Nvidia's collaboration with Softbank aims to enhance AI capabilities in Japan, further solidifying its position in the AI sector. Despite some fluctuations, Nvidia's stock remains a focal point for investors, with discussions around its potential for long-term growth.
+
+On the other hand, Microsoft is facing scrutiny from the Federal Trade Commission (FTC) regarding its cloud business practices. The FTC is investigating allegations that Microsoft may be using its market power to impose restrictive licensing terms that hinder competition. Despite this, Microsoft’s stock has shown resilience, gaining over 3% recently, and the company is leveraging AI to enhance its Azure platform and profitability. 
+
+Both companies are attracting investor attention due to their strategic moves in the AI space, with Nvidia being highlighted for its innovative products and market demand, while Microsoft is noted for its significant investments in cloud and AI infrastructure. The ongoing developments in these companies reflect broader trends in the tech industry, particularly the growing importance of AI technologies.

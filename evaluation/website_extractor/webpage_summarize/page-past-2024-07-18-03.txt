@@ -1,0 +1,11 @@
+The text discusses recent developments and news related to major tech companies, particularly focusing on Amazon, TikTok, and Broadcom. 
+
+Amazon has made headlines with its Prime Day event, which set sales records, reportedly generating around $14 billion in online spending. The company noted that independent sellers sold over 200 million items during this two-day event, marking it as the largest Prime Day to date. Amazon's executive Doug Herrington attributed the success to the global Prime membership base and the appeal of the deals offered.
+
+In the realm of competition, TikTok is facing challenges in its advertising strategies, particularly due to Amazon's decision to prioritize ads within its Prime Video service, which has affected advertising prices in the market. 
+
+Additionally, the text highlights the competitive landscape in artificial intelligence (AI), with OpenAI introducing a new, cost-effective AI model, GPT-4o mini, which could enhance its market position. OpenAI is also reportedly in discussions with Broadcom to develop new AI chips, indicating a strategic move to address the ongoing chip shortage affecting AI model development.
+
+Broadcom's stock has been positively impacted by the demand for AI chips, with analysts predicting a strong earnings season for semiconductor companies. The company is also involved in discussions regarding AI chip development, which could further solidify its position in the tech market.
+
+Overall, the text reflects a dynamic environment in the tech industry, characterized by significant sales achievements, competitive challenges, and strategic partnerships aimed at advancing AI technology.

@@ -1,0 +1,9 @@
+The text provides a collection of recent news articles related to major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+For Amazon, notable updates include the termination of its acquisition of iRobot, a report of better-than-expected revenue growth of 13%, and a significant surge in its market value, reaching a record gain of $190 billion. Additionally, there are discussions around Jeff Bezos's decision to sell a substantial number of Amazon shares and the implications of Prime Day on stock prices. The company is also involved in legal matters, including a lawsuit concerning price competition and a recent victory over a shareholder lawsuit regarding third-party seller capacity.
+
+In terms of innovation, Amazon is enhancing its customer review experience using generative AI, and there are plans to expand its offerings to include used cars. The text also highlights the collaboration between Amazon Web Services (AWS) and NVIDIA to advance generative AI technologies.
+
+For Broadcom, the news includes strong financial results for Q1 of fiscal 2024, with significant revenue and profit growth. The company has also completed a major acquisition of VMware for $69 billion, which is expected to reshape its business landscape. Broadcom's stock performance is under scrutiny, with discussions about its future trajectory and comparisons with other chip stocks.
+
+Overall, the text encapsulates the dynamic landscape of these tech giants, focusing on their financial performance, strategic decisions, and innovations in technology.

@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 490.91.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The latest news regarding major tech companies, particularly those in the QQQ ETF, highlights several key developments. 
+
+On October 16, 2024, a Morningstar report indicated a rebound in inflows for State Street Global Advisors (SSGA) and significant bond ETF flows. The Invesco QQQ Trust is facing a new interest rate outlook, leading to a recommendation to hold. The semiconductor sector is experiencing bearish trends, with the VanEck ETF down 12%, raising concerns about potential losses, particularly regarding Nvidia's influence on the NASDAQ 100.
+
+Employment data, specifically the Establishment and Household Surveys, are crucial for understanding economic conditions and their potential impact on Federal Reserve policy. The stock market is showing mixed signals, with tech stocks stalling while small caps and regional banks are rallying. Notably, 11 out of 30 S&P 500 companies reported positive trends in their third-quarter earnings.
+
+The "Magnificent Seven" tech stocks continue to drive market performance, with a 40% increase this year. Analysts suggest that investors might consider ETFs to gain exposure to these major tech names without directly purchasing individual stocks. 
+
+In other news, Apple Inc. is facing challenges, including a potential loss of one-third of its income from Google due to ongoing antitrust actions. Additionally, Apple's Chief People Officer is leaving after a brief tenure, and the company has been involved in developing long-range batteries in collaboration with BYD, a Chinese automaker.
+
+Overall, the tech sector is navigating a complex landscape of economic indicators, market performance, and corporate developments, with significant implications for investors and the broader market.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Nvidia, Microsoft, and Amazon, and their advancements in artificial intelligence (AI) and energy consumption.
+
+Nvidia is highlighted for its significant role in the AI landscape, with discussions around its stock performance and future potential. Analysts suggest that while Nvidia has seen a recent rebound, it may face a consolidation phase, presenting a potential buying opportunity for long-term investors. The company is also expected to dominate the upcoming earnings season, with its earnings report being highly anticipated.
+
+In the healthcare sector, symplr's CEO emphasizes the importance of AI in improving hospital productivity by streamlining compliance and safety tasks, which currently consume valuable time that healthcare workers could spend on patient care. This reflects a broader trend of AI adoption across various industries.
+
+Amazon, alongside Google and Microsoft, is investing in nuclear power to support its growing energy needs for AI and data center operations. This shift towards nuclear energy indicates a strategic move to enhance sustainability while meeting the demands of AI technologies.
+
+Additionally, the text mentions the "Magnificent Seven" tech stocks, which are driving significant market gains, and discusses investment strategies for gaining exposure to these companies through ETFs. The focus on nuclear energy and AI reflects a growing intersection of technology and sustainability, as companies seek innovative solutions to meet future demands.
+
+Overall, the content underscores the dynamic nature of the tech industry, highlighting key players' strategies and the implications of AI and energy consumption on market trends.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Amazon, Nvidia, and Broadcom. 
+
+Amazon is making headlines for its innovative approach to energy solutions, specifically its $500 million investment in nuclear energy to power its AI data centers. This move aligns with similar initiatives by Microsoft and Google, indicating a trend among tech giants to explore sustainable energy sources for their operations. Additionally, Amazon's AWS is collaborating with Dominion Energy and X-Energy to advance small modular reactors in Virginia.
+
+In the realm of cybersecurity, Arctic Wolf has released a Human Risk Report that identifies key risks companies face, especially during high-interest events like elections. The report emphasizes the increased activity from malicious actors targeting both businesses and individuals during such times.
+
+Nvidia is poised to dominate the upcoming earnings season, with analysts anticipating its report to be a major highlight. The company continues to benefit from the growing demand for AI technologies, which is also reflected in the broader tech market, as stocks approach record highs.
+
+Broadcom is under scrutiny as analysts evaluate its growth potential against its high valuation. The company is experiencing a rally in its stock price, prompting discussions about its future performance and dividend growth prospects.
+
+Overall, the tech industry is witnessing a surge in investments in AI and sustainable energy, with companies adapting to market demands and regulatory pressures. The focus on cybersecurity and operational efficiency in healthcare also underscores the evolving landscape of technology and its implications for various sectors.
+        The latest news highlights significant developments in major tech companies, particularly Tesla and Meta. 
+
+Tesla has faced challenges recently, particularly with its Robotaxi event, which did not meet delivery expectations, leading to investor disappointment. Despite this, Tesla's stock remains a "Hold" as it continues to see growth in electric vehicle (EV) sales, with a record number of EVs purchased in the third quarter, accounting for nearly 9% of all new-car sales. The company is also adapting its operations, appointing a longtime aide to oversee North American and European markets amid increasing competition. Analysts note that Tesla's new Powerwall 3 battery system is part of its strategy to maintain market relevance.
+
+In the solar energy sector, competition is intensifying, particularly from nuclear energy providers. RBC Capital Markets downgraded Enphase Energy due to this competition, as major tech firms like Google are forming partnerships with nuclear developers to power AI data centers. This shift indicates a growing demand for renewable energy solutions.
+
+Meta is also in the spotlight, with reports of layoffs across its platforms, including Instagram and WhatsApp. The company is rolling out new AI tools in the EU, despite facing regulatory challenges. Additionally, discussions around the impact of social media on teen mental health have led to potential lawsuits against Meta.
+
+Overall, the tech landscape is marked by innovation and adaptation, with companies like Tesla and Meta navigating challenges while exploring new opportunities in AI and renewable energy. The ongoing investments in these sectors suggest a focus on future growth and sustainability.
+        The latest news highlights significant developments in the tech industry, particularly focusing on major companies like Amazon, Alphabet (Google), Microsoft, and Nvidia, as they increasingly invest in nuclear energy and artificial intelligence (AI).
+
+Amazon has recently committed to nuclear energy, signing a deal with Dominion Energy and X-Energy to explore small modular reactors in Virginia. This move aligns with similar initiatives by Microsoft and Alphabet, indicating a broader trend among tech giants to secure sustainable energy sources for their AI data centers. Kairos Power's CEO discussed a partnership with Google, emphasizing the importance of nuclear energy in meeting the power demands of AI technologies.
+
+In the healthcare sector, BJ Schaknowski, CEO of symplr, addressed the challenges faced by hospitals as they adopt AI. He noted that many administrative tasks are fragmented, detracting from healthcare workers' ability to provide patient care. This highlights the need for improved efficiency in healthcare systems.
+
+Market analysts are also observing trends in stock performance, with the Dow Jones Industrial Average reaching a record high. The ongoing investments in AI by major tech firms are expected to drive capital expenditures higher into late 2024, further fueling growth in the sector.
+
+Additionally, Nvidia is anticipated to play a pivotal role in the upcoming earnings season, with expectations of strong performance due to its involvement in AI technologies. Overall, the tech industry is witnessing a significant shift towards sustainable energy solutions and the integration of AI across various sectors, reflecting a commitment to innovation and efficiency.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

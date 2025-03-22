@@ -1,0 +1,9 @@
+The text provides recent news updates regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon has been in the spotlight for several reasons. The company announced a significant investment of up to $230 million in generative AI startups, aiming to enhance its AWS cloud services. This investment is part of a broader strategy to position AWS as a leading choice for startups developing AI applications. Additionally, Amazon is increasing its commitment to affordable housing, adding $1.4 billion to its existing $2.2 billion investment, which aims to create and preserve 14,000 affordable homes across various cities.
+
+In terms of stock performance, Amazon's shares have seen fluctuations, recently closing at $183.83, down 1.64% from the previous day. Despite this, analysts suggest that Amazon remains a strong long-term investment, particularly due to its cloud-computing unit and the growth of its Prime Video service.
+
+Broadcom has also made headlines, particularly with its strong Q2 earnings report, which exceeded expectations and led to a significant rise in its stock price. The company is benefiting from the increasing demand for AI chips, which is expected to contribute to 25% of its total revenue by FY24. Broadcom's integration of VMware is also highlighted as a key factor in its growth strategy.
+
+Overall, both Amazon and Broadcom are navigating a rapidly evolving tech landscape, with investments in AI and housing, alongside strong financial performances, positioning them favorably in the market.

@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 473.96.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments in the stock market, particularly focusing on tech companies and the QQQ Trust ETF. As of June 24, 2024, the QQQ ETF has experienced significant gains in 2024, but analysts warn of potential risks due to rising valuations. The overall stock market is under scrutiny, with questions about whether it can maintain its upward momentum or if a pullback is imminent.
+
+Key highlights include a notable surge in the S&P 500 and NASDAQ, which have risen 45% and 82% respectively since the beginning of 2023. Economic indicators suggest a shift, with stagflation risks diminishing but recession odds increasing, as reflected in declining economic surprise indices. Market sentiment appears to be shifting, with a decrease in short interest indicating a growing risk appetite among investors.
+
+In the tech sector, Apple is facing regulatory challenges from the European Union under its Digital Markets Act, which alleges that Apple's App Store practices hinder competition. Analysts believe that while Apple may need to adjust its practices, the long-term impact on the company's value may be limited. Additionally, discussions between Apple and Meta regarding an AI partnership have reportedly stalled, with Apple prioritizing privacy concerns.
+
+The health industry is also making headlines, with companies like Altimmune and Novo Nordisk reporting positive developments in their drug trials and manufacturing expansions. Overall, the market is characterized by mixed signals, with some sectors thriving while others face challenges, particularly in the tech and cryptocurrency spaces.
+        The latest news highlights significant developments in the tech sector, particularly focusing on Nvidia (NVDA) and Microsoft (MSFT). Nvidia has experienced a notable downturn, with its stock falling 13% over three days, prompting traders to analyze potential support levels. Despite this, market analysts, including Riley Wealth's Art Hogan, suggest that the broader market can maintain momentum even without Nvidia leading the charge. The company recently underwent a 10-for-1 stock split, which initially boosted its shares.
+
+In contrast, Arm Holdings has seen a remarkable rise, with shares increasing nearly 140% since its public debut in September 2023. The CEO of Arm, Rene Haas, discussed the company's positive outlook following its addition to the Nasdaq 100.
+
+Meanwhile, Microsoft has also been in the spotlight, with its stock reaching an all-time high before experiencing a slight pullback. Analysts remain optimistic about Microsoft's future, particularly regarding its cloud services and AI initiatives. The company’s recent investment in AI firm G42 is viewed positively, especially as it distances itself from Huawei.
+
+The European Union has charged Apple with violating the Digital Markets Act, alleging that its App Store practices hinder competition. Analysts believe that while Apple may need to adjust its practices, the long-term impact on its stock value will be minimal.
+
+In the health sector, companies like Altimmune and Novo Nordisk are making strides, with positive trial results and significant investments in manufacturing capabilities for weight-loss drugs. Overall, the tech landscape is marked by volatility, regulatory challenges, and ongoing innovation, particularly in AI and health technologies.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon's recent activities include the appointment of a new executive for Google Shopping, who aims to enhance competition with Amazon's Prime Day. The company is also collaborating with Shopify to expand its marketplace offerings. Amazon's stock has shown significant growth, with a notable increase in its Relative Strength Rating, indicating strong market performance. Additionally, Amazon is facing regulatory challenges in the EU, which could impact its operations.
+
+Broadcom is highlighted as a growth stock, particularly due to its contributions to artificial intelligence (AI) and VMware. The company has recently announced a 10-for-1 stock split and has exceeded earnings expectations, reflecting strong demand for AI chips. The semiconductor industry is experiencing a boom, with companies like Nvidia and Broadcom leading the charge, as tech stocks continue to drive market gains.
+
+The text also discusses the broader market context, noting that the Nasdaq has risen significantly over the past year, driven by investor interest in AI-related stocks. The upcoming VMware Explore 2024 conference is mentioned, which will showcase innovations in cloud technology.
+
+Overall, the technology sector is characterized by rapid growth, strategic partnerships, and regulatory challenges, with companies like Amazon and Broadcom at the forefront of these developments. The focus on AI and e-commerce continues to shape the landscape, indicating a dynamic and competitive environment.
+        The text discusses recent developments concerning major tech companies, particularly Tesla and Meta Platforms. 
+
+For Tesla (TSLA), the latest news highlights concerns about the company's second-quarter vehicle deliveries, which are expected to decline year-over-year due to challenges in the European market. Analysts from UBS have indicated that Tesla's performance may trail consensus expectations, leading to speculation about the company's future. Despite current struggles, there is optimism surrounding Tesla's long-term potential, especially in relation to AI advancements. A notable Wall Street analyst has suggested that Tesla could see significant growth due to its AI business, ranking it among the top AI stocks in the tech sector.
+
+In the case of Meta Platforms (META), reports indicate that Apple is not pursuing an AI partnership with Meta, despite previous discussions. This decision stems from concerns over Meta's privacy practices. Meta's stock has shown resilience, with recent gains attributed to its ongoing developments in AI technology. The company is actively rolling out AI tools in the EU, despite facing regulatory challenges. Additionally, Meta is focusing on enhancing customer engagement through AI options in its messaging services.
+
+Overall, the tech sector is experiencing volatility, with companies like Tesla and Meta navigating both opportunities and challenges in the evolving landscape of AI and market competition. Investors are closely monitoring these developments as they could significantly impact stock performance and future growth trajectories.
+        The text discusses recent developments and news related to major tech companies, particularly focusing on Alphabet Inc. (GOOGL) and Apple Inc. 
+
+Key highlights include:
+
+1. **UK Economic Warnings**: Rishi Sunak and Labour leader Keir Starmer exchanged warnings regarding the UK economy as the general election approaches, indicating a tense political climate.
+
+2. **Apple and Meta**: Apple reportedly declined a proposal from Meta to integrate its AI chatbot into the iPhone, showcasing the competitive landscape in technology and AI.
+
+3. **Alphabet's AI Position**: Alphabet is recognized as a leading player in the AI sector, with analysts suggesting it is undervalued in this space. The company is also set to enhance its search capabilities with the introduction of public profiles.
+
+4. **Google Shopping**: The new General Manager of Google Shopping, Sean Scott, emphasized the importance of starting online shopping on Google, hinting at strategic plans to compete with other platforms like Amazon.
+
+5. **Regulatory Challenges for Apple**: Apple faces increasing regulatory scrutiny in the EU, which has found the company in violation of laws aimed at curbing the power of tech giants.
+
+6. **Stock Performance**: Alphabet's stock is highlighted as a strong investment, with analysts suggesting it is one of the best AI stocks to consider for 2024.
+
+7. **Innovations and Partnerships**: The text mentions various innovations, including new AI tools for Google Workspace and a partnership between Oracle and Google Cloud, indicating ongoing advancements in technology and cloud services.
+
+Overall, the content reflects a dynamic environment in the tech industry, marked by competition, regulatory challenges, and strategic innovations.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

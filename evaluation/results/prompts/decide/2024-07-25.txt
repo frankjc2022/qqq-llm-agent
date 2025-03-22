@@ -1,0 +1,65 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 458.27.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments and analyses concerning major tech companies, particularly those represented in the QQQ index. Key highlights include:
+
+1. **Ameriprise Financial**: The company is showing early signs of revenue growth that may surpass 2023 levels, although concerns about a potential recession linger due to economic indicators.
+
+2. **Market Dynamics**: Recent stock market fluctuations are attributed to changing expectations regarding global monetary policies, which have affected currency markets and interest rates. Analysts suggest that if the market closes down, selling pressures may increase.
+
+3. **Technical Analysis**: There are indications of a possible corrective movement in major indices, with predictions of a potential 17% decline. This has led to recommendations for investing in large-cap tech stocks.
+
+4. **AI and Tech Trends**: The excitement around artificial intelligence is noted, particularly with OpenAI's ChatGPT, which has gained significant traction among Fortune 500 companies. This growth is influencing partnerships and innovations in the tech sector.
+
+5. **Earnings Outlook**: Several high-profile tech companies, including Apple, Meta, Amazon, and Microsoft, are highlighted as they prepare for upcoming earnings reports. Analysts are optimistic about Apple's earnings potential, citing strong fundamentals despite recent stock pressures.
+
+6. **Universal Music Group**: The company faced a significant drop in stock value due to disappointing streaming revenue, raising concerns about the broader implications for tech and entertainment sectors.
+
+7. **Epic Games**: The return of Fortnite to Apple's iOS in the EU is anticipated, signaling a positive development for the gaming industry.
+
+Overall, the text encapsulates a landscape of cautious optimism amid market volatility, with a focus on the performance and future prospects of key tech players.
+        The text discusses recent developments and trends in the technology sector, particularly focusing on major companies like Nvidia, Amazon, and Microsoft. 
+
+Nvidia's stock has faced volatility following a significant sell-off in tech stocks, raising concerns among investors. Despite this, analysts suggest that Nvidia still holds potential for growth, contingent on optimistic market conditions. The company is also under pressure as competitors like Amazon develop their own AI chips to reduce dependency on Nvidia's products, which are seen as costly.
+
+Amazon is actively working on AI chip development, aiming to create more affordable alternatives to Nvidia's offerings. This initiative is part of a broader trend where companies are pivoting towards artificial intelligence, often at the expense of other projects. Analysts note that this shift is driven by a fear of missing out on the AI revolution, leading to mixed results for companies not engaged in this space.
+
+In the semiconductor industry, the recent downturn presents opportunities for investors to identify high-growth companies beyond established giants. Analysts recommend a mid- to long-term investment approach, focusing on firms like Qualcomm that are well-positioned for future growth.
+
+Additionally, the text highlights the impact of recent market turbulence on investor strategies, particularly regarding leveraged ETFs tied to Nvidia. The overall sentiment suggests caution among investors as they navigate the current market landscape, with a focus on identifying resilient stocks amid ongoing volatility.
+
+In summary, the technology sector is experiencing significant shifts, particularly in AI and semiconductor markets, with companies adapting to new challenges and opportunities. Investors are advised to remain vigilant and consider long-term strategies in this evolving environment.
+        The latest news highlights the competitive landscape in the beauty retail sector, particularly focusing on Ulta Beauty (ULTA) and its challenges against rivals like Amazon (AMZN) and Sephora. Piper Sandler analyst Korinne Wolfmeyer downgraded Ulta from Overweight to Neutral, citing increased competition and a decline in consumer loyalty. She noted that Ulta's promotional strategies are reactive to the competitive pressures from both physical retailers and online platforms, particularly Amazon, which has expanded its prestige beauty offerings. Wolfmeyer emphasized that consumers are diversifying their shopping habits, seeking products from various retailers rather than remaining loyal to a single brand.
+
+In the broader tech sector, the "Magnificent 7" stocks, including major players like Apple and Microsoft, are experiencing pressure despite strong fundamentals. Analysts suggest that this downturn may present opportunities for investors to identify high-growth companies, particularly in the semiconductor industry, which is currently facing a sell-off. Patrick Moorhead from Moor Insights & Strategy pointed out that the shift towards generative AI is influencing market dynamics, with companies that are not engaged in this trend experiencing mixed results.
+
+Additionally, Amazon's recent announcement of an 11-year deal to stream NBA games on Prime Video marks a significant expansion in its sports content strategy, further solidifying its position in the market. The overall sentiment in the tech and beauty sectors reflects a need for innovation and adaptability as consumer preferences evolve and competition intensifies.
+        The text discusses recent developments in the technology and automotive sectors, particularly focusing on major companies like Tesla, Ford, and Alphabet. 
+
+Tesla's stock has experienced significant volatility, with CEO Elon Musk expressing skepticism about the desirability of immortality, suggesting that societal change often comes with generational shifts. The company reported a 45% drop in second-quarter profits, attributed to declining sales despite price cuts. Analysts are concerned about Tesla's future performance, especially as the company faces challenges in maintaining its market position.
+
+In the automotive industry, major players such as Ford and Stellantis reported disappointing second-quarter earnings, leading to a notable decline in their stock values. Despite these setbacks, industry experts, including Kevin Roberts from CarGurus, assert that the auto sector remains fundamentally healthy and is undergoing a necessary rebalancing. The discussion highlights the ongoing transition towards electric vehicles (EVs), noting an imbalance between supply and demand.
+
+The broader market context includes a mixed performance of major indexes following a tech sell-off, influenced by the earnings reports from key tech companies. The upcoming 2024 election is anticipated to impact regulatory approaches towards startups and large corporations, with differing views on antitrust policies between political figures.
+
+Additionally, Meta Platforms is making headlines with its AI initiatives and potential acquisition interests, including a stake in EssilorLuxottica. The company is also facing scrutiny regarding its handling of AI-generated content and is urged to refine its policies.
+
+Overall, the text encapsulates a period of adjustment and uncertainty in both the tech and automotive sectors, with significant implications for investors and market dynamics.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Alphabet (Google), OpenAI, and the auto industry. 
+
+Federal Trade Commission Chair Lina Khan emphasized the importance of open AI models in fostering competition, suggesting that less restrictive models could help prevent monopolies. The ongoing market dynamics are highlighted, with small-cap stocks gaining traction as major tech companies like Tesla and Alphabet faced disappointing earnings, leading to a mixed close for major indexes.
+
+The auto industry is under scrutiny as companies like Ford and Stellantis reported weaker-than-expected second-quarter earnings, although analysts maintain that the sector remains healthy. The upcoming 2024 election is poised to influence regulatory approaches towards big tech, with differing agendas from former President Trump and Vice President Harris. Investors are reportedly leaning towards Trump-era policies, which they believe may be more favorable for business transactions.
+
+OpenAI's recent launch of SearchGPT is positioned as a direct challenge to Google, aiming to reshape the AI search landscape. Meanwhile, Google has made strides in AI, unveiling systems that tackle complex mathematical problems, a significant advancement in generative AI capabilities.
+
+In the stock market, notable movements included Ford's earnings miss, Tesla's stock rise, and IBM's better-than-expected profits. The text also mentions the broader implications of AI advancements on the tech industry and the competitive landscape, particularly as companies like OpenAI and Google vie for dominance in AI-driven search technologies. Overall, the content reflects a rapidly evolving tech environment marked by regulatory considerations, market fluctuations, and technological innovations.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,71 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 442.06.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and trends in the technology sector, particularly focusing on major companies and market dynamics. Key highlights include:
+
+1. **Market Trends**: There are growing concerns about stagflation, as indicated by recent data. Consumer confidence is low, and inflation expectations are rising, impacting stock performance. The S&P 500 has shown resilience, with a significant percentage of companies exceeding earnings expectations.
+
+2. **Apple Inc. Updates**: Apple is facing challenges with its App Store payment options, as major developers are hesitant to adopt new payment methods due to high fees. Despite a drop in iPhone sales, Apple announced a record $110 billion stock buyback, which positively influenced its stock performance.
+
+3. **Artificial Intelligence (AI) Impact**: The ongoing AI revolution is reshaping the tech landscape, with companies like Microsoft reporting substantial capital expenditures related to AI. This shift is driving demand for edge computing, which enhances processing capabilities on user devices.
+
+4. **Earnings Reports**: Companies such as Jamf Holding Corp reported strong financial performance, exceeding revenue forecasts. The earnings season has generally been positive, with many firms in the S&P 500 showing robust results.
+
+5. **Geopolitical Factors**: Upcoming elections in numerous countries could introduce new risks for equity markets, as foreign policy and regional economics may significantly influence market trends.
+
+6. **Investment Insights**: Analysts are discussing the implications of current market conditions, including potential recessionary trends and the importance of capital imbalances in value investing.
+
+Overall, the text provides a snapshot of the current state of the tech market, highlighting both challenges and opportunities for investors and companies alike.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Nvidia, Microsoft, and Broadcom. As of May 10, 2024, the stock market is nearing record highs, with investors closely monitoring upcoming inflation reports. Nvidia's stock has seen substantial growth, tripling over the past year, yet analysts believe it remains undervalued. A Wall Street analyst has even speculated that Nvidia's stock could reach $1,100.
+
+Broadcom has recently overtaken Nvidia as the top choice for mutual funds, indicating a shift in investor sentiment. Meanwhile, SoundHound AI has gained attention following a strong quarterly performance, prompting discussions about whether it is a good time to buy or sell its stock.
+
+The Dow Jones Industrial Average has experienced a notable rally, driven by strong performances from companies like McDonald's and 3M, while tech giants such as Micron and Nvidia continue to show resilience. Taiwan Semiconductor Manufacturing Company (TSMC) reported impressive sales, contributing to its stock's bullish trend.
+
+In the realm of artificial intelligence, the ongoing "AI revolution" is underscored by significant capital expenditures from major firms, including Microsoft and Alphabet. Analysts predict that this trend will continue to reshape the tech landscape. Microsoft is also preparing to launch its mobile game store, aiming to compete with existing platforms.
+
+Additionally, CoreWeave, a cloud computing company focused on AI, has opened its European headquarters in London, reflecting the growing demand for AI infrastructure. Overall, the tech sector is poised for continued growth, driven by advancements in AI and strategic investments from leading companies.
+        The text provides a comprehensive overview of recent developments and analyses concerning major tech companies, particularly focusing on stocks like Amazon (AMZN), Nvidia, and Broadcom (AVGO). 
+
+Key highlights include:
+
+1. **Amazon's Market Position**: Amazon continues to be a dominant player in both e-commerce and cloud computing, with recent reports indicating strong performance and a renewed focus on supporting small businesses during National Small Business Week. Analysts remain optimistic about AMZN's stock, citing its consistent growth and market strategies.
+
+2. **Nvidia's Stock Potential**: Nvidia's stock has seen significant appreciation, tripling in value over the past year. Analysts suggest that it may still be undervalued, drawing comparisons to early investments in Amazon. The company is recognized for its leadership in the GPU market, which is crucial for AI and gaming technologies.
+
+3. **Retail Earnings Outlook**: As the Q1 earnings season progresses, attention shifts to retail companies, with expectations of varied performance as they navigate a challenging economic landscape.
+
+4. **Broadcom's Growth Prospects**: Broadcom is highlighted for its strong financial results and strategic positioning in the semiconductor industry. The company is gaining traction with significant investments and partnerships, particularly in AI technologies.
+
+5. **Market Trends**: The tech sector is experiencing a rally, with companies like Taiwan Semiconductor Manufacturing Company (TSMC) reporting strong sales, contributing to a positive outlook for chip stocks. The overall market is showing resilience, with the Dow Jones performing well amid broader economic recovery.
+
+Overall, the text emphasizes the dynamic nature of the tech industry, showcasing the potential for growth and investment opportunities in leading companies.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Tesla, Novavax, and Meta. 
+
+Tesla has been in the spotlight due to CEO Elon Musk's recent decisions regarding the Supercharger network. After significant layoffs within the Supercharger team, Musk announced plans to invest over $500 million to expand the network, addressing concerns about the pace of growth and operational efficiency. Additionally, Tesla faces legal challenges related to its Autopilot feature, with a lawsuit claiming misleading marketing following a fatal crash.
+
+Novavax has made headlines with a substantial $1.2 billion vaccine deal with Sanofi, marking a significant turnaround for the company after a challenging post-pandemic period. Meanwhile, Sweetgreen and Taiwan Semiconductor Manufacturing Company (TSMC) have reported strong earnings, with TSMC's sales surging nearly 60% year-over-year, driven by demand for artificial intelligence technologies.
+
+In broader market news, the Biden administration is considering increasing tariffs on Chinese-made automobiles, which could have mixed effects on the market. Consumer sentiment has also dipped, complicating the Federal Reserve's efforts to manage inflation.
+
+Meta Platforms is navigating its own challenges, with a new podcast series exploring its ambitious investments in the metaverse. Despite strong quarterly results, investor expectations remain high, leading to scrutiny of the company's performance.
+
+Overall, the technology sector is experiencing significant shifts, with companies adapting to market demands, regulatory pressures, and evolving consumer expectations, particularly in the realms of AI and electric vehicles.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like OpenAI and Alphabet (Google). 
+
+OpenAI is set to launch a new AI-powered search engine that could compete with Google, generating significant interest in the tech community. This announcement comes amid a broader trend where artificial intelligence is increasingly influencing various industries, including pharmaceuticals, where AI is being utilized for drug discovery and understanding disease mechanisms. The advancements in AI, such as AlphaFold 3, are noteworthy for their ability to predict biological structures, which could revolutionize medical research.
+
+Additionally, the article highlights the current state of consumer sentiment, which has dropped to a six-month low, potentially complicating the Federal Reserve's efforts to manage inflation. This economic backdrop is critical as it may affect investment strategies and market dynamics.
+
+Alphabet's recent performance is also discussed, with positive indicators such as share buybacks and potential dividend growth, suggesting a favorable outlook for shareholders. The text mentions the competitive landscape, particularly how OpenAI's developments might overshadow announcements expected from Google at their upcoming I/O event.
+
+Overall, the content reflects a rapidly evolving tech landscape where AI is at the forefront, influencing market strategies and consumer behavior, while also highlighting the competitive pressures faced by established companies like Google.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,15 @@
+The text provides recent news updates about major tech companies, particularly focusing on Tesla and Meta. 
+
+**Tesla Updates:**
+- Tesla's annual shareholder meeting on June 13, 2024, saw CEO Elon Musk's $56 billion pay package approved again, despite prior opposition from major institutions. This approval reflects strong support from small investors.
+- A Canadian individual pleaded guilty to stealing Tesla's trade secrets related to battery manufacturing, highlighting ongoing security concerns.
+- Musk announced plans for Tesla to begin producing the Cybertruck's non-foundation series in the upcoming quarter and aims to achieve cost parity for Tesla's 4680 batteries by year-end.
+- Tesla's stock performance has been mixed, with a significant drop in shipments in China due to increasing competition. The company has also faced challenges, including a 55% drop in first-quarter profits, yet stock prices have shown resilience.
+
+**Meta Updates:**
+- Meta is undergoing a restructuring, reducing its number of vice presidents as part of a broader efficiency initiative led by CEO Mark Zuckerberg.
+- The company is optimistic about future performance, particularly in light of a boost from Chinese e-commerce platforms.
+- Meta is actively rolling out AI tools in the EU, despite facing regulatory challenges, and has introduced the Meta Llama 3, a new language model.
+- Concerns have been raised regarding Meta's AI advisory council composition, which has been criticized for lacking diversity.
+
+Overall, the updates reflect significant developments in corporate governance, product innovation, and competitive challenges faced by these leading tech companies.

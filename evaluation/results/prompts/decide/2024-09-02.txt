@@ -1,0 +1,71 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is .
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments and analyses concerning major tech companies, particularly those represented in the QQQ index. Key highlights include:
+
+1. **Market Sentiment and Economic Indicators**: The upcoming jobs report is anticipated to significantly impact market sentiment and Federal Reserve interest rate decisions. Analysts are closely monitoring this data as it could influence the likelihood of rate cuts.
+
+2. **Stock Performance Trends**: The S&P 500 is nearing all-time highs, with notable support from major companies like Microsoft and Apple. However, concerns about potential recession signals and inflation data persist, which could affect market stability.
+
+3. **Sector Analysis**: The text discusses the performance of various S&P 500 sectors during previous rate cuts, providing insights into how different sectors may react to changing economic conditions.
+
+4. **Tech Innovations and Competitions**: Huawei is set to launch new products, including a trifold phone and a Tesla rival, shortly after Apple's iPhone 16 event. This highlights the competitive landscape in the tech sector.
+
+5. **Investment Strategies**: There is a focus on identifying promising stocks, particularly in the AI sector, as spending in this area is expected to triple in the coming years. Analysts suggest several stocks that could be beneficial for investors looking to capitalize on this trend.
+
+6. **Company-Specific News**: Apple is in the spotlight with its upcoming product announcements and strategic moves, including a significant stock buyback and changes in executive leadership.
+
+Overall, the text emphasizes the dynamic nature of the tech market, the importance of economic indicators, and the competitive strategies of leading companies as they navigate a complex financial landscape.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Nvidia, Microsoft, and Apple, as well as market trends and investment insights.
+
+Nvidia has been highlighted for its impressive performance driven by AI innovations, with its stock experiencing fluctuations following earnings reports. The company reported a revenue of $30 billion for the second quarter of 2025, surpassing expectations, yet its stock faced a decline post-announcement. Analysts are closely monitoring Nvidia's international revenue trends and its potential investments in OpenAI, which could significantly impact its future growth.
+
+Microsoft is also in the spotlight, with reports indicating that it is well-positioned to benefit from the growth of AI technologies. The company has seen fluctuations in its stock price, particularly after a cloud services miss overshadowed better-than-expected earnings. Additionally, Microsoft has been involved in partnerships aimed at enhancing AI capabilities, including collaborations with Palantir and Lumen Technologies.
+
+The broader market context reveals concerns about economic conditions, as Wall Street experienced a downturn, with the Dow dropping significantly. Investors are particularly attentive to upcoming job reports that may influence Federal Reserve interest rate decisions.
+
+In summary, the text encapsulates the dynamic landscape of the tech industry, emphasizing the performance and strategic moves of key players like Nvidia and Microsoft, while also reflecting on the overall market sentiment and economic indicators that could shape future investment strategies.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon has made significant strides in warehouse automation, enhancing its operational efficiency through key talent acquisitions. The company has also migrated its SAP environments to Amazon Web Services (AWS), which is part of a broader strategy to modernize and optimize its business operations. Additionally, Amazon reported record-breaking sales during its Prime Day event, indicating strong consumer engagement despite cautious forecasts regarding future revenue.
+
+In the broader market context, the Federal Reserve's potential interest rate cuts are a focal point, with implications for various sectors, including technology. Analysts are closely monitoring the performance of tech stocks, particularly in light of macroeconomic factors such as inflation and asset bubbles.
+
+Broadcom is highlighted for its strong performance and optimistic outlook from Wall Street analysts, particularly in the context of its involvement in the 5G and AI sectors. The company has seen substantial returns over the past five years, making it an attractive option for investors. Analysts are also discussing the potential impact of Broadcom's upcoming earnings report on its stock performance.
+
+Overall, the news reflects a dynamic landscape in the tech sector, with companies like Amazon and Broadcom navigating challenges and opportunities in a rapidly evolving market. The focus on automation, cloud services, and strategic investments in technology positions these companies for continued growth and innovation.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly Tesla and Meta Platforms, as of September 2024.
+
+**Tesla Updates:**
+1. **Stock Forecasts and Performance:** Analysts have made bold predictions regarding Tesla's stock, with some suggesting it could mirror Apple's success. Tesla's stock has seen fluctuations, with recent reports indicating a 6% drop in one day, prompting discussions about its future performance.
+2. **Sales and Production:** Tesla's vehicle shipments from its Shanghai factory increased in August, attributed to a government subsidy encouraging trade-ins for electric vehicles. The company reported a 3% rise in sales year-over-year, alongside competition from local EV manufacturers.
+3. **Investor Sentiment:** Notable investors, including Ross Gerber, have expressed concerns about Tesla's performance, indicating a potential shift in their investment strategies.
+
+**Meta Platforms Developments:**
+1. **Stock Performance:** Meta's shares have surged by 47% year-to-date, driven by advancements in AI across its platforms. The company has also seen a significant return on investment over the past five years.
+2. **AI and Sustainability Initiatives:** Meta is actively rolling out AI tools in the EU and has entered into agreements for renewable energy projects, including geothermal power to support its data centers. These initiatives reflect a commitment to sustainability and innovation.
+3. **Regulatory Challenges:** The company faces scrutiny over its use of facial recognition technology, resulting in a substantial financial settlement with Texas.
+
+Overall, the text highlights the dynamic landscape of the tech industry, focusing on stock performance, production updates, and strategic initiatives aimed at sustainability and technological advancement.
+        The text provides a comprehensive overview of recent news and analyses concerning major tech companies, particularly Alphabet Inc. (GOOGL), and their performance in the stock market. Key highlights include:
+
+1. **Bridgewater Associates' Portfolio**: The Q2 2024 portfolio of Ray Dalio's Bridgewater Associates showed significant changes, including increased stakes in major companies like Amazon, Microsoft, Johnson & Johnson, and AMD.
+
+2. **Investor Interest in Alphabet**: Alphabet has garnered considerable attention from investors, with discussions around its stock performance and future prospects. Analysts are exploring whether GOOGL remains a strong investment, especially in light of its recent earnings reports and market conditions.
+
+3. **Artificial Intelligence (AI) Investments**: The text emphasizes the growing importance of AI, with predictions that spending in this sector will triple in the coming years. Companies positioned to benefit from this trend are highlighted, including Alphabet, which has made significant investments in AI technologies.
+
+4. **Market Analysis**: The upcoming jobs report is noted as a critical factor that could influence Federal Reserve interest rate decisions. Additionally, the performance of the S&P 500 and its resilience post-Nvidia earnings is discussed, with a focus on potential recession signals and inflation data.
+
+5. **Alphabet's Strategic Moves**: Recent developments include Alphabet's acquisition of the Israeli startup Wiz for $32 billion and plans to spin off its wireless optical broadband project, Taara, indicating a strategic shift towards enhancing its technological capabilities.
+
+Overall, the text reflects a dynamic landscape for tech stocks, particularly Alphabet, as it navigates market challenges and opportunities in AI and other sectors.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

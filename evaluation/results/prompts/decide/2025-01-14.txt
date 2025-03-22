@@ -1,0 +1,70 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 505.08.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies and market trends. Key highlights include:
+
+1. **Economic Indicators**: The Producer Price Index indicates that wholesale inflation increased less than expected in December, while the Consumer Price Index shows a notable rise in inflation driven by core services. Small business optimism has surged significantly, marking a record increase in expectations.
+
+2. **Market Performance**: The Nasdaq 100 has experienced a decline, nearly erasing its gains since the last U.S. presidential election. Predictions suggest a slower growth rate for the upcoming fourth-quarter GDP report, with concerns about market performance in early 2025 due to negative fiscal velocity.
+
+3. **Investment Insights**: Analysts are advising caution regarding certain investments for 2025, highlighting stocks to avoid and suggesting dividend stocks as potential value picks amidst high S&P 500 valuations.
+
+4. **Company-Specific News**: 
+   - **Apple Inc. (AAPL)**: The company is facing challenges, including a significant annual loss in its streaming service, Apple TV+. Despite this, there is optimism regarding product sales, with reports of strong consumer demand.
+   - **Meta**: The company is under scrutiny for its valuation compared to peers, which are perceived to offer better growth opportunities.
+   - **Qualcomm**: Recent hires suggest a renewed focus on data-center chips, potentially impacting competitors like Intel.
+
+5. **Regulatory Developments**: Google is facing increased regulatory pressure with a new competition probe, reflecting ongoing scrutiny of major tech companies.
+
+Overall, the text encapsulates a landscape of cautious optimism mixed with significant challenges for tech companies, highlighting economic indicators, market trends, and company-specific developments.
+        The text provides a comprehensive overview of recent developments and analyses concerning major tech companies, particularly Nvidia (NVDA) and Microsoft (MSFT), as well as insights into the broader stock market.
+
+Nvidia's performance is highlighted, with discussions on its strong stock selection and potential for growth in 2025, driven by advancements in AI and quantum computing. The company is facing challenges, including a recent statement from CEO Jensen Huang regarding the long-term viability of quantum computing, which has affected stock prices. Despite this, analysts remain optimistic about Nvidia's value proposition, suggesting it could be a strong investment opportunity.
+
+Microsoft is also featured prominently, with commentary on its diversified business model that supports robust growth. Analysts recommend MSFT as a solid investment, citing its resilience in the face of competition and high capital expenditures. The company is pushing for businesses to prepare for quantum technology, indicating its commitment to innovation.
+
+The text also touches on the performance of other tech stocks, including TSMC, which is noted for its promising AI-driven growth, and Meta, which is facing challenges in valuation compared to its peers. OpenAI's introduction of new features to enhance its AI capabilities is mentioned, reflecting the competitive landscape in the tech sector.
+
+Overall, the content emphasizes the dynamic nature of the tech industry, with a focus on investment opportunities and the strategic moves of leading companies as they navigate market challenges and technological advancements.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO), as well as insights into market trends and stock performance.
+
+Amazon has been in the spotlight for its strong stock performance, even amidst market fluctuations. The company has expanded its healthcare offerings through a partnership with Teladoc, indicating a strategic move into the health sector. Analysts are divided on Amazon's future stock movements, with some expressing uncertainty compared to Alphabet's (Google) stock, which is viewed as having more growth potential.
+
+Broadcom has also garnered attention, with analysts highlighting its strong revenue growth and potential in the AI sector. The company is positioned to benefit from custom AI chips and strategic partnerships, suggesting a promising outlook for 2025. Recent earnings reports indicate record revenue, and Broadcom's stock has seen significant gains, reflecting investor confidence.
+
+The Dow Jones Industrial Average has experienced fluctuations influenced by inflation reports and stock performances from companies like Nvidia and Salesforce. Nvidia, while facing challenges due to new AI export restrictions, has seen stock gains, indicating resilience in the tech sector.
+
+Overall, the tech industry is navigating a complex landscape with varying stock performances and strategic expansions. Companies like Amazon and Broadcom are making significant moves that could shape their futures, while broader market trends continue to influence investor sentiment.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly Tesla (TSLA) and Meta Platforms (META), as well as insights into the stock market and investment strategies.
+
+Tesla's stock has faced challenges, with reports indicating a decline in its value and underperformance compared to the market. Analysts have noted that despite these setbacks, there are bullish projections for the stock, with one analyst raising the bull case to $800. Tesla plans to introduce a $25,000 electric vehicle (EV) in 2025 and aims to diversify its revenue streams, although it faces vulnerabilities in the current market landscape.
+
+In the broader stock market context, the Dow Jones and S&P 500 have shown volatility, with natural gas stocks experiencing a breakout. Investment strategies for 2025 are being discussed, including recommendations to avoid certain underperforming investments and highlighting dividend stocks that offer value amidst high market valuations.
+
+Meta Platforms is also under scrutiny, with its stock underperforming relative to competitors. Discussions around the potential acquisition of TikTok by Elon Musk have emerged, raising questions about the implications of such a deal. Additionally, Meta is reportedly planning to reduce its workforce by 5% due to underperformance.
+
+Overall, the text reflects a cautious outlook on tech stocks, emphasizing the need for strategic investment choices in a fluctuating market environment. The focus on Tesla and Meta illustrates the ongoing challenges and opportunities within the tech sector as investors navigate potential risks and rewards.
+        The text provides a comprehensive overview of recent news and analyses concerning major tech companies, particularly those in the QQQ index, as of January 2025. 
+
+Key highlights include:
+
+1. **Alphabet Inc. (GOOGL)**: The company is facing a new competition probe from regulators, marking a significant scrutiny of its search services. Analysts suggest that despite recent underperformance, there is potential for growth in its stock. The company is also noted for its strong position in quantum computing investments.
+
+2. **Microsoft**: The company is praised for its diversified business model, which is expected to drive strong execution and growth. Analysts recommend MSFT stock as a solid investment despite challenges such as high capital expenditures and competition in artificial intelligence.
+
+3. **Meta Platforms**: The stock is viewed as one of the least attractive in the tech sector, with analysts highlighting its less favorable valuation compared to peers that present better growth opportunities.
+
+4. **Tesla**: The company plans to launch a $25,000 electric vehicle in 2025 and aims to diversify its revenue streams, although it faces vulnerabilities in the market.
+
+5. **Market Trends**: The Franklin Global Equity Fund's performance is discussed, noting that it outperformed its benchmark due to effective stock selection. Conversely, the Franklin DynaTech Fund underperformed, attributed to sector allocation decisions.
+
+Overall, the text reflects a dynamic landscape in the tech sector, with companies navigating regulatory challenges, market competition, and investment opportunities. Analysts remain cautiously optimistic about certain stocks while highlighting the risks associated with others.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

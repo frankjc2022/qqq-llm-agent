@@ -1,0 +1,59 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 479.19.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments in the technology sector, particularly focusing on major companies and their stock performance. Key highlights include:
+
+1. **Federal Reserve Insights**: The Federal Open Market Committee's dot plot indicates only one anticipated rate cut in 2024, reflecting a cautious approach to monetary policy amid mixed economic signals. Recent inflation data shows a significant slowdown, with the Consumer Price Index (CPI) indicating a 0% month-over-month change.
+
+2. **Market Reactions**: Stock markets have experienced volatility, influenced by political events in Europe, particularly snap elections in France, which have widened credit spreads. The Nasdaq index reached a record high, driven by strong performances from tech giants like Apple, Nvidia, and Microsoft.
+
+3. **Investment Strategies**: Analysts are exploring potential investment options in light of the Federal Reserve's decisions and the current economic landscape. There is a focus on artificial intelligence (AI) stocks, with some companies being highlighted for their promising futures and better valuations compared to competitors.
+
+4. **Company-Specific News**: Apple continues to dominate discussions, with its stock hitting record highs following a significant stock buyback announcement. The company is also facing scrutiny from the European Commission regarding compliance with new regulations aimed at increasing competition in the tech sector.
+
+5. **Consumer Sentiment**: Recent reports indicate a decline in consumer sentiment, raising concerns about the economic outlook. This sentiment is reflected in stock market reactions, particularly for companies like Tesla, which is under scrutiny for its executive compensation and market performance.
+
+Overall, the text provides a snapshot of the current state of the tech market, highlighting key economic indicators, stock performances, and strategic insights for investors.
+        The text discusses recent developments and trends in the technology sector, particularly focusing on major companies like Apple, Nvidia, Microsoft, and Tesla. It highlights the competitive landscape of the Nasdaq, where these tech giants are driving market performance amid a split rally. Nvidia's significant growth is emphasized, with its CEO Jensen Huang reflecting on the challenges faced in building the company into a $3 trillion powerhouse. 
+
+The article also identifies promising artificial intelligence (AI) stocks, suggesting that certain companies are well-positioned for future growth in this sector. It notes that while Nvidia leads the AI chip market, other companies like Broadcom are emerging as potential competitors. The text mentions the Federal Reserve's expectations regarding interest rates and how this could impact market dynamics.
+
+Additionally, the article touches on Microsoft's strategic investments in AI, which are accelerating its growth and positioning it favorably against competitors. It discusses the potential of AI to enhance various sectors and the importance of companies adapting to these technological advancements. 
+
+Overall, the content reflects a robust interest in AI's influence on the stock market and the ongoing competition among leading tech firms, with a focus on their financial performance and future prospects.
+        The text discusses recent news and developments regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon is highlighted for its strong performance, with analysts suggesting it is a momentum stock due to its robust growth in the cloud computing sector and Prime Video. The company has also been recognized for its contributions to literature, naming Percival Everett’s novel "James" as the best book of 2024 so far. Additionally, Amazon is expanding its Housing Equity Fund to create affordable homes and has received FAA approval for its drones to enhance delivery capabilities.
+
+Broadcom is noted for its impressive earnings, with a 43% revenue surge in Q2 2024, and the announcement of a 10-for-1 stock split. The company is also experiencing increased demand for AI chips, which has led to a positive forecast. Analysts are optimistic about Broadcom's potential, with discussions around its strong portfolio and the implications of its acquisition strategies.
+
+The text also touches on the broader stock market context, mentioning the Nasdaq and S&P 500 reaching record highs, driven by favorable economic conditions and strong performances from major companies like Apple and Oracle. 
+
+Overall, the focus is on the financial health and strategic moves of these tech giants, emphasizing their growth prospects and market positioning in the evolving tech landscape.
+        The text discusses recent developments in the tech industry, particularly focusing on major companies like Tesla and Meta. 
+
+Tesla has been in the spotlight due to its CEO Elon Musk's controversial $56 billion compensation package, which shareholders recently approved. Analysts are divided on the implications of this decision, with some expressing concerns about the growing disparity in CEO pay compared to median incomes. Musk's pay package is seen as a reflection of the company's significant market cap, which has faced fluctuations. Despite a recent drop in Tesla's stock value, some analysts remain optimistic about the company's future, citing its strong position in the electric vehicle market and advancements in autonomous driving technology.
+
+In parallel, Meta Platforms is facing regulatory challenges in Europe, leading to a delay in the launch of its AI chatbot. The company has been asked to pause its plans to train large language models using user-generated content due to privacy concerns raised by regulators. This situation highlights the ongoing scrutiny that big tech companies face regarding data privacy and compliance with new regulations.
+
+Overall, the tech sector is experiencing a mix of optimism and caution, with companies like Tesla navigating shareholder expectations and market dynamics, while Meta grapples with regulatory hurdles that could impact its AI initiatives. The discussions reflect broader themes of corporate governance, market performance, and the evolving landscape of technology regulation.
+        The text provides a summary of recent news related to major tech companies, particularly focusing on Alphabet Inc. (Google) and Oracle. 
+
+Oracle has shown strong growth in its cloud and AI sectors, despite missing revenue estimates, indicating a solid position for future growth with high free cash flow. In political news, Cyril Ramaphosa was reelected as South Africa's president after a power-sharing agreement with opposition parties.
+
+In legal matters, Google CEO Sundar Pichai testified in a federal trial concerning the collapsed startup Ozy Media, denying any intention to purchase the company. The trial revolves around allegations of financial conspiracy involving Ozy Media's founder, Carlos Watson. Pichai's testimony highlighted Google's consideration of hiring Watson and a potential investment in Ozy to facilitate his transition.
+
+Additionally, a federal judge ruled that the U.S. Justice Department's antitrust case against Google regarding its advertising technology will proceed to trial, rejecting Google's request for a summary judgment. This case addresses claims that Google holds a monopoly in the online advertising market.
+
+In the stock market, Alphabet's Class A (GOOGL) and Class C (GOOG) shares are under discussion, with analysts evaluating their potential as investments. The company is also noted for its substantial cash reserves, raising hopes for future dividends. 
+
+Overall, the news reflects a mix of corporate performance, legal challenges, and market analysis, emphasizing the dynamic landscape of the tech industry and its intersection with regulatory scrutiny and investment opportunities.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

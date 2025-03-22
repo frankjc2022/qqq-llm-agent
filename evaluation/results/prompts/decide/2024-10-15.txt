@@ -1,0 +1,61 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 490.85.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Nvidia and Apple, as well as the broader market trends affecting the QQQ index.
+
+Investor sentiment has surged, marking the largest increase since June 2020, driven by the Federal Reserve's interest rate cuts. However, there are concerns that this optimism may be excessive. Wall Street indexes are experiencing fluctuations, with major stocks like Nvidia showing signs of caution despite a generally positive outlook for tech.
+
+Nvidia is in the spotlight as it approaches a potential market value surpassing Apple, reflecting strong demand for its products. The company is also linked to a notable investment strategy involving covered call options. Meanwhile, Apple is launching an AI-enhanced iPad Mini, powered by the A17 Pro chip, which is expected to boost performance significantly. This new device is part of Apple's strategy to integrate artificial intelligence into its product lineup.
+
+Additionally, Apple’s stock has reached a record intraday high, reflecting a 37% increase over the past six months, fueled by strong demand for the iPhone 16 Pro models. Analysts are optimistic about Apple's future, with several maintaining high ratings for the stock based on its growth potential and AI integration.
+
+Overall, the tech sector is witnessing dynamic changes, with companies like Nvidia and Apple at the forefront, navigating both opportunities and challenges in a rapidly evolving market landscape.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like NVIDIA and Microsoft. 
+
+NVIDIA is highlighted for its strong market presence, with CEO Jensen Huang emphasizing the company's ambition to enhance productivity through AI innovations. The demand for NVIDIA's products is notably high, as discussed by financial commentator Jim Cramer, who expressed excitement over the company's performance and resilience in the tech market. The text also mentions NVIDIA's recent advancements in AI and semiconductor technology, including the introduction of new server models.
+
+On the other hand, Microsoft is portrayed as a leader in AI and cloud services, experiencing significant growth in its cloud revenue. The company is actively expanding its healthcare AI capabilities and forming strategic alliances to bolster its market position. However, Microsoft faces challenges, including increased operating expenses from acquisitions and competitive pressures in the tech industry. The text discusses the impact of the Activision acquisition on Microsoft's financials and highlights the departure of a key AI expert to OpenAI, which could affect its innovation trajectory.
+
+Overall, the content reflects a dynamic landscape in the tech industry, with both NVIDIA and Microsoft making strides in AI and cloud technologies while navigating various market challenges. The focus on strategic growth, innovation, and competitive positioning underscores the ongoing evolution of these tech giants in a rapidly changing environment.
+        The text provides recent news updates regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon is highlighted for its strategic partnerships and innovations in artificial intelligence (AI). Notably, it has entered a five-year partnership with Databricks to enhance its AI models, utilizing Trainium AI processors to reduce development costs. Additionally, Amazon Ads has introduced new generative AI tools aimed at improving advertising capabilities, including an AI creative studio and an audio generator, which are designed to help brands create engaging content more efficiently.
+
+The text also discusses the broader market context, mentioning Jim Cramer's insights on Amazon's potential rebound and the overall performance of tech stocks. Cramer emphasizes the importance of not becoming complacent during market highs, suggesting that Amazon's stock is worth monitoring closely.
+
+In terms of market dynamics, the text notes that Mexican officials are working to reassure investors about the stability of private investments in the country, following a bilateral summit aimed at addressing constitutional concerns. 
+
+Broadcom is also mentioned, with updates on its stock performance and partnerships, including an expansion of its collaboration with Deutsche Telekom, which has achieved a high-tier status as a VMware Cloud Service Provider. The text indicates that Broadcom is viewed positively in terms of dividend growth and long-term investment potential.
+
+Overall, the news reflects a focus on innovation, strategic partnerships, and market performance among leading tech companies, particularly in the context of AI advancements and investment stability.
+        The text discusses recent developments in the technology sector, particularly focusing on electric vehicles (EVs) and major tech companies. 
+
+Kinetic Automation is highlighted for its innovative use of AI and robotics to simplify EV repairs, addressing a critical concern for consumers regarding the maintenance of electric vehicles. CEO Nikhil Naikal emphasizes the shift from mechanical to digital systems in cars, which necessitates a new approach to repairs that traditional auto services may not be equipped to handle. This initiative aims to enhance consumer confidence in EVs.
+
+Tesla's recent announcements regarding its robotaxi, the Cybercab, have sparked skepticism among analysts and influencers. CEO Elon Musk's ambitious timeline for the rollout of "unsupervised" Full Self-Driving (FSD) technology and the production of robotaxis has been met with doubt, particularly from tech reviewer Marques Brownlee, who has made a bold wager regarding the timeline. Following the robotaxi reveal, Tesla's stock experienced a notable decline, reflecting investor concerns about the feasibility of Musk's plans.
+
+In the broader market context, analysts are observing a rebound in China's new energy vehicles (NEVs), which may alleviate fears of an EV market slowdown. Additionally, Meta Platforms is under scrutiny for its handling of content moderation, particularly concerning harmful videos that threaten marginalized communities. The company is also making strides in AI technology, with analysts raising price targets for its stock.
+
+Overall, the text encapsulates the dynamic landscape of the tech industry, highlighting both innovative advancements and the challenges faced by major players in maintaining investor confidence and addressing regulatory concerns.
+        The latest news highlights significant developments in the tech industry, particularly focusing on major companies like Tesla and Alphabet Inc. 
+
+Tesla recently unveiled its much-anticipated robotaxi, the Cybercab, at a high-profile event in Burbank, California. However, the launch did not meet expectations, leading to a notable decline in CEO Elon Musk's net worth by $15 billion, despite him retaining his status as the world's richest person.
+
+In the realm of artificial intelligence, a report from Air Street Capital indicates that OpenAI's competitive edge over other AI firms is diminishing, with a noted decrease in AI costs and a resurgence in robotics. This shift is crucial as companies adapt to the evolving landscape of AI technology.
+
+Former President Donald Trump commented on economic growth, asserting that his policies would stimulate growth despite concerns about increasing national debt and inflation. 
+
+Analysts from BofA Securities have expressed confidence in Alphabet Inc., maintaining a "Buy" rating with a price target of $206. They believe Alphabet is well-positioned for long-term success due to its advancements in AI technology, which can enhance its search, YouTube, and cloud services. The company is also expected to benefit from rising mobile and video usage.
+
+Additionally, Google is making strides in the energy sector by partnering with Kairos Power to develop nuclear micro-reactors aimed at powering its data centers. This initiative is part of a broader strategy to meet the surging energy demands associated with AI and data processing.
+
+Overall, the tech sector is witnessing transformative changes, with companies like Tesla and Alphabet at the forefront of innovation and strategic growth amidst a competitive landscape.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

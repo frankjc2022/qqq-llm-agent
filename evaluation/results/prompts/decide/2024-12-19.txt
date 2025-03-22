@@ -1,0 +1,55 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 514.17.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The Federal Reserve's recent hawkish comments have created market uncertainty, particularly regarding interest rates and inflation expectations. As the economy shows robust growth in 2024, there are concerns about how the Trump administration's policies may impact the outlook moving into 2025. The Fed's projections indicate fewer rate cuts, which has led to a market selloff and a stronger dollar, raising recession risks.
+
+Despite these challenges, analysts suggest that the U.S. economy may continue to outperform other regions, with expectations for constructive market conditions as 2025 approaches. However, the accuracy of the Fed's projections has historically been questionable, leading to skepticism among investors.
+
+In the tech sector, companies like Apple are making strategic moves, including talks with Chinese firms Tencent and ByteDance regarding AI technologies. This shift reflects Apple's efforts to comply with local regulations while enhancing its product offerings in China. Analysts remain optimistic about technology stocks, with predictions of a bullish sentiment for 2025, particularly for major players like Apple, Tesla, and Palantir.
+
+The Nasdaq has experienced significant fluctuations, with recent sell-offs prompting discussions about potential buying opportunities. The market's performance is closely tied to broader economic indicators and geopolitical developments, which will be crucial to monitor as the year progresses. Overall, while uncertainties loom, there is cautious optimism about the potential for growth in the U.S. economy and technology sector moving into 2025.
+        The text provides a comprehensive overview of recent developments and analyses concerning major tech companies, particularly Nvidia (NVDA) and Microsoft (MSFT), as of December 2024. 
+
+Nvidia is under scrutiny for the smuggling of its advanced AI chips into China, prompting investigations by the Commerce Department. Despite recent stock declines attributed to broader market sell-offs, analysts remain optimistic about Nvidia's long-term growth potential, particularly with the anticipated release of its powerful Blackwell GPUs by mid-2025. The excitement surrounding these GPUs is linked to their expected impact on the AI chip market, although some analysts caution that much of the potential revenue may already be priced in.
+
+In the context of the broader market, the Dow Jones ETF is experiencing its longest losing streak since 1978, raising questions about its potential recovery in 2025. Meanwhile, the S&P 500 has shown strong performance in 2024, driven by AI growth, with notable returns from companies like Palantir.
+
+Microsoft is also highlighted, with discussions around its position as a leading growth stock. The company is compared favorably against other tech stocks, and its performance is analyzed in light of recent market trends. The departure of key leadership at MongoDB raises concerns about its future, while Dropbox's strong performance is attributed to its expanding AI capabilities.
+
+Overall, the text reflects a cautious yet optimistic outlook for the tech sector, emphasizing the importance of innovation and strategic leadership in navigating market challenges. Investors are encouraged to consider the potential of AI-driven companies as they look toward 2025.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO), as well as other industry players like FedEx and MongoDB.
+
+Amazon's CEO, Matt Garman, discussed the company's startup strategy amidst rising AI compute costs. The departure of MongoDB's CFO raised concerns about leadership stability, prompting a bearish outlook on the company despite its solid fundamentals. Amazon's stock saw a slight increase, closing at $223.31, while the company faced strikes at several warehouses, potentially impacting holiday orders.
+
+FedEx announced plans to spin off its freight business, which contributed to a rise in its stock price following slightly better-than-expected earnings. The company reported a slight decline in sales but remains focused on cost-cutting measures.
+
+Amazon also agreed to implement worker safety measures to settle claims from the Occupational Safety and Health Administration regarding ergonomic injuries at its facilities. This settlement includes adopting adjustable workstations and job rotations to enhance worker safety.
+
+In the AI sector, Broadcom's stock has surged due to strong earnings and growth in AI revenue, positioning it as a significant player in the semiconductor industry. Analysts are optimistic about Broadcom's potential, especially in light of its recent performance and the ongoing demand for AI technology.
+
+Overall, the tech industry is experiencing fluctuations influenced by leadership changes, labor issues, and the growing importance of AI, with companies like Amazon and Broadcom at the forefront of these developments.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly Tesla and Meta Platforms, as well as insights into the broader market trends.
+
+Tesla (TSLA) has been a focal point, experiencing significant stock fluctuations and notable events throughout 2024. The company’s stock has surged approximately 350% from its lows earlier in the year, driven by key moments such as the unveiling of its robotaxi and Optimus robots. Additionally, Tesla's former China factory head is set to join renewable energy firm Envision, indicating a shift in leadership dynamics. Analysts are closely monitoring Tesla's performance, with discussions around its valuation and potential as a top investment for 2025.
+
+Meta Platforms (META) is also highlighted, facing challenges and opportunities in the market. The company’s stock has dipped recently, but analysts remain optimistic about its growth potential. Meta is engaged in a public dispute with Apple over user privacy, stemming from Apple's App Tracking Transparency initiative. Furthermore, Meta is exploring innovative features like 'Avatar Quests' as part of its metaverse strategy and is actively working on AI tools despite regulatory hurdles.
+
+The text also touches on broader market trends, including the anticipated Santa Claus rally and the performance of the S&P 500, which has been bolstered by advancements in AI. Overall, the tech sector is navigating a complex landscape of competition, innovation, and regulatory scrutiny, with both Tesla and Meta at the forefront of these developments.
+        The text discusses recent developments and news related to major tech companies, particularly Alphabet Inc. (GOOGL) and its stock performance. On December 19, 2024, GOOGL's stock closed at $188, reflecting a slight increase despite broader market fluctuations. The company has been active in the quantum computing space, with Rigetti and D-Wave Quantum Inc. experiencing significant stock declines, attributed to their roles in quantum technology.
+
+Google has introduced a new AI model aimed at enhancing its search capabilities by automating complex tasks through improved reasoning processes. This model is still in experimental stages but shows promise for applications in various fields, including programming.
+
+Jim Cramer, a notable financial commentator, highlighted Tesla Inc. (TSLA) and its CEO Elon Musk's influence on the market, suggesting that investors often overlook significant opportunities. Additionally, a new startup called Neverless aims to simplify the trading of meme coins, indicating a growing interest in cryptocurrency markets.
+
+The text also touches on the broader market context, noting that the S&P 500 has performed well in 2024, driven by advancements in AI technology, with companies like Palantir seeing substantial returns. Furthermore, there are discussions about Alphabet's stock attractiveness amid potential antitrust challenges and its ongoing innovations in AI and cloud services.
+
+Overall, the content reflects a dynamic landscape in the tech sector, with significant movements in stock prices, advancements in AI, and evolving market strategies, particularly in the context of emerging technologies and investment opportunities.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

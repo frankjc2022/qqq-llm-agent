@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 481.59.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly those represented in the QQQ ETF. Key highlights include:
+
+1. **Generational Investment Trends**: Jack Manley from JPMorgan Asset Management discusses how different generations approach investing, with Gen Z showing a more aggressive strategy compared to the more conservative approach of baby boomers.
+
+2. **Labor Market Insights**: The September jobs report indicates a potential increase in job growth while the unemployment rate remains stable, leading to speculation about the Federal Reserve's interest rate decisions.
+
+3. **Market Volatility**: A global outlook update suggests that macroeconomic volatility is influenced by factors such as supply constraints and demographic shifts, particularly the shrinking working-age population.
+
+4. **Tech Sector Performance**: There is a noted reassessment of U.S. mega-cap stocks, reflecting a decline in technology and growth sectors after a period of strong performance.
+
+5. **Foxconn's Diversification**: Foxconn Technology Co. is diversifying into electric vehicles, AI, and semiconductors, although it faces challenges with revenue declines.
+
+6. **Apple Inc. Developments**: Apple’s stock is nearing record highs, buoyed by positive forecasts regarding iPhone availability and analysts' optimism about AI integration. Recent reports highlight fluctuations in stock performance, including a sell-off influenced by Berkshire Hathaway's reduced stake.
+
+7. **Investment Strategies**: The text also touches on various investment strategies and market analyses, emphasizing the importance of understanding market dynamics and the potential for growth in specific sectors.
+
+Overall, the content reflects a dynamic landscape in the tech industry, characterized by generational investment differences, labor market trends, and the evolving strategies of major companies like Apple and Foxconn.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Nvidia and Cisco. Nvidia is positioned as a leader in the AI revolution, with its stock being recommended as a buy due to its pivotal role in AI advancements. The company recently invested $100 million in OpenAI, further solidifying its influence in the AI space. CEO Jensen Huang reported overwhelming demand for Nvidia's next-generation Blackwell chips, indicating strong market interest.
+
+Cisco Systems is making headlines with its planned investment in CoreWeave, a cloud-computing startup valued at $23 billion, reflecting the growing importance of AI in cloud services. The impact of Hurricane Helene on the semiconductor industry is also a concern, as it has disrupted quartz mining in North Carolina, which is crucial for semiconductor production. Experts warn that prolonged disruptions could significantly affect the chip sector.
+
+In broader market trends, the tech sector is experiencing volatility, influenced by various factors including labor market data and geopolitical tensions. The "Magnificent Seven" tech stocks, which include major players like Apple and Microsoft, have seen a shift in market leadership, with some analysts suggesting that this could present buying opportunities for investors.
+
+Additionally, there is a growing focus on nuclear energy as tech companies seek sustainable power sources for their AI data centers. Analysts believe that reopening dormant nuclear plants could be a significant catalyst for the energy sector, particularly for independent power producers.
+
+Overall, the tech landscape is marked by rapid advancements in AI, strategic investments, and evolving market dynamics, with companies adapting to both opportunities and challenges in the current economic climate.
+        The text provides recent news updates regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO), as well as insights into the broader market trends influenced by artificial intelligence (AI).
+
+Amazon is preparing for the holiday season by hiring 250,000 employees in the U.S., maintaining the same staffing level as the previous year, which suggests a steady demand for its services. The company is also facing scrutiny over allegations of union-busting as drivers seek to unionize, and it has experienced a series of stock losses recently. Additionally, Amazon is making strategic investments and implementing cost-saving measures aimed at long-term growth and profitability.
+
+Broadcom is highlighted for its significant role in the AI sector, with analysts noting its potential for growth. The company is expected to sell $12 billion in AI parts and custom chips this year, indicating strong demand in the tech industry. Recent reports suggest that Broadcom's stock is being closely watched, especially in light of its earnings reports and market performance.
+
+The text also mentions the competitive landscape of e-commerce, with Adobe projecting a record holiday season for online shopping, driven by major players like Amazon and Walmart. This competitive environment is further emphasized by the early launch of holiday deals by these companies.
+
+Overall, the news reflects a dynamic tech market where companies like Amazon and Broadcom are navigating challenges and opportunities, particularly in the context of AI advancements and seasonal retail demands.
+        The text provides a comprehensive overview of recent developments concerning major tech companies, particularly those in the QQQ index, including Tesla (TSLA), Meta (META), and Nvidia (NVDA).
+
+**Tesla (TSLA)** is facing significant challenges, including a planned recall of over 27,000 Cybertrucks due to a faulty rear-view camera and a notable drop in stock value following disappointing delivery numbers. Despite these setbacks, Tesla is preparing to sell $783 million in bonds backed by automotive leases, indicating ongoing financial maneuvers. Analysts are closely monitoring Tesla's performance, especially as the company navigates a competitive landscape and prepares for future innovations like the robotaxi.
+
+**Meta (META)** has recently gained attention due to its strong stock performance, with shares surging 88% over the past year. The company is focusing on advancements in the metaverse and artificial intelligence, which analysts believe will enhance user engagement and advertising effectiveness. Despite concerns about the profitability of its reality segment, Meta's advertising revenues are growing rapidly, outpacing competitors like Google and Amazon. Analysts remain cautiously optimistic about Meta's strategic positioning and its ability to sustain growth.
+
+**Nvidia (NVDA)** is highlighted for its pivotal role in the AI revolution, with CEO Jensen Huang reporting unprecedented demand for its products. The company is seen as a leader in the AI space, which is expected to drive future growth.
+
+Overall, the text reflects a dynamic and evolving tech landscape, with companies like Tesla and Meta facing both challenges and opportunities as they adapt to market conditions and technological advancements.
+        The recent news highlights significant developments in the tech and energy sectors, particularly focusing on major companies like Alphabet (GOOGL) and Microsoft (MSFT) as they pivot towards nuclear energy to support their AI data centers. Analysts, including Durgesh Chopra from Evercore ISI, emphasize that the demand for clean, continuous energy from independent power producers (IPPs) is a crucial catalyst for the energy market. Chopra predicts that reopening dormant nuclear plants will be pivotal for utilities, which are expected to outperform the market in the long term.
+
+In the stock market, heightened volatility is noted, driven by various factors including labor market data and geopolitical tensions in the Middle East. Initial jobless claims have risen slightly, and oil prices are spiking due to these tensions. Talley Léger from the Wealth Consulting Group suggests that market dips should be viewed as buying opportunities, despite the rotation away from Big Tech stocks, which have lost their previous market leadership.
+
+Additionally, Google is enhancing its visual search app, Lens, allowing users to ask real-time questions about their surroundings through video. This feature utilizes Google's AI models to interpret video content. Meanwhile, OpenAI has successfully raised $6.6 billion in funding, further solidifying its position in the competitive landscape of generative AI technology.
+
+Overall, the focus remains on the intersection of technology and energy, with significant implications for investors and the market landscape as companies adapt to evolving demands and challenges.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,67 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 451.76.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly focusing on Apple Inc. and the QQQ ETF. 
+
+Key highlights include:
+
+1. **Market Analysis**: There is speculation regarding Warren Buffett's cash reserves potentially signaling a market warning. Additionally, discussions around the performance of ETFs, particularly Invesco's QQQ, emphasize the importance of innovation and shareholder focus in investment strategies.
+
+2. **Apple Inc. Updates**: Apple is facing scrutiny over its 27% App Store fee, with a federal judge questioning the justification for this rate. The company is also reportedly developing a slimmer iPhone, expected to launch in 2025, which may feature the latest A19 processor. Despite a drop in iPhone sales by 10%, Apple announced a record $110 billion share buyback, reflecting confidence in its long-term prospects.
+
+3. **Investment Strategies**: The text discusses various investment strategies, including the significance of artificial intelligence in the market and the performance of large-cap growth ETFs compared to their benchmarks. Analysts suggest that investors should remain cautious and consider the implications of macroeconomic factors on tech stocks.
+
+4. **Corporate Developments**: The text notes the trading debut of Ferrovial on Nasdaq and highlights the impact of ESG (Environmental, Social, and Governance) factors on proxy voting and corporate governance.
+
+Overall, the content reflects a dynamic landscape in the tech sector, with significant movements in stock performance, corporate strategies, and regulatory challenges, particularly for Apple, amidst broader market trends.
+        The latest news highlights significant developments in the tech sector, particularly focusing on Nvidia and Microsoft, as well as broader market trends. 
+
+Nvidia is poised to report its Q1 earnings on May 22, 2024, with analysts anticipating strong performance due to the company's growth in the AI and GPU markets. The stock has been a key player in recent market rallies, and expectations are high for its upcoming results. Analysts are divided on Nvidia's long-term growth potential, with some expressing confidence in its short-term success while raising concerns about future demand.
+
+The Dow Jones Industrial Average recently closed above 40,000 for the first time, marking a historic milestone. This surge is attributed to strong performances from major companies like Goldman Sachs, Microsoft, UnitedHealth Group, and Caterpillar. The market's upward trajectory is also influenced by rising commodities demand, particularly for metals like copper and silver, which are seeing increased prices due to global economic factors.
+
+Microsoft is making strides in the AI space, planning to offer AMD AI processors to its cloud customers, which positions it as a competitor to Nvidia. The company is also ramping up its gaming strategy with the upcoming release of a new Call of Duty installment on its Game Pass service, reflecting a shift towards subscription models in the gaming industry.
+
+Overall, the tech sector is experiencing dynamic changes, with Nvidia and Microsoft at the forefront, as they navigate earnings expectations and competitive pressures in the evolving landscape of artificial intelligence and cloud computing.
+        The text provides a comprehensive overview of recent developments and performance insights related to major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon's stock has shown resilience, with a notable increase of 22% year-to-date. The company reported strong first-quarter earnings, driven by its cloud-computing segment and Prime Video, which exceeded Wall Street expectations. Amazon is also actively involved in community support, providing aid to families affected by flooding in Brazil. Analysts suggest that Amazon's stock uptrend is likely to continue, with a focus on its cloud services as a key growth driver.
+
+Walmart has also been highlighted for its robust performance, surpassing earnings expectations and expanding its e-commerce sales. The retailer is diversifying its business model to include newer ventures beyond groceries, aiming to compete more effectively with Amazon.
+
+In the semiconductor sector, Nvidia is preparing to release its earnings, with analysts optimistic about its short-term performance despite uncertainties regarding long-term growth. The semiconductor market is at a critical juncture, with a call for investors to diversify their portfolios away from semiconductor stocks due to recent market fluctuations.
+
+Broadcom is making strides with its Accelerate Program, aimed at enhancing customer service and support. The company is positioned for growth, particularly with its recent partnerships and focus on cybersecurity, which is projected to see significant market expansion.
+
+Overall, the text emphasizes the competitive landscape among major tech companies, highlighting their financial performances, strategic initiatives, and the evolving market dynamics in technology and retail sectors.
+        The text provides a comprehensive overview of recent developments in major tech companies, particularly focusing on Tesla, Meta, and the broader market context. 
+
+**Tesla (TSLA)** is highlighted for its expansion plans for the Berlin gigafactory, despite facing protests from environmental activists. The company is also working on enhancing its self-driving technology in China by establishing a local data center to comply with regulations. Tesla's stock has shown resilience, even amid legal challenges and a significant drop in profits, as it aims to produce more affordable electric vehicles by early 2025. Analysts discuss the implications of these developments on Tesla's market performance and shareholder sentiments.
+
+**Meta Platforms (META)** is under scrutiny from the EU regarding the potential addictive effects of its social media platforms on children. Despite regulatory challenges, Meta is rolling out new AI tools and features aimed at enhancing user engagement and advertising capabilities. The company has also reported a significant increase in profits, although its revenue guidance has led to some stock volatility. Additionally, Meta is investing in a new data center in Montgomery, which is expected to bolster its operational capabilities.
+
+The text also touches on the overall market dynamics, with the Dow Jones Industrial Average and S&P 500 showing signs of stability and potential growth. Analysts are optimistic about the S&P 500 reaching new heights, while discussions around competition and market pressures for companies like GameStop and Boeing are also noted.
+
+In summary, the text encapsulates key trends and challenges facing major tech companies, emphasizing their strategic moves and market reactions amidst a fluctuating economic landscape.
+        The text discusses recent developments and news related to major tech companies, particularly Alphabet (Google) and Reddit, as well as trends in the tech industry. 
+
+1. **AI Developments**: Google is making significant strides in the AI sector, particularly in transforming travel shopping through AI technologies. The company is also focusing on identifying harmful AI capabilities through its DeepMind division.
+
+2. **Stock Performance**: Alphabet (GOOGL) is highlighted as a strong growth stock, with analysts optimistic about its long-term prospects. The company’s market capitalization has surpassed $2 trillion following positive earnings reports, which have also raised expectations for future dividends.
+
+3. **Partnerships and Acquisitions**: Reddit's stock has surged due to strategic partnerships, including a licensing deal with OpenAI, which is expected to enhance its content monetization. Additionally, Figma is conducting a tender offer for shares, reflecting a valuation increase despite falling short of Adobe's acquisition offer.
+
+4. **Energy Needs and Sustainability**: The text notes that tech giants are exploring nuclear energy solutions to meet their substantial energy demands, indicating a shift towards sustainable energy sources in the tech industry.
+
+5. **Product Innovations**: Google has introduced new features, such as a notifications widget for its Contacts app, enhancing user experience on Android devices. The company is also expanding its AI capabilities across various platforms.
+
+Overall, the content reflects a dynamic landscape in the tech sector, characterized by innovation, strategic partnerships, and a focus on sustainable energy solutions, with Alphabet positioned as a leader in these developments.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

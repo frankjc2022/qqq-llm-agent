@@ -1,0 +1,75 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 489.47.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly those represented in the QQQ ETF. Key highlights include:
+
+1. **Fidelity's Report on ETFs**: Fidelity has reported a significant increase in active ETF usage, which has more than doubled since 2022, indicating a growing trend among investors.
+
+2. **Economic Conditions**: Despite some indicators suggesting looseness, key metrics indicate robust economic conditions, supporting market stability through GDP growth and employment trends.
+
+3. **Market Trends**: The stock market has shown resilience, with the S&P 500 reaching new all-time highs. Analysts note that Q3 volatility was influenced by concerns over a slowing economy and the Federal Reserve's response.
+
+4. **Tech Sector Performance**: The semiconductor sector has been boosted by strong earnings from companies like Micron, contributing to a positive outlook for tech stocks. 
+
+5. **Invesco's New ETF**: Invesco has filed for a new ETF targeting top Nasdaq stocks, reflecting ongoing interest in tech investments.
+
+6. **Apple's Market Position**: Apple (AAPL) is highlighted for its stock performance, with analysts maintaining a positive outlook despite concerns over iPhone demand. The company is also noted for its significant tax contributions to Ireland, which will be used for infrastructure projects.
+
+7. **Google's Antitrust Case**: The recent antitrust ruling against Google has raised concerns about its monopoly status and potential implications for investors.
+
+8. **Investment Strategies**: Various articles discuss investment strategies, including evaluations of stock performance and recommendations for potential stock picks, particularly in the context of the current market dynamics.
+
+Overall, the text emphasizes the evolving landscape of tech investments, market resilience, and the strategic movements of major companies within the sector.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Nvidia, Microsoft, and Super Micro Computer. 
+
+Nvidia (NVDA) has seen a notable rise in its stock price, closing at $124, reflecting a 43% increase from the previous day. Analysts are discussing Nvidia's position in the market, with some suggesting that supply issues, rather than demand, are affecting its performance. The company is also facing scrutiny regarding potential margin pressures due to a slowdown in cloud spending.
+
+Super Micro Computer (SMCI) is under investigation by the Department of Justice for alleged accounting irregularities, leading to a sharp decline in its stock. In contrast, other chip manufacturers like AMD and Intel are experiencing gains, buoyed by Micron's strong earnings and positive guidance for the upcoming quarter.
+
+Microsoft is making headlines with its substantial investment in Brazil, pledging $2.7 billion to enhance its cloud and AI infrastructure, which is expected to significantly boost the local economy. Additionally, the company is restructuring OpenAI to become a for-profit entity, potentially granting CEO Sam Altman a 7% equity stake.
+
+The labor market is also a focal point, with initial jobless claims reaching a four-month low. However, a report indicates a decline in consumer perceptions of job availability, which could signal future economic challenges. Analysts predict that the unemployment rate may rise towards 5%, raising concerns about a potential recession.
+
+Overall, the tech industry is navigating a complex landscape of growth opportunities and challenges, with significant implications for investors and the broader economy.
+        The text discusses recent developments and news regarding major tech companies, particularly focusing on Amazon and Broadcom, as well as the semiconductor industry.
+
+Amazon is highlighted for its significant advertising commitments, particularly in video streaming and live sports, indicating a strong position in the e-commerce market as it approaches the holiday season. The company is also noted for its sustainability initiatives, with CEO Andy Jassy outlining five key commitments to environmental responsibility. Additionally, Amazon's stock is viewed positively, with analysts suggesting it could reach a market cap of $3 trillion.
+
+Walmart's warehouse workers have expressed concerns about work quotas and related issues, reflecting challenges within the retail giant's operations. The text also mentions the competitive landscape between Amazon and Alibaba, with both companies showing momentum in their stock performance.
+
+In the semiconductor sector, Micron Technology's recent earnings report exceeded expectations, driven by strong demand for AI-related memory products. This performance has sparked a rally in the semiconductor market, positively impacting stocks like Nvidia and Broadcom. Analysts are optimistic about Micron's short-term prospects but caution about long-term cyclicality in the industry.
+
+Broadcom is also discussed, with analysts highlighting its potential as a strong dividend growth stock amidst the AI boom. The text notes that Broadcom plans to sell $12 billion in AI parts and custom chips this year, indicating robust growth in this segment.
+
+Overall, the content reflects a dynamic landscape in tech and e-commerce, with significant developments in sustainability, stock performance, and market competition among major players.
+        The text provides a comprehensive overview of recent developments in major tech companies, particularly focusing on Tesla, Meta, and SpaceX. 
+
+**Tesla (TSLA)**: Tesla faces competition from Lucid Motors, which has launched the Lucid Air Sapphire, claiming the title of the fastest production sedan. Analysts predict a rise in Tesla's third-quarter deliveries, although concerns about overvaluation persist. The company is also grappling with challenges in its electric vehicle (EV) business, particularly with the F-150 model, as it seeks to improve profitability. Tesla's stock performance is under scrutiny, with discussions about its future potential and market positioning.
+
+**Meta (formerly Facebook)**: Meta is actively expanding its portfolio in AI and augmented reality (AR) technologies. The recent Meta Connect event showcased new products, including the Orion AR glasses and updates to the Quest headset. Analysts express optimism about Meta's AI initiatives, despite concerns over the financial implications of these investments. The company is also addressing regulatory challenges while rolling out AI tools in the EU. 
+
+**SpaceX**: The company continues to make strides in space exploration, with recent successful missions and preparations for upcoming launches. SpaceX's collaboration with NASA remains a focal point, highlighting its role in advancing space travel and technology.
+
+Overall, the text illustrates the dynamic landscape of the tech industry, emphasizing competition, innovation, and the strategic moves of these leading companies as they navigate market challenges and opportunities.
+        The text discusses recent developments and news regarding major tech companies, particularly Alphabet Inc. (GOOGL) and its subsidiary Google. Key highlights include:
+
+1. **Legislative Challenges**: Top House Republicans are delaying a significant child safety bill aimed at protecting children from online exploitation, influenced by pressures from Big Tech, revealing internal party conflicts over social media regulation.
+
+2. **Antitrust Issues**: An expert testified in an antitrust trial that the government’s claims of Google holding a monopoly in advertising technology are misguided, arguing that the competition is underestimated. The antitrust case against Google concluded that it operated as a monopoly, raising concerns for investors regarding its future.
+
+3. **Investments and Innovations**: Alphabet announced a $3.3 billion investment to build two new data centers in South Carolina. Additionally, Google Ventures (GV) invested $11 million in a Finnish startup, Distance Technologies, which is developing mixed-reality technology for automotive and aviation applications.
+
+4. **Stock Performance**: Meta Platforms' stock reached an all-time high, driven by investor confidence in its AI initiatives. In contrast, Nvidia is facing potential margin pressures due to a slowdown in cloud spending, indicating caution for investors.
+
+5. **Market Analysis**: Analysts predict a 25% upside for Alphabet's stock, despite recent declines. The stock has shown resilience, outperforming the S&P 500, and discussions around its long-term viability continue, especially in light of ongoing legal challenges and market dynamics.
+
+Overall, the text reflects a landscape of regulatory scrutiny, investment in technology, and fluctuating stock performance among leading tech firms, highlighting the complexities of the current market environment.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

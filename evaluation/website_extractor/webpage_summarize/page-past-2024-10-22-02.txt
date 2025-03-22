@@ -1,0 +1,9 @@
+The latest news highlights significant developments in the tech sector, particularly focusing on NVIDIA (NVDA) and Microsoft (MSFT). 
+
+NVIDIA has recently changed its risk rating for the Yield Shares Purpose ETF from "medium-to-high" to "high," reflecting a thorough review process mandated by Canadian regulations. The company's stock has reached all-time highs, with its market capitalization soaring from $1 trillion to over $3 trillion. Analysts have raised their price target for NVIDIA shares, indicating strong performance and investor confidence. CEO Jensen Huang emphasized the company's commitment to integrating AI into its operations, enhancing areas like chip design and supply chain management.
+
+In the competitive landscape, Advanced Micro Devices (AMD) faces challenges against NVIDIA and Intel, as the demand for AI-related technologies continues to grow. NVIDIA is also planning a significant investment in Thailand, which is expected to be announced during Huang's upcoming visit.
+
+On the broader tech front, Microsoft is actively involved in clean energy initiatives, particularly through partnerships for Small Modular Reactors (SMRs) to power data centers sustainably. U.S. Energy Secretary Jennifer Granholm discussed the importance of these technologies in transitioning to clean energy, highlighting the need for collaboration among tech companies to standardize specifications for SMRs.
+
+Additionally, OpenAI has appointed a former White House official as its chief economist to explore AI's economic impact, while Amazon is leveraging AI to boost revenue growth, particularly in its AWS segment. Overall, the tech industry is witnessing rapid advancements and strategic investments aimed at harnessing AI and sustainable energy solutions.

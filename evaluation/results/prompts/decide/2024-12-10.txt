@@ -1,0 +1,73 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 520.6.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments and analyses concerning major tech companies, particularly focusing on Apple Inc. and the broader market trends affecting the QQQ index. 
+
+Key highlights include:
+
+1. **Labor Market Insights**: The importance of labor market sectors, especially construction and manufacturing, is emphasized, noting how job losses can trigger recessions.
+
+2. **Debt and Bond Market Concerns**: There are warnings about the bond market's precarious position regarding funding deficits, with specific mention of pressures on Treasury yields.
+
+3. **S&P 500 Predictions**: Analysts predict potential overshooting in the S&P 500 for Q1 2025, driven by factors such as earnings growth, interest rates, and investor psychology. Concerns about a recession linked to job losses and political policies are also raised.
+
+4. **Global Central Bank Policies**: As 2025 approaches, there is a divergence in global monetary policies, with the U.S. Federal Reserve managing inflation while other central banks consider rate cuts.
+
+5. **Apple Inc. Developments**: Apple is highlighted for its significant market cap achievements, investments in the UK, and plans to introduce satellite communication features in its smartwatch. Despite facing challenges like slow revenue growth and tariff risks, Apple’s stock remains strong, with analysts maintaining positive outlooks.
+
+6. **Investment Trends**: The text discusses the performance of various ETFs related to QQQ and the implications of recent market activities, including the addition of new ETFs to Invesco's QQQ Innovation Suite.
+
+Overall, the content reflects a dynamic landscape in tech investments, with Apple at the forefront, while also addressing broader economic indicators and market sentiments.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Nvidia, Apple, and Microsoft. 
+
+Nvidia (NVDA) is facing a decline in its stock price, dropping over 3% due to an antitrust investigation initiated by a Chinese regulator regarding potential violations of antimonopoly laws. This investigation follows Nvidia's recent acquisition activities. In contrast, Apple (AAPL) has seen its market capitalization surpass $3 trillion, marking a notable momentum shift, especially as it outperforms many of the "Magnificent 7" stocks.
+
+The market is also reacting to various earnings reports, with Oracle's shares falling after disappointing earnings, while Tesla's stock price target was raised by Morgan Stanley. Additionally, the tech sector is experiencing a downturn, with the Technology Select Sector SPDR Fund (XLK) reflecting this trend.
+
+In other news, Microsoft (MSFT) shareholders recently voted against a proposal to consider investing in Bitcoin, despite interest from MicroStrategy's CEO. This decision comes amid fluctuating Bitcoin prices, which have seen significant liquidations in the cryptocurrency market.
+
+The antitrust landscape is also evolving, as a court blocked the Kroger-Albertsons merger, a move seen as a victory for antitrust enforcers under the Biden administration. 
+
+Overall, the tech industry is navigating a complex environment marked by regulatory scrutiny, shifting market dynamics, and evolving investment strategies, particularly in the realms of AI and cryptocurrency.
+        The text provides a comprehensive overview of recent developments and analyses concerning major tech companies, particularly those included in the QQQ index. Key highlights include:
+
+1. **IBM's Growth Potential**: IBM is positioned for significant growth through strategic partnerships with Amazon Web Services and AMD, focusing on AI and GPU technologies.
+
+2. **Viking Global Portfolio Update**: The portfolio of Viking Global has seen an increase in value, with notable holdings in companies like Adobe, Apple, and Visa.
+
+3. **Amazon's Stock Performance**: Analysts have raised Amazon's stock price target due to positive momentum from its generative AI initiatives. However, there are concerns about its recent underperformance compared to competitors.
+
+4. **Walmart's Market Position**: Walmart is recognized as a strong performer in the Dow, with analysts overwhelmingly rating it as a "Buy" or "Outperform" due to its customer satisfaction and pricing strategies.
+
+5. **Market Outlook for 2025**: Dakota Wealth Management's Robert Pavlik anticipates a market pullback in 2025, suggesting it could present buying opportunities for stocks like Netflix, Alphabet, and Amazon.
+
+6. **Broadcom's Innovations**: Broadcom is making strides in AI technology with new offerings, including a commercial version of Bitnami, aimed at enhancing enterprise IT solutions.
+
+7. **Nvidia's Dominance in AI Chips**: Nvidia continues to lead the AI chip market, with significant revenue growth attributed to its GPUs, although some investors express concerns about a potential slowdown.
+
+Overall, the text emphasizes the dynamic nature of the tech sector, highlighting growth opportunities, market strategies, and the performance of key players in the industry.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Tesla, IBM, and Oracle, as well as market trends and regulatory actions.
+
+Tesla (TSLA) is highlighted for its impressive sales performance, selling 21,900 electric vehicles in China during the first week of December, marking the highest weekly sales in Q4 2024. Analysts from Morgan Stanley and Deutsche Bank have raised their price targets for Tesla, reflecting growing investor confidence in the company's future, particularly regarding its self-driving and robotaxi initiatives. Despite some challenges, including a potential backlash against electric vehicles, Tesla's stock has shown resilience, gaining momentum in the market.
+
+In the broader tech landscape, IBM is positioned for growth through strategic partnerships focusing on AI and GPU technologies. The recent court ruling blocking the Kroger-Albertsons merger is noted as a significant victory for antitrust enforcement, reflecting ongoing regulatory scrutiny in the sector. Additionally, Pinterest is identified as a strong investment opportunity due to its cash balance and profitability potential.
+
+Oracle's recent earnings report, which fell short of expectations, is also discussed, particularly its new partnership with Meta Platforms, despite a decline in Oracle's stock price. The text concludes with a mention of the European Union's investigation into Google’s advertising practices, particularly concerning the targeting of minors, indicating a growing focus on ethical standards in digital marketing.
+
+Overall, the content emphasizes the dynamic nature of the tech industry, highlighting both opportunities and challenges faced by key players.
+        The latest news regarding Alphabet Inc. (GOOGL) highlights significant developments in technology and investments. On December 10, 2024, Google announced a partnership aimed at developing energy assets for data centers, reflecting the company's commitment to sustainable energy solutions. Additionally, Alphabet is focusing heavily on artificial intelligence (AI) to enhance its search capabilities, a move emphasized by Ruth Porat, the company's president and chief investment officer, during a conference in New York.
+
+A notable highlight is the introduction of Google's new quantum computing chip, named Willow. This chip is touted for its ability to perform computations in minutes that would take current supercomputers an astronomical amount of time. Analysts have reacted positively, with Alphabet's stock experiencing a significant surge following this announcement. However, some experts have described the chip as a "neat science project," questioning its immediate practical value and the timeline for its commercial application.
+
+In the automotive sector, Alphabet's Waymo is expanding its autonomous vehicle operations, while General Motors announced a restructuring of its Cruise division, ceasing funding for its robotaxi development. This indicates a shifting landscape in the autonomous vehicle market.
+
+Overall, Alphabet's strategic investments in AI and quantum computing, alongside its ventures in sustainable energy and autonomous vehicles, position the company as a key player in the evolving tech landscape. The stock market's response to these developments suggests investor optimism about Alphabet's future growth potential, despite some skepticism regarding the immediate impact of its new technologies.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

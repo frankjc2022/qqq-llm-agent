@@ -1,0 +1,61 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 457.95.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The recent news highlights significant developments in the tech sector, particularly focusing on major companies within the Nasdaq-100, represented by the QQQ ETF. Nvidia has emerged as a standout performer, leading discussions about its potential inclusion in the Dow Jones and its influence on the broader market, especially in the context of AI advancements. Analysts suggest that Nvidia's strong earnings could drive the performance of other tech giants like Google, Meta, and ASML.
+
+Market sentiment remains cautious, with concerns about a potential recession as the yield curve shows signs of inversion, indicating economic uncertainty. Recent data on durable goods shipments presents mixed signals, further complicating the economic outlook. Despite these challenges, the Nasdaq 100 has experienced a positive trend, marking its fifth consecutive week of gains as investors increasingly gravitate towards AI-related stocks.
+
+In the context of individual stocks, Apple has garnered attention following a robust earnings report, which included a significant share buyback announcement. However, there are concerns regarding declining iPhone sales, prompting discussions about the need for a more affordable iPhone model to stimulate growth. Analysts have raised price targets for Apple, reflecting confidence in its long-term prospects despite short-term challenges.
+
+Overall, the tech sector is navigating a complex landscape characterized by strong performances from key players like Nvidia and Apple, while also facing economic headwinds that could impact future growth. Investors are advised to remain vigilant and consider the implications of these developments on their portfolios.
+        The recent news highlights significant developments in the tech sector, particularly focusing on Nvidia (NVDA) and Microsoft (MSFT). 
+
+Nvidia's stock has been a focal point, especially following its announcement of a 10-for-1 stock split, which historically tends to correlate with positive market momentum. Despite this, Nvidia's recent earnings report did not meet investor expectations, leading to a mixed reaction in the markets. Analysts are debating the sustainability of Nvidia's growth, particularly in the context of rising interest rates and a potentially slowing economy. The company's strong performance in AI has positioned it as a leader, but concerns about broader market conditions persist.
+
+Market analysts, including Deiya Pernas and Ken Mahoney, express caution regarding complacency in the stock market, noting that while large-cap stocks have performed well, small-cap equities have struggled. They emphasize the importance of being selective in investments, particularly avoiding sectors like airlines and retail, which may not offer the same growth potential as technology.
+
+Microsoft is also in the spotlight, with analysts predicting its stock could reach $500 per share. The company is benefiting from its cloud services, which are accelerating due to AI advancements. Microsoft’s strategic investments, including a significant €4 billion in French cloud and AI services, are expected to enhance its market position.
+
+Overall, the tech sector is experiencing volatility, with Nvidia and Microsoft at the forefront of discussions about growth potential and market dynamics. Investors are advised to remain vigilant and consider the implications of economic shifts on their portfolios.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies within the QQQ index. Key highlights include:
+
+1. **Consumer Spending and Earnings**: Despite the depletion of Covid-related savings, consumer spending remains resilient, as evidenced by Q1 earnings reports. The unemployment rate is at a historic low, contributing to sustained household buying power.
+
+2. **Market Dynamics**: The U.S. equity markets have shown stability in 2024, although there was a significant drop in the Dow Jones Industrial Average recently. Analysts express concerns about complacency among investors, particularly regarding large-cap stocks, while small-cap equities have not seen similar growth.
+
+3. **Tech Sector Insights**: Nvidia's recent earnings report was a focal point, with discussions on its impact on the broader market. Analysts emphasize the importance of Nvidia within the "Magnificent 7" tech stocks, suggesting that under-investing in these could pose risks for investors.
+
+4. **Amazon's Performance**: Amazon's stock has been performing well, driven by its cloud-computing services, although it has underperformed on a risk-adjusted basis. Analysts provide updates on Amazon's stock ranking and discuss its short-term momentum.
+
+5. **Broadcom's Position**: Broadcom is highlighted as a strong contender in the tech dividend space, with analysts discussing its growth potential and recent acquisitions, particularly in relation to AI and cloud services.
+
+Overall, the text reflects a cautious yet optimistic outlook on the tech sector, emphasizing the importance of strategic investment in key companies while acknowledging potential market vulnerabilities.
+        The text discusses recent developments and news related to major tech companies, particularly focusing on Tesla, Nvidia, and Meta. 
+
+Tesla's CEO, Elon Musk, is highlighted for his significant compensation package proposal, which is set for a shareholder vote. The company has also dropped its ambitious delivery goal of 20 million vehicles annually, reflecting challenges in production and market conditions. Musk has expressed opposition to tariffs on Chinese electric vehicles, asserting that they are unnecessary for Tesla's competitiveness.
+
+Nvidia's recent earnings report has been a focal point, with analysts noting its impact on the broader tech market. Despite Nvidia's strong performance, there are concerns about the overall health of Big Tech, with some strategists warning against under-investing in key stocks, referred to as the "Magnificent 7."
+
+Meta is facing legal challenges as families of victims from the Uvalde school shooting have filed lawsuits against the company, alleging that its platforms contributed to the tragedy. Additionally, Meta is rolling out new AI tools in the EU, despite previous regulatory issues, and is planning to build a significant data center in Montgomery, Alabama.
+
+Overall, the tech sector is experiencing a mix of challenges and opportunities, with companies like Tesla and Meta navigating legal and operational hurdles while also pushing forward with innovative technologies and strategic investments. The market remains volatile, with analysts urging caution and strategic positioning in light of recent earnings and economic indicators.
+        The recent news highlights significant developments in the tech sector, particularly focusing on major companies like Google and Nvidia. 
+
+Google's AI search tool has come under scrutiny for producing misleading information, such as incorrectly stating that astronauts encountered cats on the moon. This has raised concerns among experts about the reliability of AI-generated content, especially as Google has revamped its search engine to prioritize AI summaries. The company is now facing backlash for inaccuracies that have surfaced since the launch of these new features.
+
+Nvidia continues to be a key player in the AI landscape, with its recent earnings report exceeding expectations. However, despite Nvidia's strong performance, the broader tech market, particularly the "Magnificent 7" stocks, is showing signs of weakness. Analysts warn that under-investing in these leading tech stocks could lead to significant risks for investors.
+
+Additionally, lobbying groups representing airlines, hotels, and retailers are urging EU regulators to consider their perspectives in light of Google's changes to comply with new tech regulations. These groups are concerned about the potential impact on their industries and are advocating for a more balanced approach that includes smaller players alongside larger intermediaries.
+
+In the cloud computing space, Amazon's AWS is expanding its clientele through partnerships, indicating ongoing growth in this sector. The competitive landscape for search engines is also evolving, with AI-driven search presenting new opportunities for emerging players to challenge established giants like Google.
+
+Overall, the tech industry is navigating a complex environment marked by rapid advancements in AI, regulatory challenges, and shifting market dynamics, prompting stakeholders to reassess their strategies and investments.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

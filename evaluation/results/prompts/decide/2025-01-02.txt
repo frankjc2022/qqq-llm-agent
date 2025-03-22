@@ -1,0 +1,61 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 510.23.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and predictions regarding major tech companies and market trends as of early January 2025. Key highlights include:
+
+1. **Market Outlook**: Analysts express cautious optimism about the stock market, with a bullish outlook for the S&P 500, projecting a target of 7000, contingent on an 18% corporate tax rate. Despite a recent selloff in 10-year Treasuries, there remains a positive sentiment towards bonds.
+
+2. **Economic Conditions**: Canada is nearing a recession, with negative per-capita GDP growth and rising unemployment. This economic backdrop is influencing investor sentiment and market strategies.
+
+3. **Investment Strategies**: The text emphasizes the potential of ETFs for retirement planning, suggesting that a focused approach with just five ETFs can streamline the retirement process.
+
+4. **Tech Predictions**: Ben Bajarin, a tech analyst, shares insights on the AI sector, highlighting the ongoing demand for computing power and the anticipated software monetization of AI stocks. He also discusses the impact of AI on productivity across various industries.
+
+5. **Corporate Developments**: Apple is in the news for agreeing to a $95 million settlement over allegations that its Siri assistant eavesdropped on users. Additionally, Apple is reportedly cutting iPhone prices in China to compete with local brands, which has affected its stock performance.
+
+6. **Stock Performance**: The text notes a mixed performance among major tech stocks, with Nvidia showing gains while Apple faces challenges, including a decline in stock value due to competitive pressures and sales estimates.
+
+Overall, the content reflects a complex interplay of economic indicators, corporate strategies, and market predictions, particularly in the tech sector, as investors navigate the beginning of 2025.
+        The text discusses recent developments and predictions regarding major tech companies, particularly focusing on Nvidia and its role in the AI sector. Nvidia is highlighted for its significant market capitalization, driven by its foundational position in the AI boom, with predictions of continued demand for its processors from companies like OpenAI and Meta. Analysts are adjusting Nvidia's stock forecasts in anticipation of its CES 2025 keynote, where expectations are high for announcements related to AI infrastructure.
+
+Ben Bajarin, a tech analyst, shares insights on the AI landscape, emphasizing the importance of software monetization and the productivity boosts from AI deployment across industries. He also discusses the competitive landscape among semiconductor companies, including Broadcom and AMD, and the need for infrastructure to support AI growth.
+
+The text also covers stock market trends, noting that Nvidia's stock has risen while Tesla and Apple have faced declines. The "Magnificent Seven" tech stocks, including Nvidia, are examined for their performance and future potential, with concerns about their high valuations and the need for diversification into mid- and small-cap stocks for better value.
+
+Additionally, the text mentions bullish picks for 2025, including Cisco and Microsoft, highlighting their strategic positions in the AI and networking sectors. The ongoing AI arms race is underscored, with Microsoft investing heavily in data centers and supercomputing capabilities.
+
+Overall, the content reflects a dynamic tech market with significant focus on AI advancements, stock performance, and strategic investments, setting the stage for potential shifts in the industry landscape in 2025.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Amazon, Nvidia, and Broadcom, as well as the implications of political dynamics on corporate strategies.
+
+Amazon (AMZN) has shown resilience in the market, with stock predictions suggesting potential acquisitions, such as Lyft, to enhance its business model. Analysts speculate that Amazon could leverage Lyft's user base to support its autonomous vehicle initiatives. The text also highlights the corporate backing for President-elect Donald Trump, with significant contributions from tech giants, which raises concerns about the transactional nature of such support and its long-term implications.
+
+Nvidia continues to dominate the AI chip market, boasting an estimated 85% market share despite increasing competition. Analysts emphasize Nvidia's strong ecosystem and scale, which position it favorably against rivals like Broadcom and AMD. The discussion includes the challenges Nvidia faces in maintaining its leadership amid fierce competition and the evolving landscape of AI technology.
+
+The "Magnificent Seven" tech stocks, which include major players like Tesla and Meta, are under scrutiny as investors question their ability to sustain performance in 2025. Market analysts suggest diversifying investments into mid- and small-cap stocks for better value and protection, given the high valuations of these large-cap stocks.
+
+Broadcom is also highlighted for its potential growth in the AI sector, with analysts optimistic about its revenue prospects driven by custom AI chips and strategic partnerships. The text concludes with a broader outlook on the tech market, indicating a cautious yet hopeful sentiment as companies navigate the complexities of technological advancements and market dynamics.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Tesla and Meta. 
+
+Tesla has faced challenges, reporting a decline in vehicle sales for the first time in 2024, attributed to decreased demand and increased competition in the electric vehicle market. Despite this, Tesla's energy storage business has shown promise, with analysts suggesting that the introduction of more affordable models could help the company regain market momentum. The company's fourth-quarter delivery numbers fell short of expectations, leading to concerns about investor fatigue.
+
+In the broader market context, the S&P 500 and other equity indexes experienced a downturn at the start of 2025, influenced by Tesla's performance. Analysts are cautious about the future of the "Magnificent Seven" tech stocks, which include Tesla, as they trade at high valuations. There is a suggestion for investors to diversify into mid- and small-cap stocks for better value and protection.
+
+Meta is also undergoing significant changes, with Nick Clegg stepping down from his role as president of global affairs, to be succeeded by Joel Kaplan. This transition comes as major corporations, including Meta, align themselves with the incoming Trump administration, raising concerns about the implications of corporate support for political figures.
+
+Additionally, TikTok is enhancing its platform with new AI features, reflecting the ongoing trend of integrating advanced technology into user experiences. Overall, the text highlights a period of adjustment and strategic shifts within major tech companies as they navigate market challenges and political landscapes.
+        The latest news regarding major tech companies, particularly Alphabet Inc. (GOOGL), highlights a mix of market performance and corporate dynamics. As of January 2, 2025, Alphabet's stock closed at $189.43, reflecting a slight increase despite broader market declines. Analysts express concerns about Alphabet's future, particularly in light of ongoing antitrust issues that have led to stock downgrades.
+
+Corporate support for President-elect Donald Trump has emerged as a significant theme, with major companies like Amazon, Meta, and Uber contributing substantial funds to his inauguration. Analyst Gautam Mukunda suggests that this support is a pragmatic move, given Trump's history of leveraging government power against perceived adversaries. He warns that such transactional relationships could lead to companies facing ongoing threats for further concessions.
+
+In the tech landscape, Synaptics has announced a partnership with Google to develop Internet of Things (IoT) technology, which has positively impacted its stock. Meanwhile, Nvidia has shown strong performance, leading gains among the "Magnificent Seven" tech stocks, which have been under scrutiny for their high valuations. Analyst Mike O’Rourke cautions that while these stocks have historically outperformed, their current pricing may not offer the value investors seek, suggesting a shift towards mid- and small-cap stocks for better long-term investment opportunities.
+
+Additionally, the ongoing legal battle between Elon Musk and Sam Altman of OpenAI could have implications for Google, as both figures have previously collaborated but are now rivals in the AI sector. Overall, the tech market is navigating a complex landscape of regulatory challenges, corporate strategies, and evolving investor sentiments as 2025 unfolds.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

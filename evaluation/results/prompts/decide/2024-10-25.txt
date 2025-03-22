@@ -1,0 +1,51 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 495.32.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The financial markets are currently in a holding pattern as investors assess risks and uncertainties ahead of a significant week filled with key economic events. The outlook for the business cycle and liquidity cycles appears supportive for stocks and risk assets in the medium term. Notably, tech stocks are rallying as investors await earnings reports from major companies, including the "Magnificent Seven"—Alphabet, Microsoft, Amazon, Meta, Apple, and others.
+
+The Federal Reserve's recent rate cuts are expected to create new stock opportunities, with a focus on the health of the underlying economy driving earnings and influencing risk assets. Upcoming economic indicators, such as the Personal Consumption Expenditures (PCE) index and the Jobs Report, are anticipated to provide insights into potential monetary policy decisions.
+
+In the context of the Nasdaq, there is a discussion about the future of tech stocks, with new ETFs like QQQJ and QQQS being introduced to identify potential future leaders. Additionally, the performance of established stocks like Itochu, a key player in Warren Buffett's portfolio, is highlighted for its robust trading and investment contributions.
+
+As the earnings season progresses, analysts are closely monitoring the performance of major tech companies, with expectations that their results could significantly impact market sentiment. The upcoming earnings reports are seen as critical, not only for the Nasdaq but also for broader indices like the S&P 500. Amidst uncertainties, there is a prevailing sentiment that markets may trend higher, driven by the overall economic health and corporate earnings potential.
+        The text provides a comprehensive overview of recent developments and market insights related to major tech companies, particularly focusing on NVIDIA Corporation (NVDA) and Microsoft Corporation (MSFT). 
+
+NVIDIA has been highlighted for its strong market performance, with analysts predicting a potential 38% increase in its stock price. CEO Jensen Huang has acknowledged a design flaw that has delayed the production of the Blackwell AI chip, which is expected to ship in the fourth quarter. The company is experiencing significant retail investor interest, indicating optimism in the market. NVIDIA's stock has recently approached all-time highs, reflecting a bullish trend in the data center market for chipmakers.
+
+In the broader tech landscape, a pivotal week is anticipated as several major companies, including Apple, Microsoft, Google, Amazon, and Meta Platforms, prepare to release their third-quarter earnings. This event is seen as crucial for market sentiment, especially with the upcoming U.S. presidential election and economic indicators like the Personal Consumption Expenditures (PCE) index and the Jobs Report. Analysts suggest that these earnings reports could influence discussions on whether the economy is rebounding cyclically or if a defensive growth strategy will continue to dominate.
+
+Microsoft is also in the spotlight, with its CEO's compensation rising significantly and ongoing tensions with OpenAI regarding financial and governance issues. The company has made substantial investments in AI and cloud infrastructure, aiming to enhance its capabilities and workforce training.
+
+Overall, the tech sector is poised for significant developments, with investor focus on earnings reports and economic data that could shape future market trends.
+        The text discusses recent developments and insights regarding major tech companies, particularly those in the QQQ index, as they prepare for significant earnings reports. Key players such as Amazon (AMZN), Alphabet (GOOG, GOOGL), Microsoft (MSFT), Meta (META), and Apple (AAPL) are highlighted as they approach their third-quarter earnings announcements. Analysts emphasize the importance of these reports, suggesting they could influence market trends and investor sentiment, especially in light of upcoming economic indicators like the Personal Consumption Expenditures (PCE) index and the Jobs Report.
+
+Walmart's competitive strategies against Target are noted, showcasing its ability to attract consumers with low prices, particularly as the holiday season approaches. The text also mentions Amazon's leadership changes in its grocery division, indicating a shift in strategy as it faces competition from other retailers.
+
+Market analysts describe the upcoming week as critical for investors, likening it to a "Super Bowl" due to the concentration of earnings reports and economic data releases. The discussions include expectations for stock movements and the potential impact of economic conditions on tech stocks. The overall sentiment suggests cautious optimism, with analysts focusing on the health of the underlying economy as a key driver for future earnings and market performance.
+
+In summary, the text provides a snapshot of the current landscape for major tech companies, highlighting the significance of upcoming earnings reports and economic data, while also addressing competitive dynamics in the retail sector.
+        The text provides a comprehensive overview of recent developments in major tech companies, particularly focusing on Tesla (TSLA), Meta Platforms (META), and the broader market context. 
+
+Elon Musk's increasing political influence is highlighted through his numerous meetings with global leaders, including Vladimir Putin. Tesla's stock performance is a central theme, with significant fluctuations noted, including a recent surge following strong earnings. Analysts, including Jim Cramer, discuss Tesla's evolving market position, emphasizing concerns about interest rates and competition. The company is also facing scrutiny regarding its communications and labor practices, as evidenced by a court ruling related to Musk's social media activity.
+
+The upcoming earnings reports from major tech firms, referred to as the "Magnificent Seven," are anticipated to have substantial implications for market trends. Companies like Alphabet, Microsoft, Amazon, and Apple are set to report, with analysts predicting that these results will influence investor sentiment and economic outlooks. The release of key economic indicators, such as the Personal Consumption Expenditures (PCE) index and the Gross Domestic Product (GDP) for Q3, is also expected to shape market dynamics.
+
+Meta Platforms is noted for its strong balance sheet and demand for its products, with a focus on its AI initiatives and partnerships, including a collaboration with Reuters for real-time news. The text underscores the competitive landscape in the tech sector, particularly regarding AI advancements and market positioning.
+
+Overall, the content reflects a critical moment for tech companies as they navigate earnings season and broader economic challenges, with significant attention on how these factors will influence future market performance.
+        The text discusses recent developments and insights regarding major tech companies, particularly Alphabet Inc. (GOOGL), as they prepare for significant earnings reports. Jim Cramer highlights Alphabet as a prominent stock, emphasizing its advertising potential. The upcoming week is crucial for investors, with several major tech firms, including Alphabet, Microsoft, and Apple, set to report their third-quarter earnings. This period is described as a "Super Bowl for investors," as the results will likely influence market trends and investor sentiment.
+
+The economic calendar includes the release of the Personal Consumption Expenditures (PCE) index, a key inflation measure, and the Jobs Report, both of which are expected to impact Federal Reserve policy decisions. Analysts are closely monitoring these indicators alongside the earnings reports to gauge the health of the economy and its implications for stock performance.
+
+Additionally, Alphabet's Waymo has raised significant capital to enhance its competitive position in the autonomous vehicle market, indicating ongoing investment in innovative technologies. The text also notes that 2024 has been a pivotal year for AI advancements, with Alphabet positioned as a key player in this sector.
+
+Overall, the focus is on the interplay between earnings reports, economic data, and market expectations, with a particular emphasis on how these factors will shape the future of major tech stocks, including Alphabet. Investors are advised to stay informed as these developments unfold, as they could dictate market movements in the near term.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

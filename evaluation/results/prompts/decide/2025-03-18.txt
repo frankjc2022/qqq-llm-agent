@@ -1,0 +1,61 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 474.54.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments and trends in the technology sector, particularly focusing on major tech companies and their stock performance. 
+
+Key highlights include:
+
+1. **Market Sentiment**: The S&P 500 and NASDAQ 100 are experiencing significant corrections, with declines of 8% and over 10% from their peaks, respectively. Retail investors are noted for "buying the dip" despite a generally bearish outlook.
+
+2. **Economic Indicators**: The GDP Nowcast suggests a sluggish growth pace for Q1 2025, indicating potential vulnerabilities in the economy moving into Q2. The probability of a recession has stalled above the 20% threshold, reflecting cautious optimism among investors.
+
+3. **Tech Company Updates**: 
+   - **Apple** is facing challenges with AI delays affecting its Siri product, which may impact iPhone sales and overall stock valuation. The company has also lost a legal appeal in Germany, leading to stricter regulatory scrutiny.
+   - **Qualcomm** has launched its new X85 modem, enhancing its position in 5G and AI processing, and is diversifying into automotive and IoT sectors, which shows promise for future growth.
+
+4. **Investment Insights**: Analysts are closely monitoring the performance of major tech stocks, with some suggesting that despite recent downturns, certain stocks like Apple and Qualcomm may present buying opportunities due to their long-term growth potential.
+
+5. **Sector Performance**: The text notes that certain sectors have remained resilient despite broader market corrections, indicating a potential rotation in investment strategies as investors seek stability in volatile conditions.
+
+Overall, the content reflects a cautious yet strategic approach to investing in technology stocks amid fluctuating market conditions.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Nvidia and its developments in the AI and semiconductor sectors. 
+
+Nvidia's CEO, Jensen Huang, highlighted the company's advancements in power-saving optical chip technology, although he noted that it is not yet reliable enough for their flagship graphics processing units. The excitement surrounding Nvidia's developer conference reflects the industry's anticipation for AI progress, with many tech representatives attending the event. Huang also expressed confidence in Nvidia's position to adapt to the industry's shift from training AI models to deploying them.
+
+In the automotive sector, Chinese companies Zeekr and Xpeng announced plans to sell electric vehicles equipped with Level 3 autonomy, allowing drivers to take their hands off the steering wheel. This development indicates a competitive landscape in the electric vehicle market.
+
+Additionally, Nvidia is collaborating with Schneider Electric to enhance data center efficiency, showcasing its commitment to innovation in technology infrastructure. The text also mentions Alphabet's acquisition of Wiz for $32 billion, aimed at boosting cloud security and growth, marking it as the company's largest deal to date.
+
+Overall, the news reflects a dynamic environment in the tech industry, with significant developments in AI, automotive technology, and cloud security, underscoring the ongoing evolution and competition among leading tech firms.
+        The text discusses various developments in the technology and stock market sectors, particularly focusing on major companies like Amazon, Nvidia, and Broadcom. 
+
+Amazon's stock is currently underperforming despite strong growth in its AWS division and improvements in profit margins. The company is facing scrutiny over privacy changes related to its Echo devices, which will now send all voice requests to the cloud, raising concerns among users. Additionally, Amazon is involved in a lawsuit regarding the capacity expansion of third-party sellers.
+
+Nvidia is highlighted for its collaboration with Schneider Electric to enhance data center efficiency and is experiencing fluctuations in stock performance ahead of its GTC event. The company is also noted for its significant growth in AI cloud revenue, with plans to deploy 22,000 Nvidia GPUs by 2025, supported by substantial funding.
+
+Broadcom is recognized for its strong position in the AI semiconductor market, reporting impressive revenue growth and a positive outlook despite some stock volatility. The company is also facing challenges, including job cuts that have significantly reduced VMware's workforce and potential shifts in partnerships, particularly with Google.
+
+Overall, the text reflects a dynamic landscape in the tech industry, with companies navigating growth opportunities, market pressures, and regulatory challenges. The focus on AI and cloud services is particularly prominent, indicating a trend towards increased investment and innovation in these areas.
+        The text discusses recent developments concerning major tech companies, particularly Tesla and Meta Platforms, highlighting various challenges and controversies they face.
+
+For Tesla (TSLA), the company is experiencing significant scrutiny and challenges. Recent news includes the removal of Tesla from the Vancouver International Auto Show due to safety concerns, and a notable legal loss for Elon Musk related to DOGE, which raises questions about its impact on Tesla's stock. The U.S. Attorney General has condemned violent attacks on Tesla properties, labeling them as domestic terrorism. Additionally, Tesla's stock is under pressure due to rising competition in the electric vehicle (EV) market and political controversies surrounding Musk. Analysts have lowered Tesla's price targets amid fears of declining sales, particularly in Europe, where consumer sentiment appears to be shifting away from the brand.
+
+In the broader tech landscape, Meta Platforms is also facing challenges, including stock performance issues and scrutiny over privacy practices. The company is ramping up for a significant FTC trial and has made moves to unify its video delivery systems across platforms. Despite these challenges, there are discussions about Meta's potential as a top stock pick, particularly in light of its advancements in AI and mixed-reality technologies.
+
+Overall, both Tesla and Meta are navigating a complex environment marked by legal, competitive, and reputational challenges, which could significantly influence their market positions and investor sentiment moving forward.
+        The recent news surrounding major tech companies, particularly Alphabet (GOOGL), highlights significant developments in the technology and cybersecurity sectors. On March 18, 2025, Alphabet announced its acquisition of cybersecurity firm Wiz for $32 billion, a deal that is expected to enhance its cloud security capabilities and address risks associated with artificial intelligence (AI). This acquisition is seen as a pivotal move towards what some analysts are calling "The Software Age," indicating a shift in focus towards software-driven solutions in the tech industry.
+
+Concerns about the sustainability of the AI boom have led to a decline in technology stocks, with investors expressing skepticism about the long-term viability of current AI trends. A lawsuit has emerged in Florida, where a mother is suing Character.AI and Google, claiming that a chatbot contributed to her son's death, which could have far-reaching implications for the tech industry.
+
+In addition to the Wiz acquisition, Alphabet is also involved in partnerships aimed at revolutionizing AI chip production, collaborating with MediaTek. The company is navigating a complex landscape where AI advancements are both a source of innovation and concern, as evidenced by reports that AI search capabilities are beginning to overshadow traditional search results.
+
+Furthermore, Alphabet's stock performance has been under scrutiny, with analysts debating its potential as a strong investment. The market's reaction to Alphabet's strategic moves, including the acquisition of Wiz and its ongoing AI initiatives, reflects a broader uncertainty in the tech sector as it grapples with rapid advancements and regulatory challenges. Overall, these developments underscore the dynamic and often volatile nature of the technology landscape.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

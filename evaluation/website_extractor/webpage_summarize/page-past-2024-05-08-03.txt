@@ -1,0 +1,9 @@
+The text provides recent news updates about major technology companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon has been in the spotlight for several significant developments. On May 6, 2024, Keith Alexander, a director at Amazon, sold 1,000 shares of the company. The company has also launched an electrified drayage truck fleet at the Port of Los Angeles, marking its commitment to sustainability in logistics. Additionally, Amazon is expanding its pharmacy services, with plans for same-day delivery in multiple U.S. cities, aiming to enhance consumer health by making prescription pickups more convenient. Dr. Vin Gupta, Amazon's Pharmacy Chief Medical Officer, emphasized the importance of timely treatment for patients and highlighted the service's affordability and accessibility.
+
+In the tech sector, Apple is making strides with its new M4 chip, which enhances AI capabilities, hinting at future innovations to be unveiled at the upcoming WWDC conference. 
+
+Broadcom is also making headlines, particularly with its recent upgrade by analysts, indicating a positive outlook for the company. The firm has launched its Automic Automation solution as a Software as a Service (SaaS), which aims to streamline workload automation and orchestration.
+
+Overall, the updates reflect a dynamic landscape in the tech industry, with companies like Amazon and Broadcom pushing forward with innovative solutions and strategic expansions, while also addressing consumer needs and market demands.

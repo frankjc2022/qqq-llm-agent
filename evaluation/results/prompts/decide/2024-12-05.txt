@@ -1,0 +1,67 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 521.81.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The November jobs report indicates a 7% decrease in employment, with a total decline of $830 billion over the past year. Investors are closely monitoring this report for insights into the Federal Reserve's upcoming interest rate decisions. Initial jobless claims rose by 9,000, reaching a seasonally adjusted level of 224,000, although overall jobless claims suggest a stable labor market. The Federal Reserve is expected to cut interest rates again this month, following reductions in previous meetings.
+
+In the stock market, U.S. stocks have shown resilience despite investor concerns. Bitcoin has made headlines by surpassing $100,000, driven by political developments and market sentiment. BlackRock forecasts continued strong earnings for U.S. stocks in 2025, suggesting a favorable outlook compared to global markets.
+
+Invesco has expanded its QQQ Innovation Suite with new ETFs, indicating a growing interest in innovative investment strategies. Meanwhile, the Nasdaq has faced volatility, with significant sell-offs prompting discussions about potential buying opportunities among high-profile stocks.
+
+Apple Inc. is navigating challenges, including soft iPhone demand and competition in the AI sector. Despite these hurdles, the company remains a focal point for investors, with analysts maintaining positive ratings. The impact of political leadership on corporate strategies, particularly regarding tax policies, is also a topic of discussion, especially concerning major firms like Berkshire Hathaway.
+
+Overall, the economic landscape is marked by cautious optimism, with key indicators suggesting a complex interplay between labor market dynamics, stock performance, and technological advancements. Investors are advised to stay informed as these factors evolve.
+        The text provides a summary of recent news regarding major technology companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Arista Networks (ANET)**: The company has implemented a 4-for-1 stock split, aiming to make shares more accessible to a wider range of investors. Analysts are evaluating whether this is a good time to invest in ANET.
+
+2. **SoundHound**: The stock surged after the company secured a partnership with Torchy's Tacos to utilize its voice AI technology, indicating strong market interest in AI applications.
+
+3. **Foxconn**: The company reported record revenue for the third quarter, driven by increased demand for AI servers and a partnership with Nvidia, suggesting robust growth prospects.
+
+4. **Tenstorrent**: The company raised $693 million in Series D funding to compete with Nvidia in the AI accelerator market, highlighting the competitive landscape in AI technology.
+
+5. **Nvidia**: The company is collaborating with the Vietnamese government to establish an AI research and development center, which includes a partnership with Viettel Group. This initiative reflects Nvidia's commitment to expanding its influence in the AI sector.
+
+6. **Microsoft**: The company is partnering with PTC and Volkswagen to develop a generative AI tool for code development. Additionally, Microsoft is introducing new AI capabilities, such as Copilot Vision, which can analyze web content.
+
+7. **OpenAI**: The company has launched a subscription version of ChatGPT aimed at research and engineering, indicating its growth and the increasing demand for AI tools.
+
+8. **Vodafone-Three Merger**: The UK’s Competition and Markets Authority approved the merger, marking a shift in regulatory attitudes towards fostering economic growth over strict consumer price controls.
+
+Overall, the news reflects significant developments in AI technology, corporate partnerships, and market strategies among leading tech firms.
+        The text discusses recent developments and news regarding major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO). 
+
+Amazon's stock has reached a record high, with a year-to-date gain of 45%. Analysts are monitoring key price levels and discussing the potential impact of tariffs on consumer prices, particularly in retail. The company is also facing legal challenges, as the District of Columbia has sued Amazon for allegedly excluding low-income areas from faster Prime deliveries. Additionally, Amazon has introduced an AI tool aimed at improving developer efficiency.
+
+In the retail sector, traditional retailers like Walmart and Costco are adapting to the e-commerce landscape, competing effectively against tech giants. Ulta Beauty has reported a slightly improved sales forecast, indicating it is gaining traction in a competitive market.
+
+Broadcom is highlighted for its strong market position in AI, 5G, and cloud technologies, although some analysts believe its current valuation may be overestimated. The company is developing new technology to enhance custom chips, which is expected to meet the rising demand for AI-supporting hardware. Broadcom's recent innovations aim to accelerate enterprise IT modernization, and its VMware strategy is reportedly succeeding despite market challenges.
+
+Overall, the text emphasizes the dynamic nature of the tech industry, with companies like Amazon and Broadcom navigating both opportunities and challenges in a rapidly evolving market landscape.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Tesla and Meta Platforms Inc. 
+
+Tesla (TSLA) has seen significant stock movement, with a recent surge of 53% over the past month. Analysts from Bank of America have raised their price target for Tesla shares to $400 following a visit to the company's gigafactory in Austin, indicating strong growth potential for 2025. Additionally, Tesla's stock is highlighted as a top pick for investors, with discussions around its performance compared to other stocks in December. The company has also re-released its $40 Tesla Bot Action Figure, which quickly sold out previously, reflecting strong consumer interest.
+
+In the realm of cryptocurrency, Elon Musk and Vivek Ramaswamy have garnered attention for their efforts to promote the use of Dogecoin in government initiatives, emphasizing a push for efficiency in federal operations.
+
+Meta Platforms Inc. (META) is making strides in the AI sector, announcing a partnership with MongoDB to enhance its AI application delivery. The company is also investing $10 billion in a new AI data center in Louisiana, which will be its largest to date. This move underscores Meta's commitment to expanding its capabilities in artificial intelligence and mixed reality technologies, as evidenced by its collaboration with James Cameron's tech venture for mixed reality content.
+
+Overall, the news reflects a dynamic landscape for both Tesla and Meta, with significant developments in stock performance, technological advancements, and strategic partnerships shaping their futures in the tech industry.
+        The latest news highlights significant developments in the tech sector, particularly focusing on Alphabet Inc. (GOOGL) and its impact on the market. A major story involves Google’s Waymo, which is set to expand its self-driving taxi services to Miami by 2026. This announcement has negatively affected the stock prices of Uber and Lyft, with both companies experiencing declines of over 10% as investors reassess the competitive landscape.
+
+In the realm of artificial intelligence, Google has introduced a new family of AI models called PaliGemma 2, which can analyze images and generate contextually relevant captions, raising concerns among experts about the implications of AI's ability to identify emotions. This development comes amid broader discussions about the future of AI, with Microsoft predicting significant changes in the field by 2025.
+
+Additionally, Google is rolling out updates for its Pixel and Android devices, including new Gemini extensions that enhance user experience by integrating features like messaging and smart home controls. These updates are part of Google's ongoing efforts to improve accessibility and functionality across its platforms.
+
+The tech industry is also witnessing shifts in stock performance, with Alphabet's stock facing scrutiny amid concerns about its market position and competition. Analysts are debating whether Alphabet remains a favorable investment, especially in light of recent earnings reports and market trends.
+
+Overall, the tech landscape is evolving rapidly, with advancements in AI and significant corporate strategies shaping the future of major players like Google, Uber, and Lyft.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

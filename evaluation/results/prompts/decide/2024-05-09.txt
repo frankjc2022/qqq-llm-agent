@@ -1,0 +1,67 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 441.02.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses various aspects of the current stock market and economic conditions as of May 2024. Key highlights include:
+
+1. **Stock Market Outlook**: Analysts predict continued gains in large-cap US stocks, driven by steady benchmark rates and rising earnings estimates. The market is near all-time highs, despite concerns about potential economic disruptions.
+
+2. **Consumer Resilience**: The US economy is characterized by strong consumer spending, particularly among high-income households, while lower-income groups face increasing financial stress.
+
+3. **Labor Market Insights**: Projections suggest that the labor market cycle may have peaked, raising questions about the potential for an upcoming recession.
+
+4. **Earnings Reports**: Companies are reporting earnings, with some experiencing buying pressure post-release. Notably, Apple has seen significant stock movement following its earnings report, which included a record $110 billion share buyback despite a decline in iPhone sales.
+
+5. **Streaming Trends**: The popularity of streaming services remains high among wealthier Americans, even as financial pressures lead some consumers to reconsider their subscriptions.
+
+6. **Apple's Controversial Advertising**: Apple faced backlash for an advertisement that depicted the destruction of musical instruments, leading to an apology from the company.
+
+7. **Investment Strategies**: The importance of rebalancing dividend portfolios for optimal risk-reward outcomes is emphasized, alongside tracking notable investment portfolios like that of Ken Fisher.
+
+Overall, the text reflects a complex economic landscape with a mix of optimism in the stock market, consumer behavior trends, and challenges faced by specific companies like Apple.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Nvidia, Tesla, Airbnb, Shopify, and Microsoft. 
+
+Nvidia is highlighted with various updates, including an analyst adjusting its stock price target ahead of earnings and discussions about its recent stock performance, which has seen fluctuations. The company is also noted for its investments in AI, with SoundHound AI reporting strong earnings, indicating a positive trend in AI-related sectors.
+
+Tesla faces scrutiny over its valuation and insider sell-offs, suggesting potential risks for investors. Meanwhile, Airbnb and Shopify reported strong earnings, with both companies showing growth in bookings and revenues, reflecting a robust recovery in their respective markets.
+
+The text also discusses broader market trends, such as the Dow Jones rising for several consecutive sessions and the implications of AI advancements on various companies. OpenAI is preparing to launch a new AI-powered search product, intensifying competition with Google, which is also facing significant antitrust challenges.
+
+Microsoft's growth in cloud services, driven by AI, is emphasized, along with its plans to launch a mobile game store, positioning itself against competitors like Apple and Google. The ongoing generative AI battle among Google, Microsoft, and Meta is also noted, with each company adopting distinct strategies.
+
+Overall, the content reflects a dynamic landscape in the tech industry, marked by earnings reports, strategic shifts, and competitive pressures, particularly in the AI domain.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Amazon (AMZN) and its performance in the stock market. As of May 9, 2024, Amazon's stock has reached a record close, buoyed by strong earnings momentum following its Q1 report. The company has seen a steady increase in share value, attributed to robust performance in its cloud computing division (AWS) and significant sales growth in eCommerce.
+
+Additionally, the text discusses the competitive landscape among tech giants, highlighting the potential impact of TikTok's market presence on companies like Meta and Amazon. MikMak's CEO emphasizes TikTok's role in driving consumer growth, suggesting that if TikTok were to disappear, Meta and YouTube would likely benefit from the reallocation of advertising dollars.
+
+The earnings call for Laird Superfood Inc. is also mentioned, alongside a cautionary note about certain products to avoid at Costco. Furthermore, Amazon's recent fee changes for sellers have been described as burdensome, reflecting the challenges faced by merchants on the platform.
+
+The semiconductor market is addressed, indicating a potential downturn after a period of rapid growth driven by advancements in AI and data centers. Analysts suggest that investors should consider selling certain semiconductor stocks due to an unfavorable outlook.
+
+Overall, the text encapsulates the current state of major tech companies, their financial performance, and the evolving dynamics within the tech and advertising sectors.
+        The latest news highlights significant challenges faced by Tesla, particularly in the Chinese market, where reports indicate increasing scrutiny and probes into its operations. Elon Musk has raised substantial funds for xAI, despite ongoing issues at Tesla, including executive resignations and layoffs that have affected company morale. Tesla's stock has been under pressure, experiencing a decline after a brief period of gains, as it grapples with legal disputes related to labor practices and anti-union allegations.
+
+In contrast, BP is looking to expand its electric vehicle (EV) charging unit in the U.S. following Tesla's disbandment of its EV charging team. Meanwhile, Toyota reported strong financial results, leveraging its hybrid vehicle expertise amid a slowdown in the EV market, and has partnered with Tencent to enhance its software capabilities.
+
+The tech sector is also witnessing a competitive landscape in generative AI, with Google, Microsoft, and Meta each pursuing distinct strategies. Meta's recent earnings report indicates robust growth in its AI segment, particularly with the launch of the Llama 3 AI model. Additionally, Meta is expanding its generative AI offerings, which could enhance its revenue prospects.
+
+The ongoing investigation into child exploitation on Meta platforms has led to arrests, highlighting the platform's regulatory challenges. As the tech industry evolves, companies are focusing on AI advancements and strategic partnerships to maintain competitiveness and drive growth. Overall, the landscape is marked by both opportunities and significant hurdles as these companies navigate market dynamics and regulatory scrutiny.
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Google, OpenAI, and Microsoft. 
+
+OpenAI is set to announce a new AI-powered search product that aims to compete with Google, intensifying the rivalry in the search engine market. This announcement is strategically timed just before Google's annual I/O conference, where the company is expected to showcase various AI innovations. 
+
+The competition among tech giants is further highlighted by the differing strategies of Google, Microsoft, and Meta in the generative AI space. Each company is pursuing unique approaches to attract investment, with Microsoft targeting enterprise clients, while Google has a history of developing popular applications for Android.
+
+Additionally, Google is facing significant legal challenges, including a major antitrust trial that could reshape its operations and influence in the tech industry. The outcome of this trial, initiated by the Justice Department, is anticipated to have far-reaching implications for Google and other large tech firms.
+
+In the broader market context, there is a focus on earnings reports from various companies, including GoodRx and Roblox, with stock buybacks reaching their highest levels since 2018. Alphabet is reportedly in discussions to acquire HubSpot, indicating ongoing consolidation in the tech sector.
+
+Overall, the landscape is characterized by intense competition, legal scrutiny, and strategic partnerships, as companies navigate the evolving demands of technology and market dynamics.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

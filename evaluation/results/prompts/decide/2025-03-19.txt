@@ -1,0 +1,61 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 480.89.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly those included in the QQQ index. Key highlights include the Federal Reserve's decision to maintain interest rates, which has led to a positive market response as investors feel reassured amid economic uncertainties. The Fed's cautious stance suggests potential rate cuts later in the year, reflecting a careful approach to managing inflation and economic growth.
+
+Several articles discuss the implications of the Fed's decisions on stock performance, particularly for the Dow Jones and S&P 500 indices. The market's reaction indicates a rise in stock prices, with discussions around managing investment risks in a volatile environment. 
+
+In addition, there are insights into the Invesco QQQ ETF, including the launch of the Invesco QQQ 15 Index, which aims to enhance investment strategies in the tech sector. Analysts suggest that the recent downturn in tech stocks may present buying opportunities, particularly for companies like Amazon (AMZN) and Nvidia (NVDA), which are highlighted for their significant upside potential.
+
+The text also touches on Apple Inc. (AAPL), with various analysts providing perspectives on its stock performance and future outlook. Notable commentary includes concerns about delays in product developments, such as Siri, and the company's positioning in the AI market. Overall, the content reflects a dynamic landscape in tech investments, characterized by cautious optimism and strategic opportunities amidst economic fluctuations.
+        The text discusses various developments in the technology and finance sectors, particularly focusing on Nvidia and its recent activities. Nvidia's CEO, Jensen Huang, has been a prominent figure, unveiling new AI chips at the GTC 2025 event, which has generated significant market interest. The company is also noted for its advancements in AI computing, with the introduction of the Blackwell Ultra platform promising substantial speed improvements for AI models.
+
+CoreWeave, an AI startup backed by Nvidia, is preparing for an initial public offering (IPO) with a proposed share price range of $47 to $55. This move is seen as a reflection of the growing interest in AI technologies and their potential market value. Meanwhile, Nvidia's stock performance has been mixed, with fluctuations noted around the GTC event, as investors look for positive catalysts to boost the stock.
+
+The Federal Reserve's recent decision to maintain interest rates has also influenced market dynamics, with implications for tech stocks. Analysts are observing Nvidia closely, with some suggesting it remains a strong investment despite recent stock price declines. The text highlights the competitive landscape in the semiconductor industry, with Nvidia's innovations positioning it as a leader in AI technology.
+
+Additionally, partnerships between Nvidia and major companies like Microsoft and General Motors are mentioned, indicating a broader trend of integrating AI into various sectors. Overall, the text reflects a vibrant intersection of technology advancements, market strategies, and investment opportunities in the AI and semiconductor fields.
+        The text discusses various developments and news related to Amazon and the broader retail sector. Key highlights include:
+
+1. **Legal Challenges**: Amazon has faced legal issues, including a significant court ruling where it was held responsible for product recalls, as well as a loss in a privacy case resulting in a hefty fine from Luxembourg's regulator.
+
+2. **Market Performance**: The text notes fluctuations in stock performance, particularly for Amazon (AMZN), which has seen declines despite overall market gains. Analysts are discussing the stock's potential and upcoming catalysts that could influence its value.
+
+3. **Job Cuts**: Amazon is reportedly planning to lay off around 14,000 managers as part of a cost-saving strategy, which reflects broader challenges within the company and the retail sector.
+
+4. **Acquisitions and Innovations**: Alphabet's acquisition of Wiz is highlighted as a strategic move to enhance its cloud security capabilities, indicating a competitive landscape in tech and security.
+
+5. **Retail Sector Insights**: The text mentions investment opportunities in companies like eBay and TJX, which are seen as resilient amid retail struggles, suggesting a shift in consumer behavior and market dynamics.
+
+6. **Product and Service Updates**: Amazon is making changes to its Echo devices, including the removal of a privacy setting, which has raised concerns about user data handling.
+
+7. **Expansion Plans**: There are reports of Amazon seeking to build a new distribution facility in Essex, indicating ongoing growth and logistical enhancements.
+
+Overall, the text reflects a mix of challenges and strategic moves within Amazon and the retail sector, emphasizing legal, operational, and market dynamics that could shape future developments.
+        The text discusses various developments in the stock market, particularly focusing on Tesla and Meta Platforms. 
+
+Tesla is facing significant challenges, with its stock price declining due to increased competition from companies like BYD, which are innovating in cost efficiency and technology. Analysts express concerns about Tesla's market share and the lack of new, compelling vehicle offerings to attract buyers. Recent reports highlight a 5% drop in Tesla's stock attributed to quality concerns regarding the Cybertruck and a broader trend of declining stock prices for the company over several weeks. Additionally, there are calls for Elon Musk to step down from his position as CEO, reflecting investor dissatisfaction.
+
+In the broader market context, the Federal Reserve's recent decisions have led to a rebound in stock prices, particularly in the tech sector, with the Nasdaq showing notable gains. Analysts are advising on potential stock purchases, including Tesla, despite its current struggles. The text also mentions the performance of other tech stocks and the overall market sentiment, which appears to be cautiously optimistic following the Fed's policy shifts.
+
+Meta Platforms is also highlighted, with discussions around its stock performance and strategic decisions, including AI investments and the rebranding of its virtual reality initiatives. The company is facing scrutiny over its handling of a whistleblower book that has gained popularity despite attempts to suppress it.
+
+Overall, the text reflects a turbulent period for both Tesla and Meta, with significant investor interest and market volatility shaping their futures.
+        The text discusses several significant developments related to Alphabet Inc. and its recent acquisition of the cybersecurity firm Wiz for $32 billion, marking the largest deal in the company's history. This acquisition is seen as a strategic move to enhance Alphabet's position in the cloud security sector, reflecting its ambition to lead in this area. The deal is expected to yield substantial returns for venture capital investors involved with Wiz, potentially reaching up to 200 times their initial investment.
+
+Additionally, the text highlights ongoing regulatory challenges faced by Alphabet and Apple from the European Union, which is intensifying its antitrust enforcement against major tech companies. Google has been charged with breaching EU regulations, while Apple has been instructed to facilitate better connectivity for rivals using its devices.
+
+The market's reaction to Alphabet's acquisition has been mixed, with stock prices experiencing a decline following the announcement. Analysts are divided on the implications of this deal, with some suggesting that the market may be overlooking the broader potential of Alphabet's diverse revenue streams, including YouTube, Cloud, and AI.
+
+Furthermore, the text mentions the competitive landscape in AI, with insights from Google DeepMind's CEO predicting that AI will surpass human intelligence within the next five years. This underscores the urgency for tech companies to innovate and adapt in a rapidly evolving market.
+
+Overall, the content reflects a critical moment for Alphabet as it navigates significant acquisitions, regulatory scrutiny, and the competitive pressures of the AI landscape.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

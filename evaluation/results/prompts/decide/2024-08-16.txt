@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 475.03.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies and market trends. Key highlights include:
+
+1. **Market Movements**: The CBOE VIX index has surged, indicating increased market volatility. Wall Street has shown slight gains as consumer sentiment improves, while gold prices have reached record highs, positively impacting mining stocks.
+
+2. **Economic Indicators**: Recent data reveals that U.S. households have reduced their savings, leading to a 1% increase in retail sales, despite a contraction in average weekly earnings. This trend raises questions about the sustainability of the current economic cycle, especially in the context of the post-COVID labor market recovery.
+
+3. **Tech Sector Analysis**: Analysts are cautiously optimistic about the tech sector, noting that while it has led market recoveries, it remains the worst-performing sector since July. The semiconductor industry, after experiencing significant sell-offs, is showing signs of recovery. Upcoming product launches, particularly from Nvidia and Apple, are anticipated to drive further market activity.
+
+4. **Epic Games' App Store Launch**: Epic Games has launched a rival app store in the EU, challenging Apple's dominance in the app market. This move follows a prolonged legal battle and signifies a shift in the competitive landscape for mobile applications.
+
+5. **Apple's Market Position**: Apple continues to attract investor attention, with analysts divided on its stock's potential. Recent earnings reports indicate stronger-than-expected sales, although iPhone sales have declined. Analysts remain optimistic about Apple's future, particularly in relation to AI developments.
+
+Overall, the text encapsulates a dynamic period for tech companies, marked by market fluctuations, evolving consumer behavior, and significant competitive shifts within the industry.
+        The text discusses recent developments in the technology sector, particularly focusing on Nvidia (NVDA) and its performance in the stock market. Nvidia's portfolio, which includes companies like Arm, SoundHound AI, Nano X Imaging, Recursion Pharmaceuticals, and Serve Robotics, experienced mixed results in the second quarter of 2024. While most stocks in Nvidia's portfolio saw declines, some, like Arm and SoundHound AI, outperformed the S&P 500.
+
+The stock market recently had its best week of 2024, largely driven by Nvidia's performance. Fed Chair Jerome Powell's upcoming speech at Jackson Hole and key earnings reports are anticipated to influence market trends. Nvidia's stock closed at $124.58, reflecting a 1.4% increase from the previous day, amidst a broader tech rally that has positively impacted major U.S. indices.
+
+Nvidia has been a standout performer in the AI sector, with significant revenue growth attributed to the ongoing AI boom. Despite concerns about a potential market bubble, analysts remain optimistic about Nvidia's future, citing its competitive edge and innovation in the industry. The company is expected to report its fiscal Q2 earnings soon, which could further influence the AI market.
+
+Additionally, the text touches on the broader implications of AI in various sectors, including cybersecurity, where businesses are reassessing their reliance on a limited number of vendors following recent outages. The ongoing developments in AI and technology are shaping market dynamics, with companies like Microsoft also making strides in AI-related partnerships and innovations. Overall, the tech sector is experiencing significant volatility and growth, with Nvidia at the forefront of this transformation.
+        The text provides a summary of recent news regarding major tech companies, particularly focusing on Amazon (AMZN), Rivian, and Broadcom (AVGO). 
+
+Amazon's stock has been a topic of interest, especially following its record-breaking sales during Prime Day and the cautious consumer spending forecasts that have affected its revenue outlook. Analysts are debating whether Amazon's stock is undervalued, with some suggesting it could be a significant investment opportunity. 
+
+Rivian Automotive has faced challenges, notably a temporary halt in production of its electric delivery vans for Amazon due to parts shortages. This has raised concerns about Rivian's future earnings, although analysts advise investors not to panic over the stock's recent decline.
+
+Broadcom is highlighted as a strong investment option, particularly in the context of artificial intelligence (AI) growth. Analysts are optimistic about Broadcom's potential, especially following its acquisition of VMware and its involvement in the AI sector. The company is also noted for its dividend growth, making it an attractive choice for investors.
+
+Overall, the news reflects a mixed outlook for these companies, with Amazon navigating consumer caution, Rivian addressing production issues, and Broadcom positioned for growth in the AI market. The tech sector appears to be influenced by broader economic conditions, including potential interest rate cuts, which could impact stock performance across the board.
+        The text discusses several key developments in the business and technology sectors, particularly focusing on generative AI and its impact on various industries. Generative AI is rapidly transforming business operations, with major tech companies like Nvidia, Meta, Alphabet, and Tesla leading the charge. This technology is expected to streamline tasks, analyze large datasets, and automate jobs traditionally performed by humans.
+
+In the stock market, Nvidia has recently driven significant gains, marking the best week of 2024 for the market. The Federal Reserve's upcoming speech by Jerome Powell is anticipated to influence market trends, alongside key earnings reports. Additionally, defense tech startup Anduril has secured $1.5 billion in funding to adopt a Tesla-like approach to weapons manufacturing.
+
+Tesla's stock has shown volatility, with recent trends indicating a potential decline despite positive retail and job data. New Cybertruck owners have reported receiving vehicles with dirt and mud, raising concerns about quality control.
+
+Meta Platforms is highlighted as a strong investment opportunity, with its net income surging and a growing user base. The company is also facing scrutiny over its handling of drug advertisements on its platforms, prompting bipartisan inquiries from U.S. lawmakers.
+
+Furthermore, a California bill aimed at regulating AI safety has been amended to address concerns from the tech industry. The text also mentions the performance of Super Micro Computer Inc. as the most shorted large-cap security in July, surpassing Tesla.
+
+Overall, the content reflects a dynamic landscape in technology and finance, with significant implications for investors and industry stakeholders.
+        The text discusses recent developments and trends in the technology sector, particularly focusing on major companies like Alphabet (GOOGL), Nvidia (NVDA), and Epic Games. 
+
+Generative AI is highlighted as a transformative force in business, with tech giants leveraging it to enhance operations across various industries. Analysts are optimistic about the potential of AI to simplify tasks, synthesize data, and automate jobs. The article also notes that several hedge funds have reduced their investments in big tech companies ahead of a global market sell-off, indicating a shift in investor sentiment.
+
+Epic Games has launched a new app store in the EU, challenging Apple's dominance in the market, which follows a protracted legal dispute. Nvidia's upcoming earnings report is anticipated to influence the AI sector positively if results meet expectations, potentially revitalizing interest in AI investments.
+
+Concerns regarding Alphabet's stock are raised in light of a possible breakup due to antitrust issues, although many investors believe the recent legal challenges may not significantly impact shareholder value. The text also mentions the introduction of local language support for AI in markets like Indonesia and Mexico, reflecting Alphabet's commitment to expanding its AI capabilities.
+
+Jim Cramer recommends investing in Clorox, praising its CEO for effective leadership. Additionally, the adtech industry is adapting to new regulations regarding third-party cookies, which could reshape how digital advertising operates.
+
+Overall, the text provides insights into the evolving landscape of technology investments, the impact of AI, and the strategic moves by major companies in response to market dynamics.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,55 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 446.38.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a collection of recent news articles and updates related to tech companies, particularly focusing on the Invesco QQQ Trust and Apple Inc. 
+
+Key highlights include:
+
+1. **Invesco QQQ Trust**: The QQQ fund, which tracks the performance of the Nasdaq-100 Index, is noted for its impressive long-term performance, celebrating its 25th anniversary. Analysts have commented on its "dazzling lifetime performance," while also discussing its recent challenges, including a decline in popularity despite growth stocks performing well in 2024. There are mentions of the fund's expansion to include a small-cap ETF and strategies for creating an all-weather portfolio.
+
+2. **Apple Inc.**: Apple has been in the spotlight for its financial performance, with reports indicating better-than-expected earnings driven by strong iPhone sales and record services revenue. However, there are concerns regarding its streaming service, which is reportedly losing $1 billion annually. Analysts have provided forecasts for Apple stock, suggesting it remains a strong buy for investors despite some fluctuations in stock performance and outlook.
+
+3. **Market Trends**: The text also touches on broader market trends, including the impact of ESG factors on proxy voting and the performance of major indices like the S&P 500 and Nasdaq during corrections. 
+
+Overall, the content reflects a focus on investment insights, stock performance, and market analysis related to key tech companies, particularly highlighting the ongoing developments and challenges faced by the QQQ fund and Apple Inc.
+        The text discusses various developments and financial performance related to Nvidia and Microsoft, two major players in the technology sector, particularly in artificial intelligence (AI) and cloud computing.
+
+Nvidia has experienced significant growth, with its revenue reportedly increasing by 265% due to the booming AI business. The company’s stock surged over 200% in 2023, reflecting strong investor confidence. Analysts are closely watching Nvidia's potential stock split in 2024 and its ability to maintain momentum in the AI chip market. The company is also making strategic moves, such as acquiring synthetic data provider Gretel and introducing new AI chips, which could further enhance its market position.
+
+On the other hand, Microsoft is also navigating the evolving tech landscape. The company is focusing on its cloud strategy and has made notable acquisitions, including Activision Blizzard and Nuance, to bolster its offerings. Analysts suggest that Microsoft is well-positioned to benefit from AI growth, despite facing some market challenges. The company’s stock has shown resilience, with positive forecasts regarding revenue growth and dividends.
+
+Both companies are at the forefront of technological advancements, with Nvidia leading in AI hardware and Microsoft expanding its cloud services. Investors are keenly observing their financial results and strategic initiatives as they adapt to the rapidly changing market dynamics. The overall sentiment is optimistic for both Nvidia and Microsoft, with expectations of continued growth driven by their innovations in AI and cloud computing.
+        The text provides a collection of recent news articles related to major tech companies, particularly focusing on Amazon and Broadcom. 
+
+Amazon has been in the spotlight for various reasons, including its financial performance, with reports indicating a 13% revenue increase and a significant surge in stock value, amounting to a record $190 billion gain. The company has also faced legal challenges, such as a lawsuit from California's Attorney General for allegedly blocking price competition and a shareholder lawsuit regarding the capacity expansion of third-party sellers. Additionally, Amazon has announced the termination of its pending acquisition of iRobot and is set to expand its offerings by allowing the sale of used cars on its platform.
+
+In the realm of partnerships and innovations, Amazon Web Services (AWS) has extended its collaboration with NVIDIA to enhance generative AI capabilities. The company is also focusing on improving customer review experiences through AI technology.
+
+Broadcom, another key player in the tech sector, has reported strong financial results, including a significant revenue increase in Q1 of fiscal 2024. The company has been active in acquisitions, completing a $69 billion deal to buy VMware, which is expected to reshape its business landscape. Broadcom's stock has faced fluctuations, with discussions around its future performance and potential stock splits.
+
+Overall, the news highlights the dynamic nature of the tech industry, showcasing both the growth and challenges faced by these major companies as they navigate market demands and legal landscapes.
+        The text provides a collection of recent news articles and updates related to major tech companies, particularly focusing on Tesla, SpaceX, and Meta. 
+
+For Tesla, there are discussions about stock performance, including a notable jump attributed to Morgan Stanley's commentary and concerns regarding potential delivery misses in Q1. Investors are expressing their desire for stock buybacks to enhance share value, while the company faces scrutiny over its earnings calls and recalls due to safety issues with Autopilot features. Additionally, there are insights into Tesla's vehicle performance, such as the durability of the Model 3 after significant mileage.
+
+SpaceX news highlights various missions, including the return of NASA's Boeing Test Crew and the launch of new crews to the International Space Station. There are also updates on SpaceX's reliance on stainless steel for its Starship Mars rocket and contract awards from NASA for lunar missions.
+
+Meta's updates include the rollout of AI tools in the EU amid regulatory challenges, new features aimed at enhancing user experience, and measures to provide more age-appropriate content for teens. The company is also preparing for the upcoming elections in 2024 and has made headlines for eliminating fact-checking processes.
+
+Overall, the text encapsulates the dynamic landscape of these tech giants, showcasing their innovations, challenges, and strategic moves in the market.
+        The text provides a comprehensive overview of recent news and analyses concerning Alphabet Inc. (GOOGL and GOOG), focusing on stock performance, market strategies, and corporate developments. Key highlights include discussions on the differences between Alphabet's Class A (GOOGL) and Class C (GOOG) shares, with various articles suggesting which ticker might be more advantageous for investors. 
+
+Recent analyses indicate that GOOGL shares may be undervalued, particularly in light of Alphabet's fluctuating free cash flow and the impact of YouTube's performance on overall earnings. The company is also facing scrutiny from shareholders demanding greater transparency and accountability following significant job cuts—12,000 positions—implemented to refocus on artificial intelligence after a pandemic-related hiring surge.
+
+Additionally, Alphabet is expanding its business strategies, including a notable collaboration with Reddit and plans to spin off its wireless optical broadband project, Taara, to compete with Starlink. The company is also navigating legal challenges, such as a substantial fine imposed by the European Commission for antitrust violations.
+
+Overall, the text encapsulates the current landscape for Alphabet, highlighting its stock dynamics, strategic partnerships, and ongoing challenges in the tech industry, while providing insights for potential investors considering GOOGL or GOOG shares.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,59 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 474.15.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text discusses recent developments in the technology sector, particularly focusing on major companies like Apple and the implications of economic indicators on the stock market. 
+
+Key highlights include the Federal Reserve's recent decisions regarding interest rates and inflation. The May Consumer Price Index (CPI) report showed softer inflation than expected, leading to speculation about potential interest rate cuts later in the year. Fed Chair Jerome Powell indicated that while the CPI report is a positive sign, it does not necessitate immediate policy changes. The Fed's stance remains cautious, projecting higher inflation and a tighter monetary policy, which could impact market performance.
+
+Apple's stock has been a focal point, briefly surpassing Microsoft in market capitalization following announcements related to artificial intelligence (AI) initiatives. Analysts are evaluating the potential of these AI features to drive consumer interest and product upgrades. Despite some skepticism about whether Apple's AI advancements will lead to significant changes in user experience, the company's stock has seen a notable rise, reflecting investor optimism.
+
+Broadcom also reported strong earnings, driven by demand for AI-related products, contributing to a positive market sentiment. The overall market, including the Nasdaq and S&P 500, reached new highs as investors reacted to the latest economic data and corporate earnings.
+
+In summary, the text outlines a landscape where tech companies are navigating economic challenges and opportunities, particularly through AI innovations, while the Federal Reserve's monetary policy continues to shape market expectations.
+        The latest news highlights significant developments in the tech sector, particularly focusing on major companies like Apple, Microsoft, and Nvidia, as they navigate the evolving landscape of artificial intelligence (AI).
+
+Dialpad's CEO, Craig Walker, emphasizes the importance of AI in enhancing business communications and operations. His company aims to leverage real-time analysis of business communications to identify customer trends, ultimately boosting productivity and efficiency.
+
+Apple's recent AI announcements have positively impacted its stock, briefly elevating its market capitalization above Microsoft. Analysts express mixed feelings about whether Apple's AI initiatives can drive a new product cycle, noting that while the potential for generative AI is promising, the current hardware may not be revolutionary enough to necessitate upgrades for users.
+
+Nvidia is also in the spotlight, with its stockholder meeting scheduled for June 26. The company is seen as a key player in the AI race, with analysts predicting it could reach a $4 trillion market cap ahead of its competitors. Nvidia's stock has been buoyed by bullish macroeconomic data and its strong position in the semiconductor market.
+
+The broader market trends indicate that the Nasdaq and S&P 500 have reached new highs, driven by cooler-than-expected inflation and steady interest rates from the Federal Reserve. Analysts believe that AI advancements will significantly boost sales for companies like Apple, with projections suggesting substantial iPhone sales in the coming years.
+
+Overall, the tech sector is experiencing a transformative phase, with AI at the forefront, influencing stock valuations and market dynamics among leading companies.
+        The text provides recent news about major tech companies, particularly focusing on Amazon and Broadcom. 
+
+Amazon is set to launch a satellite internet service in South America in collaboration with Vrio, positioning itself against competitors like Starlink. Despite claims of employee satisfaction, some Amazon workers express skepticism about the company's practices. The earnings season is highlighted as a crucial time for investors, with the S&P 500 nearing record highs due to expectations of moderated Federal Reserve rate cuts and easing inflation. Analysts predict that advancements in AI will significantly boost iPhone sales, with projections of 247 million units sold in 2025.
+
+In Canada, an antitrust investigation into Amazon's marketing practices continues, with a court order compelling the company to provide relevant documents. Additionally, Amazon has made a substantial investment in its Housing Equity Fund, aiming to create and preserve 14,000 affordable homes.
+
+Broadcom has also been in the spotlight, reporting strong earnings that exceeded expectations, driven by demand for AI-related products. The company announced a 10-for-1 stock split and raised its revenue forecast for AI chips, indicating robust growth in this sector. Broadcom's stock surged following these announcements, reflecting investor optimism.
+
+Overall, the news underscores the competitive landscape in the tech industry, with both Amazon and Broadcom making significant moves that could impact their market positions and investor confidence. The focus on AI and its implications for sales and revenue growth is a recurring theme, highlighting the technology's transformative potential in various sectors.
+        The latest news highlights significant developments in major tech companies, particularly Tesla and Meta Platforms. 
+
+Tesla is currently facing shareholder votes on CEO Elon Musk's proposed pay package, valued at $46 billion. Musk has indicated that the resolutions regarding his compensation and the company's potential relocation of its legal headquarters to Texas are likely to pass. However, there is notable dissent among shareholders, with a poll indicating that 96% of over 400,000 respondents oppose the pay package. Critics, including investor Ross Gerber, argue that the board has mishandled the situation and that Musk's compensation detracts from Tesla's core mission of manufacturing electric vehicles. The results of the vote will be revealed at Tesla's annual shareholder meeting.
+
+In the broader market context, the S&P 500 and Nasdaq Composite have reached record highs, buoyed by the Federal Reserve's decision to maintain interest rates amid cooling inflation. Notably, Oracle's stock has surged following a partnership with Google and OpenAI, while Broadcom has reported strong quarterly results, leading to a stock split and increased dividends.
+
+Meanwhile, Meta Platforms is navigating challenges related to content creator retention and regulatory scrutiny. Analysts suggest that Meta's efforts to support creators may be costly, impacting its financial performance. Despite these challenges, some analysts maintain a positive outlook on Meta's stock, citing strong fundamentals and potential for growth driven by AI integration.
+
+Overall, the tech sector is experiencing a mix of optimism and concern, with significant shareholder actions and market movements shaping the landscape.
+        The text discusses various developments and predictions in the technology sector, particularly focusing on artificial intelligence (AI) and major companies like Google, Oracle, and Alphabet. 
+
+Opera is highlighted as an underrated AI stock with a yield over 5%, a rarity in the tech sector where many stocks are highly valued but do not pay dividends. Google is noted for its potential to enter a new growth cycle driven by AI advancements, with its stock nearing a new buy point. Nvidia is anticipated to have a significant growth catalyst that has not yet been widely recognized by investors.
+
+Oracle's recent partnership with OpenAI is emphasized as crucial for its future growth, despite the company missing earnings expectations. The Department of Justice is investigating YouTube for its potential to enable Google to dominate the home entertainment market. Predictions suggest that Alphabet and Amazon may surpass Apple in market value over the next decade.
+
+Amdocs has partnered with Google Cloud to enhance eSIM capabilities, which could improve the adoption of eSIM technology globally. Additionally, the National Highway Traffic Safety Administration is probing Waymo, Alphabet's self-driving vehicle initiative, due to performance concerns.
+
+The text also mentions the hiring plans of Taiwan Semiconductor Manufacturing Co. in Europe, reflecting ongoing trends in the tech industry, including significant layoffs. Overall, the technology sector is experiencing a transformative phase, with AI integration becoming a focal point for growth and competition among major players.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

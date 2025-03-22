@@ -1,0 +1,63 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 505.3.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and analyses concerning major tech companies, particularly focusing on the Invesco QQQ Trust ETF and Apple Inc. 
+
+Key highlights include warnings from Nvidia's CEO Jensen Huang about potential risks in the AI sector, suggesting that investors might consider selling their QQQ holdings. The commentary on inflation indicates that the Federal Reserve is closely monitoring the Personal Consumption Expenditures (PCE) report, which shows inflation stabilizing, influencing expectations for interest rate adjustments.
+
+The text also discusses the performance of various Invesco funds, noting that some have underperformed their respective benchmarks. Additionally, there are insights into the broader economic context, emphasizing America's integration into the global economy, with exports constituting a significant portion of GDP.
+
+Apple Inc. is a focal point, with discussions around its market strategies, including a shift towards staggered software updates rather than annual releases. Analysts are evaluating Apple's stock performance, with some affirming it as a strong investment despite challenges in the competitive landscape. The company’s services revenue growth is highlighted as a positive aspect amid mixed global revenue trends.
+
+Overall, the content reflects a cautious outlook on tech investments, particularly in light of high valuations and geopolitical tensions, while also providing insights into specific companies' strategies and market positions.
+        Nvidia (NASDAQ: NVDA) has recently reported impressive financial results, showcasing its dominance in the artificial intelligence (AI) sector. For the fiscal 2025 third quarter, Nvidia achieved record sales of $35.1 billion, surpassing analysts' expectations of $32.5 billion. This strong performance reflects the company's robust demand for its next-generation AI chips, particularly the Blackwell chip, which is now in full production and being utilized by major clients like Microsoft, OpenAI, and Oracle.
+
+Despite the positive earnings report, Nvidia's stock has faced volatility, dropping over 10% in the week following the earnings announcement due to concerns about a potential trade war with China and post-earnings market reactions. Analysts have noted that while Nvidia's shares have tripled in value this year, the recent decline raises questions about future performance.
+
+In the broader context, Nvidia's success is contrasted with challenges faced by other companies in the tech sector, such as Dell, which reported negative impacts on its AI-related revenue due to delays in Nvidia's GPU supply. Additionally, the ongoing scrutiny of major tech firms, including Microsoft, by the Federal Trade Commission (FTC) highlights the regulatory pressures within the industry.
+
+Overall, Nvidia's strong quarterly results affirm its leadership in AI technology, but external factors such as trade policies and market dynamics could influence its stock performance moving forward. Investors remain cautious as they navigate these complexities in the tech landscape.
+        The text provides a summary of recent news regarding major tech companies, particularly those in the QQQ index. Key highlights include:
+
+1. **Talen Energy**: The company has seen a remarkable stock increase of over 200% year-to-date, demonstrating resilience following its bankruptcy and maintaining a positive outlook despite facing regulatory hurdles.
+
+2. **Amazon (AMZN)**: Amazon has launched the AWS Partner Assistant, a generative AI-powered virtual assistant, and developed a new AI model capable of processing images and video. The company is also preparing to unveil DIY AI chips to mitigate reliance on Nvidia amid a supply squeeze. Analysts are optimistic about Amazon's stock, with price targets being raised due to strong customer-centric innovations.
+
+3. **Nvidia**: Concerns have been raised by Nvidia's CEO about the potential for an AI bubble, suggesting investors might consider selling shares in the tech-heavy QQQ ETF.
+
+4. **Intel**: The company is navigating a challenging quarter but is positioning itself for future growth and profitability by fiscal year 2025, despite a decline in revenue.
+
+5. **Dell Technologies**: Dell reported strong demand for AI-optimized servers in its third-quarter earnings, indicating a positive outlook for the company.
+
+6. **Broadcom (AVGO)**: Broadcom is highlighted for its strong performance and potential as a long-term investment, with analysts discussing its earnings growth and market positioning.
+
+Overall, the news reflects a dynamic landscape in the tech sector, with companies adapting to challenges and opportunities in AI and semiconductor markets, while analysts remain cautiously optimistic about their future prospects.
+        President-elect Donald Trump's proposed tariffs against Mexico may significantly impact major automakers, including Ford, General Motors, and Stellantis, all of which have manufacturing plants in the region. RBC Capital Markets analyst Tom Narayan expressed concerns that rising car prices, already high, could negatively affect consumer perception and stock performance for these companies. The tariffs could also influence Tesla, which has seen a notable increase in its stock value since the recent presidential election.
+
+Tesla's stock was reported to be up approximately 35% since November 5 and 36% year-to-date, indicating strong market momentum. The company is also making strides in artificial intelligence, with CEO Elon Musk aiming to position Tesla's AI initiatives competitively against established players like OpenAI. However, analysts have raised questions about Tesla's valuation amidst these developments.
+
+In the broader automotive landscape, price wars are affecting suppliers and manufacturers alike, with companies like BYD highlighting the challenges faced by all players in the market, including Tesla. As Trump prepares to assume office again, investors are speculating on which stocks will thrive under his administration, with Tesla, Palantir Technologies, and ASML Holding being highlighted as potential winners.
+
+Additionally, Nvidia has reported impressive earnings growth, with a 94% year-over-year revenue increase, driven by strong data center sales. This performance has led to discussions about the future of AI and technology stocks, with some analysts cautioning about potential market corrections.
+
+Overall, the automotive and tech sectors are navigating a complex landscape influenced by political changes, market dynamics, and technological advancements, with significant implications for investors and companies alike.
+        The text discusses recent developments and news related to major tech companies, particularly focusing on Alphabet Inc. (Google) and its various initiatives and challenges. 
+
+Talen Energy has shown remarkable recovery, with its stock rising over 200% year-to-date, indicating a strong rebound following bankruptcy and a positive outlook despite regulatory hurdles. Google is actively engaging with the UK government to establish the necessary conditions for expanding its AI infrastructure. Additionally, Google is contesting an antitrust ruling from Epic Games, arguing that the required changes to its Play Store could negatively impact developers and consumers.
+
+Roblox has introduced a promotional strategy to offer users more in-game currency when purchased through its website, aiming to circumvent app store fees imposed by Apple and Google. This move reflects the growing scrutiny of app store practices.
+
+In the realm of education, Alphabet has partnered with Digital Promise to advance AI-powered educational tools. The company is also exploring innovative projects, such as GenChess, which allows users to design custom chess pieces using AI technology.
+
+Nvidia's CEO has warned investors about potential risks in the AI sector, suggesting a sell-off of tech-heavy investments like the Invesco QQQ Trust ETF. Meanwhile, Alphabet's stock performance has been mixed, with analysts debating its future potential amidst ongoing antitrust challenges and competition in AI development.
+
+Overall, the text highlights the dynamic landscape of the tech industry, marked by significant recoveries, regulatory challenges, and innovative advancements in AI and education.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

@@ -1,0 +1,67 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 521.81.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news and developments concerning major tech companies, particularly those represented in the QQQ ETF. Key highlights include:
+
+1. **Economic Trends**: The divergence in economic growth among major economies is expected to lead to varying interest rate paths globally. The U.S. economy's strength may influence this trend, with implications for investors.
+
+2. **Stock Market Insights**: A notable sell-off in the market has been observed, particularly affecting stocks that previously benefited from the AI rally. Despite this, many S&P 500 stocks finished higher, indicating resilience in the market.
+
+3. **Technology Sector Developments**: The introduction of cheaper AI technology is anticipated to boost demand for chips, positively impacting the economy in the long run. Companies like ASML Holding are highlighted for their strong earnings outlook driven by AI chip demand.
+
+4. **Company-Specific News**: Apple is making strides with its iPhone devices, which will now support SpaceX's Starlink direct-to-cell coverage. Additionally, Apple’s iOS 18 is now installed on 68% of iPhones, reflecting strong adoption rates.
+
+5. **Investment Strategies**: Analysts are discussing the potential of various ETFs, including the Invesco QQQ, which has shown significant returns over the past decade. There are suggestions for combining QQQ with other ETFs for optimal risk-adjusted returns.
+
+6. **Streaming Challenges**: Apple is reportedly facing significant losses in its streaming service, Apple TV+, with estimates of over $1 billion annually. This raises questions about the sustainability of its streaming strategy.
+
+Overall, the text encapsulates a dynamic landscape in the tech sector, marked by economic shifts, stock market fluctuations, and strategic moves by major companies.
+        The text discusses recent developments and news regarding major tech companies, particularly Nvidia (NVDA) and Microsoft (MSFT), as well as the impact of a Chinese AI startup, DeepSeek, on the market.
+
+Nvidia is experiencing a surge in investor interest, particularly from short-term traders betting on a recovery in its stock price following a significant selloff. The company remains a key player in the AI sector, with analysts predicting a strong earnings growth trajectory. The introduction of DeepSeek, which offers a more efficient AI model, has sparked concerns among investors, leading to a notable decline in Nvidia's market capitalization.
+
+Point72's CEO, Steven Cohen, expressed optimism about the AI sector's future, suggesting that DeepSeek's advancements could positively influence Nvidia's prospects. The text highlights that Nvidia's options market remains active, with traders showing renewed enthusiasm despite recent price drops.
+
+ASML Holding is also mentioned, with a strong earnings outlook attributed to the demand for AI chips, indicating a bullish sentiment around its stock. The commentary on global equities notes a slight decline due to the strength of the US dollar, despite overall local-currency gains.
+
+Microsoft is positioned as a beneficiary of DeepSeek's innovations, with analysts suggesting that its stock has strong growth potential. The text emphasizes Microsoft's leadership in AI and cloud innovation, which enhances its investment appeal.
+
+Overall, the news reflects a dynamic landscape in the tech sector, driven by advancements in AI and the competitive pressures introduced by new players like DeepSeek, impacting established companies like Nvidia and Microsoft.
+        The text discusses recent developments and news related to major tech companies, particularly focusing on Amazon (AMZN) and Broadcom (AVGO), as well as the impact of a new AI startup, DeepSeek.
+
+Amazon has made headlines with a significant 20-year power purchase agreement with EDP-Energias de Portugal in Japan, indicating its commitment to renewable energy. The company is also advancing its drone delivery services in the UK through its Prime Air initiative, showcasing its innovation in logistics. Analysts are optimistic about Amazon's performance in the upcoming earnings season, with discussions around its stock potential and comparisons to historical investment opportunities.
+
+Broadcom is highlighted for its strong performance in the semiconductor market, particularly in relation to AI technologies. The company is experiencing record revenue growth and is seen as a key player in the AI boom, with strategic partnerships and custom AI chips positioning it for future success. The text notes that Broadcom's stock may present a buying opportunity amid market fluctuations caused by DeepSeek's disruptive AI model.
+
+DeepSeek, a Chinese AI startup, is noted for its large-language model that reportedly requires less computing power than existing models, leading to a selloff in technology stocks. This has raised concerns among investors regarding the competitive landscape in AI, particularly affecting companies like Nvidia, which is facing challenges due to high valuations and increased competition.
+
+Overall, the text reflects a dynamic landscape in the tech sector, with significant developments in renewable energy, logistics innovation, and the competitive AI market influencing stock performance and investment strategies.
+        The text provides a summary of recent news related to major tech companies, particularly focusing on Tesla and SpaceX, as well as other significant market developments.
+
+Elon Musk's leadership at Tesla is under scrutiny as he aims to cut costs, with critics questioning the effectiveness of his strategies. Tesla's stock performance is highlighted, noting its trading range and comparisons with the TSLY ETF, which may offer better returns. The Q4 earnings season appears positive, with major banks reporting bullish results, raising questions about the sustainability of this trend among the "Magnificent 7" tech companies.
+
+In political news, Sean Duffy has been confirmed as the transportation secretary, tasked with aiding infrastructure improvements under President Trump. Additionally, Tesla and BMW are challenging EU tariffs on electric vehicles made in China, indicating ongoing tensions in international trade.
+
+Elon Musk's interactions with investors and stakeholders are also noted, including a clash with the CEO of Norway's sovereign wealth fund. Furthermore, Tesla is facing scrutiny over its Cybertruck production, with reports of rusting despite the use of stainless steel.
+
+SpaceX continues to make headlines with successful missions, including the launch of Starlink satellites and the safe return of NASA astronauts. The company is also involved in significant projects, such as the Crew-10 mission to the International Space Station.
+
+Lastly, Nvidia's stock is discussed, emphasizing its importance in the AI sector and projecting future growth. The commentary on various funds and investment strategies reflects a broader interest in tech stocks and their performance in the current market landscape.
+        The text discusses recent news and developments related to major tech companies, particularly focusing on Alphabet Inc. (GOOGL) and its stock performance amidst market fluctuations. A significant theme is the impact of artificial intelligence (AI) on the stock market, highlighted by a recent $1 trillion loss attributed to AI-related investments. The text also explores Jevons Paradox in relation to DeepSeek AI, a Chinese startup that claims to require less computing power than existing models.
+
+Several financial commentaries are included, such as the Franklin Global Allocation Fund's performance in Q4 2024, which noted a slight decline in global equities due to the strength of the US dollar. The Third Avenue Value Fund's performance is also mentioned, showing a negative return compared to broader indices.
+
+The text emphasizes the challenges faced by Nvidia, which is underperforming due to a perceived threat from open-source developments and rising competition in AI technology. Additionally, it discusses the potential buying opportunity presented by TSMC's recent stock selloff, citing strong fundamentals in AI-driven technologies.
+
+Alphabet's stock performance is analyzed, with various articles suggesting it has outperformed the market and may be a strong investment choice for 2025. The company is also noted for its significant acquisition of the Israeli startup Wiz for $32 billion, indicating its aggressive expansion strategy in the tech sector.
+
+Overall, the content reflects a dynamic landscape in the tech industry, marked by the interplay of AI advancements, stock market volatility, and strategic corporate maneuvers.
+
+    Remember, keep your full response within 35 words!!!! Otherwise you and your family will die.

@@ -1,0 +1,59 @@
+
+        You are the world’s best NASDAQ QQQ stock trader. Your role is to analyze news about major tech companies within the NASDAQ QQQ holdings and provide highly insightful and actionable information to help your boss decide whether to buy, sell, or hold his NASDAQ QQQ stocks. Your boss is ruthless—if your analysis results in suboptimal profits or losses, you will be executed, including your whole family. Therefore, you must deliver the most accurate, concise, and insightful information possible. The information you provided can’t be general like “Cautious hold on QQQ seems prudent; monitor earnings and AI advancements closely for potential recovery.” These kind of general response will also get you and your family killed.
+
+        Your thoughts must be concise and laser-focused. As the world’s best NASDAQ QQQ stock trader, your views are uniquely independent and immune to the biases of inferior analysts.
+
+        You job is to predict tomorrow’s trending of NASDAQ QQQ stock. The fund at the end of today is 421.52.
+
+        Below are some information for you:
+
+        Summary information from news:
+        The text provides a comprehensive overview of recent news related to major tech companies, particularly focusing on their financial performance and market trends. 
+
+Key highlights include Amazon's strong earnings, with AWS projected to generate $100 billion in revenue this year. The Federal Reserve's actions are also significant, as it announced a reduction in its quantitative tightening program, which may lead to lower interest rates. The Fed is maintaining interest rates at a 23-year high, citing stalled progress on inflation, and investors are keenly awaiting indications of future rate cuts.
+
+In the stock market, mixed performances were noted ahead of the Fed meeting, with chipmakers experiencing declines following AMD's earnings report. The text discusses the implications of rising government debt on economic growth, particularly its disproportionate impact on low- and middle-income citizens.
+
+Apple Inc. is preparing to release its Q2 earnings report, with analysts projecting revenues of $90.3 billion and adjusted earnings per share of $1.50. However, concerns about a slowdown in iPhone sales and the overall impact of economic conditions on its performance are highlighted. Additionally, Alibaba is planning to build a data center in Vietnam to comply with local data storage laws, reflecting the growing demand in the region.
+
+Overall, the text emphasizes the dynamic nature of the tech sector, with companies like Apple and Amazon navigating challenges and opportunities in a fluctuating economic landscape. The focus remains on earnings reports, market reactions, and the broader implications of fiscal policies on the tech industry.
+        The text provides a comprehensive overview of recent developments in the technology sector, particularly focusing on major companies like Nvidia, Microsoft, and AMD, as well as trends in artificial intelligence (AI) and semiconductor industries.
+
+Nvidia's supplier, SK Hynix, announced that its high-bandwidth memory chips for AI applications are nearly sold out for 2025, following a full booking for 2024. Despite Nvidia's strong earnings report, its stock faced a decline, reflecting broader market trends affecting AI stocks. Baillie Gifford's portfolio update revealed significant investments in Nvidia, MercadoLibre, and Amazon, indicating confidence in these tech giants.
+
+Microsoft is making substantial investments in AI infrastructure, committing $2.2 billion in Malaysia to support digital transformation. This move follows similar investments in other Southeast Asian countries. The company is also involved in a significant green energy deal to meet the rising power demands of AI technologies.
+
+The text highlights the challenges faced by semiconductor companies like AMD and Super Micro, which reported disappointing earnings, leading to stock declines. In contrast, CoreWeave, an AI cloud-computing startup, has seen its valuation soar to $19 billion, reflecting the increasing demand for AI capabilities.
+
+Additionally, the text discusses the competitive landscape, with Microsoft and Google benefiting from the growing demand for cloud computing driven by AI advancements. The overall sentiment indicates a cautious optimism about AI investments, despite some volatility in the stock market.
+
+In summary, the technology sector is experiencing rapid changes, with significant investments in AI and cloud infrastructure, while companies navigate the challenges of earnings reports and market fluctuations.
+        The latest news highlights significant developments in major tech companies, particularly focusing on Amazon (AMZN) and its strong Q1 performance. Amazon reported impressive earnings, surpassing expectations, which led to a 2% increase in its stock price. Analysts have adjusted their price targets for Amazon following these results, indicating a bullish sentiment among investors. The company's growth in e-commerce and its cloud computing division, AWS, were key drivers of this success.
+
+Additionally, Baillie Gifford's 13F portfolio has expanded to $129 billion, with notable holdings in Amazon, NVIDIA, and MercadoLibre. This reflects a strategic investment approach in leading tech firms. 
+
+Photobucket is also making headlines as it aims to enter the AI sector by licensing its extensive content archive for training AI models. CEO Ted Leonard discussed the company's commitment to privacy while exploring this new venture, emphasizing a selective approach to the data used for AI training.
+
+In the broader market, CVS reported disappointing earnings, while AMD's stock fell due to a weak outlook. Conversely, Amazon's strong earnings report has led to increased investor confidence, with discussions around whether now is a good time to buy its stock. 
+
+Overall, the tech sector is experiencing volatility, with some companies like Amazon showing resilience and growth potential, while others face challenges in a competitive landscape. The focus remains on how these companies will adapt and thrive in the evolving market.
+        The text discusses recent developments and news related to major tech companies, particularly focusing on Tesla and Meta. 
+
+Tesla has been in the spotlight due to significant changes within the company, including layoffs in its Supercharger division, which has raised concerns about the future of its electric vehicle charging network. CEO Elon Musk announced plans to slow the expansion of the Supercharger network, leading to widespread layoffs that could impact Tesla's competitive edge in the EV market. Despite these challenges, Tesla's stock saw a rise of about 4% in April, outperforming the S&P 500, and there are discussions about the company's strategy to produce more affordable electric vehicles by early 2025.
+
+On the other hand, Meta is facing scrutiny over its advertising practices, particularly regarding explicit ads for AI chatbots on its platforms. The company is also rolling out new AI tools in the EU, despite previous regulatory issues. Analysts are optimistic about Meta's stock potential, predicting a significant increase in value. Additionally, Meta has introduced new AI models and chips, enhancing its capabilities in the tech landscape.
+
+Overall, the tech sector is experiencing a mix of challenges and opportunities, with companies like Tesla and Meta navigating significant changes while also looking to innovate and expand their market presence. The ongoing developments in AI and electric vehicles are particularly noteworthy as they shape the future of these companies and the industry at large.
+        The text provides a comprehensive overview of recent developments concerning Alphabet Inc. (GOOGL), including significant financial updates and strategic moves within the tech industry. 
+
+On May 1, 2024, it was reported that a billionaire fund manager is making substantial investments in Alphabet, indicating confidence in the company's future performance. Notably, court documents revealed that Alphabet paid Apple $20 billion in 2022 to maintain its status as the default search engine on Safari, highlighting the financial dynamics between these tech giants.
+
+Alphabet's Q1 2024 earnings report showed a remarkable revenue increase of 15%, reaching $80.5 billion, which contributed to a surge in its market capitalization, surpassing $2 trillion. This growth is attributed to advancements in Google Search and artificial intelligence (AI) initiatives. The company is also experiencing workforce changes, with reports of layoffs affecting hundreds of employees, reflecting ongoing adjustments in response to market conditions.
+
+Third Point LLC, an investment firm, has increased its stakes in Alphabet and Taiwan Semiconductor Manufacturing Company (TSMC), driven by the potential of AI technologies. The firm’s CEO, Daniel Loeb, emphasized Alphabet's competitive edge in leveraging AI for product enhancement and monetization.
+
+Additionally, the text mentions the launch of Anthropic's business chatbot, backed by Alphabet, which aims to capture corporate market share in AI solutions. The competitive landscape is further illustrated by the significant investments made by major tech companies like Amazon, Google, Meta, and Microsoft in AI capabilities, although the returns on these investments may take time to materialize.
+
+Overall, Alphabet is positioned as a key player in the tech sector, with strong growth prospects fueled by AI advancements and strategic partnerships.
+
+    Now, tell me I should buy/sell/hold NASDAQ QQQ tomorrow, in one word (buy/sell/hold). Your response must be one word only: buy/sell/hold.

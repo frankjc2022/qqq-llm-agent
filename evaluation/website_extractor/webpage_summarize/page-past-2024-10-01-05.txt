@@ -1,0 +1,13 @@
+The text discusses recent developments and insights regarding major tech companies, particularly focusing on Alphabet Inc. (GOOGL) and Microsoft. 
+
+Jason Browne, president of Alexis Investment Partners, highlights the current volatility in the Nasdaq index and suggests that this may present a buying opportunity for investors. He emphasizes the importance of focusing on companies with strong balance sheets and consistent earnings, especially in a potentially slower growth environment. Browne notes that his firm has been strategically buying into tech stocks during recent pullbacks, utilizing exchange-traded funds (ETFs) that are heavily weighted in large-cap tech, such as the iShares Global 100 ETF and Vanguard Growth ETF.
+
+Microsoft has introduced Bing generative search, aiming to compete with Google’s AI-powered search capabilities. This new feature is designed to enhance user experience by providing more intuitive search results for informational queries.
+
+In the realm of autonomous vehicles, Google’s Waymo is reportedly offering over 100,000 safe robotaxi trips weekly, with costs decreasing, indicating progress in the autonomous transport sector. 
+
+Additionally, former OpenAI VP Zoph is planning a new startup, which could pose a challenge to OpenAI's talent pool. Mark Cuban has expressed skepticism about the current capabilities of AI, suggesting that it still has limitations compared to human intelligence.
+
+Epic Games has initiated a lawsuit against Google and Samsung, alleging antitrust violations related to competition on Samsung devices, marking a significant legal challenge for these tech giants.
+
+Overall, the text reflects a dynamic landscape in the tech industry, characterized by investment strategies, competitive innovations, and ongoing legal battles.

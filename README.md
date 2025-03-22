@@ -113,11 +113,11 @@ Note: the **decision** (buy/sell/hold) and **analysis** (30-word summary) may no
 
 <td align="center">
 <strong>Gemini 2.0 Flash</strong><br>
-<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20gemini-2.0-flash%20Action.html" target="_blank">
+<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20emini-2.0-flash%20Action.html" target="_blank">
 <img src="assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20gemini-2.0-flash%20Action.png" width="400"/>
 </a><br>
 <sub>More erratic behavior under similar market conditions.</sub><br>
-<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20gemini-2.0-flash%20Action.html" target="_blank"><strong>View Interactive Chart</strong></a>
+<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20emini-2.0-flash%20Action.html" target="_blank"><strong>View Interactive Chart</strong></a>
 </td>
 
 </tr>

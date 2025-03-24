@@ -50,6 +50,8 @@ Note: the **decision** (buy/sell/hold) and **analysis** (30-word summary) may no
 
 </div>
 
+For details on how this system works—including prompt design, setup, and evaluation—see the sections below.
+
 ## Introduction
 
 This project explores a zero-shot LLM-based trading agent for QQQ stock, developed as part of a graduate-level course project. The agent uses structured prompts with real-time market sentiment extracted from financial news to generate either short analyses or trading decisions. Prompts are executed on a professor-hosted server, which handles all dynamic input substitution and summarization through a custom web extractor.

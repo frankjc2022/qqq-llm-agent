@@ -14,7 +14,41 @@
 </div>
 
 
+## Interactive Charts
 
+Compare how ChatGPT-4o and Gemini 2.0 Flash responded to the same prompts and news context.  
+Each chart shows model-generated trading decisions over the most recent 30 trading days, along with annotated buy/sell actions.
+
+👉 **Click the images or links below** to view full interactive charts, including the analysis and decision for each trading day.  
+Note: the **decision** (buy/sell/hold) and **analysis** (30-word summary) may not always match because they were generated using **separate prompts** for each mode.
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<strong>ChatGPT-4o</strong><br>
+<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20ChatGPT-4o%20Action.html" target="_blank">
+<img src="assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20ChatGPT-4o%20Action.png" width="400"/>
+</a><br>
+<sub>Consistent and conservative actions over 30 trading days.</sub><br>
+<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20ChatGPT-4o%20Action.html" target="_blank"><strong>View Interactive Chart</strong></a>
+</td>
+
+<td align="center">
+<strong>Gemini 2.0 Flash</strong><br>
+<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20emini-2.0-flash%20Action.html" target="_blank">
+<img src="assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20gemini-2.0-flash%20Action.png" width="400"/>
+</a><br>
+<sub>More erratic behavior under similar market conditions.</sub><br>
+<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20emini-2.0-flash%20Action.html" target="_blank"><strong>View Interactive Chart</strong></a>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ## Introduction
 
@@ -88,43 +122,6 @@ injection_attacks/                       # Webpages and summaries used for injec
 ```
 
 All scripts for webpage generation, prompt construction, and evaluation are included. However, full end-to-end reproduction is not guaranteed, as prompt execution and summarization depend on the server-controlled components.
-
-## Interactive Charts
-
-Compare how ChatGPT-4o and Gemini 2.0 Flash responded to the same prompts and news context.  
-Each chart shows model-generated trading decisions over the most recent 30 trading days, along with annotated buy/sell actions.
-
-👉 **Click the images or links below** to view full interactive charts, including the analysis and decision for each trading day.  
-Note: the **decision** (buy/sell/hold) and **analysis** (30-word summary) may not always match because they were generated using **separate prompts** for each mode.
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<strong>ChatGPT-4o</strong><br>
-<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20ChatGPT-4o%20Action.html" target="_blank">
-<img src="assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20ChatGPT-4o%20Action.png" width="400"/>
-</a><br>
-<sub>Consistent and conservative actions over 30 trading days.</sub><br>
-<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20ChatGPT-4o%20Action.html" target="_blank"><strong>View Interactive Chart</strong></a>
-</td>
-
-<td align="center">
-<strong>Gemini 2.0 Flash</strong><br>
-<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20emini-2.0-flash%20Action.html" target="_blank">
-<img src="assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20gemini-2.0-flash%20Action.png" width="400"/>
-</a><br>
-<sub>More erratic behavior under similar market conditions.</sub><br>
-<a href="https://frankjc2022.github.io/qqq-llm-agent/assets/QQQ%20Stock%20Price%20(Opening%20Values)%20-%20emini-2.0-flash%20Action.html" target="_blank"><strong>View Interactive Chart</strong></a>
-</td>
-
-</tr>
-</table>
-
-</div>
-
 
 ## Injection Attack Demonstration
 
